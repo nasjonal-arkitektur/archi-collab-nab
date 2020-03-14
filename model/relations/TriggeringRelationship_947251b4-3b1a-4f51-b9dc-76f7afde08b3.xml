@@ -1,7 +1,7 @@
 <archimate:TriggeringRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="leder til"
+    name="trigger"
     id="947251b4-3b1a-4f51-b9dc-76f7afde08b3">
   <properties
       key="difi:metaLevel"

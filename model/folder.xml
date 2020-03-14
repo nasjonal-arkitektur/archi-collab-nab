@@ -13,4 +13,10 @@
   <properties
       key="difi:docRootPath"
       value="C:\github\digdir\nasjonal_arkitektur"/>
+  <properties
+      key="must replace icons in tree"
+      value="yes"/>
+  <properties
+      key="must replace icons in views"
+      value="yes"/>
 </archimate:ArchimateModel>
