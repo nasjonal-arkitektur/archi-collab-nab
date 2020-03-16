@@ -313,4 +313,8 @@
   <properties
       key="difi:docViewPath"
       value="nab_referanse_arkitekturer_emelding"/>
+  <properties
+      key="difi:antoraViewPath"/>
+  <properties
+      key="difi:antoraViewImagePath"/>
 </archimate:ArchimateDiagramModel>

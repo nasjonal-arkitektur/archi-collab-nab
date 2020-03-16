@@ -441,4 +441,20 @@
         xsi:type="archimate:BusinessInteraction"
         href="BusinessInteraction_67933080-b713-40c3-9b20-bf6c41f797d0.xml#67933080-b713-40c3-9b20-bf6c41f797d0"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="*** Gammel *** Ende-til-ende verdistrøm, deling av data (copy)"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:antoraViewPath"/>
+  <properties
+      key="difi:antoraViewImagePath"/>
 </archimate:ArchimateDiagramModel>

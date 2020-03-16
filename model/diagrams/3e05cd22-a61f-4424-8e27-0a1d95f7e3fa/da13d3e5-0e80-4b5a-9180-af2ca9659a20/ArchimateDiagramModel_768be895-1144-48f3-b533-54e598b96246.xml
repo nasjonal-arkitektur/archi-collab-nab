@@ -62,4 +62,20 @@
         xsi:type="archimate:Requirement"
         href="Requirement_8c202bc7-5ba7-48eb-80e7-b66ed889b8d9.xml#8c202bc7-5ba7-48eb-80e7-b66ed889b8d9"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Samhandlingsavtaler"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:antoraViewPath"/>
+  <properties
+      key="difi:antoraViewImagePath"/>
 </archimate:ArchimateDiagramModel>

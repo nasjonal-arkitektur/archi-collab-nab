@@ -272,4 +272,8 @@
   <properties
       key="difi:docViewPath"
       value="nab_referanse_arkitekturer_datautveksling_forsendelse"/>
+  <properties
+      key="difi:antoraViewPath"/>
+  <properties
+      key="difi:antoraViewImagePath"/>
 </archimate:ArchimateDiagramModel>

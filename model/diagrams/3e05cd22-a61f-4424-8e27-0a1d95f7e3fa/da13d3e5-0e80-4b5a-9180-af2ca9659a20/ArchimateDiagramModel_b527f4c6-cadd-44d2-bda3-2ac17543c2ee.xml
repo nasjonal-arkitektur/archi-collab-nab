@@ -123,4 +123,20 @@
         xsi:type="archimate:Resource"
         href="Resource_2458989e-392b-4a53-969d-0ac79d54e746.xml#2458989e-392b-4a53-969d-0ac79d54e746"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Første kladd på kapabilitetskart"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:antoraViewPath"/>
+  <properties
+      key="difi:antoraViewImagePath"/>
 </archimate:ArchimateDiagramModel>

@@ -131,4 +131,8 @@
   <properties
       key="difi:docViewPath"
       value="nab_overordnet-metode"/>
+  <properties
+      key="difi:antoraViewPath"/>
+  <properties
+      key="difi:antoraViewImagePath"/>
 </archimate:ArchimateDiagramModel>

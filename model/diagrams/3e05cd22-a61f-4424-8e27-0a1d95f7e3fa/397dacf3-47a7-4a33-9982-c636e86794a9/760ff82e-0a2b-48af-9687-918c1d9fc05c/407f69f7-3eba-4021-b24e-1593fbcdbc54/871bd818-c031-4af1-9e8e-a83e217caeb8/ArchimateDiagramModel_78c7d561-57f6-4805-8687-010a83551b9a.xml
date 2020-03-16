@@ -1,4 +1,21 @@
 <archimate:ArchimateDiagramModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Request-Response Pattern"
-    id="78c7d561-57f6-4805-8687-010a83551b9a"/>
+    id="78c7d561-57f6-4805-8687-010a83551b9a">
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Request-Response Pattern"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:antoraViewPath"/>
+  <properties
+      key="difi:antoraViewImagePath"/>
+</archimate:ArchimateDiagramModel>

@@ -395,4 +395,8 @@
       key="difi:description_en"/>
   <properties
       key="difi:docViewPath"/>
+  <properties
+      key="difi:antoraViewPath"/>
+  <properties
+      key="difi:antoraViewImagePath"/>
 </archimate:ArchimateDiagramModel>

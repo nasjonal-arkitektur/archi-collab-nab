@@ -264,4 +264,8 @@
   <properties
       key="difi:docViewPath"
       value="nab_arkitekturlandskap_segmentarkitektur_datadeling_roller"/>
+  <properties
+      key="difi:antoraViewPath"/>
+  <properties
+      key="difi:antoraViewImagePath"/>
 </archimate:ArchimateDiagramModel>

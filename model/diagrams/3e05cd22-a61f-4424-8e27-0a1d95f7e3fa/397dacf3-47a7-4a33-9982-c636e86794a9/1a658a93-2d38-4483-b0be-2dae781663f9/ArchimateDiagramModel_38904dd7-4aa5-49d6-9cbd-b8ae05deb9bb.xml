@@ -99,4 +99,20 @@
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_fc38acbe-f202-454b-977e-29413f486f53.xml#fc38acbe-f202-454b-977e-29413f486f53"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Inngangsport - deling av data"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:antoraViewPath"/>
+  <properties
+      key="difi:antoraViewImagePath"/>
 </archimate:ArchimateDiagramModel>

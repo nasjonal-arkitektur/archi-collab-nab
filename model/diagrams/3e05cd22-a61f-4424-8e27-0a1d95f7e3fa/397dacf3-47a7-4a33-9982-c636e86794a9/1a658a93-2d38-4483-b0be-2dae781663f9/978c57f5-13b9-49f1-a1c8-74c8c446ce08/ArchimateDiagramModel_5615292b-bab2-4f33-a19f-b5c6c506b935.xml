@@ -350,4 +350,20 @@
         xsi:type="archimate:ValueStream"
         href="ValueStream_d233406e-155a-486f-85bf-b90532646809.xml#d233406e-155a-486f-85bf-b90532646809"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Brukstilfeller for datautveksling (Erik)"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:antoraViewPath"/>
+  <properties
+      key="difi:antoraViewImagePath"/>
 </archimate:ArchimateDiagramModel>

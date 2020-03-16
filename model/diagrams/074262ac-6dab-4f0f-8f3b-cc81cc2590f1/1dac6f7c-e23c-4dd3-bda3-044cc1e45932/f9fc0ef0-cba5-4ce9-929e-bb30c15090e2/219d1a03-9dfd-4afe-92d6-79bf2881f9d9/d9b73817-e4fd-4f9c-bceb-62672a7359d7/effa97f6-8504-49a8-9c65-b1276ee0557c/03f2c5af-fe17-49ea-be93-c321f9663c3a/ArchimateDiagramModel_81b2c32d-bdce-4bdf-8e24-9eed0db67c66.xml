@@ -235,4 +235,20 @@
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_ac1c6456-2123-4f59-bbcb-5c78eecf55ce.xml#ac1c6456-2123-4f59-bbcb-5c78eecf55ce"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Representasjonsforhold"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:antoraViewPath"/>
+  <properties
+      key="difi:antoraViewImagePath"/>
 </archimate:ArchimateDiagramModel>

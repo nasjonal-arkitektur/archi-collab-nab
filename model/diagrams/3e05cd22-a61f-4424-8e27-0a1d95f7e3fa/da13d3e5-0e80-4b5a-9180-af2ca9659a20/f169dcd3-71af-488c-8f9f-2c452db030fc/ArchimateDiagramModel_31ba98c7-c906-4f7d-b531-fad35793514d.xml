@@ -39,4 +39,20 @@
         xsi:type="archimate:Assessment"
         href="Assessment_4a92f8bc-f54f-434d-a520-ca5387ba3f9e.xml#4a92f8bc-f54f-434d-a520-ca5387ba3f9e"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Assessments"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:antoraViewPath"/>
+  <properties
+      key="difi:antoraViewImagePath"/>
 </archimate:ArchimateDiagramModel>

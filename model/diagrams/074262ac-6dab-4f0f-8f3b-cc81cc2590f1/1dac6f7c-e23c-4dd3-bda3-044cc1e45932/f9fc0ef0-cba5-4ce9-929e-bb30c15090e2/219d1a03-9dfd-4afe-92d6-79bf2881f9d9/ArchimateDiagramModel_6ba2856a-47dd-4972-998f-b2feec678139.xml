@@ -378,4 +378,8 @@
   <properties
       key="difi:docViewPath"
       value="nab_arkitekturlandskap_segmentarkitektur_informasjonsforvaltning"/>
+  <properties
+      key="difi:antoraViewPath"/>
+  <properties
+      key="difi:antoraViewImagePath"/>
 </archimate:ArchimateDiagramModel>

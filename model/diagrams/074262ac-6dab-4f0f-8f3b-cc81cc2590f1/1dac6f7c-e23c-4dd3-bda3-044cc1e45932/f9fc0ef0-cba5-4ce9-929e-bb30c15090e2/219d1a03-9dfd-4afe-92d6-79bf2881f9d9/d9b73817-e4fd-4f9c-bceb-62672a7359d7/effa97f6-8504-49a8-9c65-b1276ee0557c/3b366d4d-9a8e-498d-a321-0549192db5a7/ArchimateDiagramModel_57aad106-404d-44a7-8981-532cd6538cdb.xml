@@ -396,4 +396,20 @@
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_b97457e0-de9a-4d89-9e26-e1801c16d727.xml#b97457e0-de9a-4d89-9e26-e1801c16d727"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Roller involvert i datautveksling"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:antoraViewPath"/>
+  <properties
+      key="difi:antoraViewImagePath"/>
 </archimate:ArchimateDiagramModel>

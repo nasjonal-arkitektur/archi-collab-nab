@@ -19,4 +19,7 @@
   <properties
       key="must replace icons in views"
       value="yes"/>
+  <properties
+      key="difi:antoraComponentsPath"
+      value="C:\gitlab\digdir\components"/>
 </archimate:ArchimateModel>

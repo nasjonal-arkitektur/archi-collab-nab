@@ -299,4 +299,20 @@
         xsi:type="archimate:Capability"
         href="Capability_9d8bfc8c-c794-41aa-96b5-47f05ea76b35.xml#9d8bfc8c-c794-41aa-96b5-47f05ea76b35"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Nivå 0"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:antoraViewPath"/>
+  <properties
+      key="difi:antoraViewImagePath"/>
 </archimate:ArchimateDiagramModel>

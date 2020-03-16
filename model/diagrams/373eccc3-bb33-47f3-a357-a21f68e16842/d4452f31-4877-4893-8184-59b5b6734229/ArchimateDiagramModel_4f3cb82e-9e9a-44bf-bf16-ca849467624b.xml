@@ -799,4 +799,21 @@
           href="BusinessObject_1f1306c9-e71a-4019-8ab5-aed4bf6f7f0f.xml#1f1306c9-e71a-4019-8ab5-aed4bf6f7f0f"/>
     </children>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Masterdata - med eksempler på kapabiliteter og løsninger"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="Eksemplene er ikke uttæmmende"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:antoraViewPath"/>
+  <properties
+      key="difi:antoraViewImagePath"/>
 </archimate:ArchimateDiagramModel>

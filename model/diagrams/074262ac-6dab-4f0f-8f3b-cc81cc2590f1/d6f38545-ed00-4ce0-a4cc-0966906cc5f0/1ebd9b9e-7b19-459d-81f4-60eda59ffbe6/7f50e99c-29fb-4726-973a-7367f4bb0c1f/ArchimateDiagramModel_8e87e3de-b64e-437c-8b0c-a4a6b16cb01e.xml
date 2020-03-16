@@ -550,4 +550,8 @@
   <properties
       key="difi:docViewPath"
       value="nab_referanse_modelleringskonvensjoner"/>
+  <properties
+      key="difi:antoraViewPath"/>
+  <properties
+      key="difi:antoraViewImagePath"/>
 </archimate:ArchimateDiagramModel>

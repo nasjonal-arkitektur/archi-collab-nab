@@ -268,4 +268,20 @@
         xsi:type="archimate:Grouping"
         href="Grouping_f67b9c51-cce2-42f0-8abf-61696a2d037d.xml#f67b9c51-cce2-42f0-8abf-61696a2d037d"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Publisering - konsept"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:antoraViewPath"/>
+  <properties
+      key="difi:antoraViewImagePath"/>
 </archimate:ArchimateDiagramModel>

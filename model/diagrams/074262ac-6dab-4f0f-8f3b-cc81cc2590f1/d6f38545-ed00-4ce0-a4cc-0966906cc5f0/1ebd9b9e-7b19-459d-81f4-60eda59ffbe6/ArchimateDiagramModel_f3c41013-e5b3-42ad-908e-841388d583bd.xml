@@ -87,4 +87,20 @@
         xsi:type="archimate:ArchimateDiagramModel"
         href="ArchimateDiagramModel_56d0ced5-6d87-46a0-9ff4-c08f72150bf9.xml#56d0ced5-6d87-46a0-9ff4-c08f72150bf9"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Inngangsport - metamodeller"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:antoraViewPath"/>
+  <properties
+      key="difi:antoraViewImagePath"/>
 </archimate:ArchimateDiagramModel>

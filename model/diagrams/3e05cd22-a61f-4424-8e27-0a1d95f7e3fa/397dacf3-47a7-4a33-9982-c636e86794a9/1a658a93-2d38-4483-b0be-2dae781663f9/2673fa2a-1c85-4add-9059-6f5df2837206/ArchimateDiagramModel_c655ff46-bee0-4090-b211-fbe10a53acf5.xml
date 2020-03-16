@@ -2,12 +2,16 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Del og innhent data og hendelser - overordnet verdistrøm"
-    id="c655ff46-bee0-4090-b211-fbe10a53acf5">
+    id="c655ff46-bee0-4090-b211-fbe10a53acf5"
+    documentation="Del og innhent data og hendelser ....">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="5cfc4635-3fb7-4f69-ba08-dbc15b091b69"
       font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1">
+    <features
+        name="gradient"
+        value="1"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="d6c53497-3510-4491-951d-2d492921d4f3"
@@ -30,6 +34,9 @@
         textAlignment="1"
         fillColor="#feeed8"
         type="1">
+      <features
+          name="gradient"
+          value="1"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="fb0f4478-23b1-4c72-bf0f-c0ae2819088d"
@@ -86,6 +93,9 @@
           targetConnections="fb0f4478-23b1-4c72-bf0f-c0ae2819088d e30dd011-6634-4019-a4d2-8d434e77b369"
           textPosition="1"
           type="1">
+        <features
+            name="gradient"
+            value="1"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="6edc4806-8279-4438-909c-2dc74fac25e7"
@@ -144,6 +154,9 @@
           targetConnections="72a18283-2280-49dd-bb01-368ef48e58a3 5a748aa2-2e99-443e-8b5a-185f90e06830 839bc312-7e93-437c-b41d-bec391e24c07 0148aef4-20a1-4c9e-a178-875b73b80d99"
           textPosition="1"
           type="1">
+        <features
+            name="gradient"
+            value="1"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="d8914c5e-20c2-40ac-9725-b0e944853d67"
@@ -189,6 +202,9 @@
           targetConnections="7b0c8094-1ffd-4002-a167-71d3a1788a0d b483d660-30e5-48b6-bafc-5bef05fa6fe5 09d31c22-24e8-4d52-9d8a-79a032ed587c"
           textPosition="1"
           type="1">
+        <features
+            name="gradient"
+            value="1"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="9d8f9067-741e-4643-95c5-9be035bc4d77"
@@ -223,6 +239,9 @@
           targetConnections="bbb3eb83-89c7-46db-b8fd-a245da41251e 7fca59ea-99c2-48af-b9dd-31700cc8d34c ed3c7d44-a1ca-42c7-ad12-dfb2c40b62bd"
           textPosition="1"
           type="1">
+        <features
+            name="gradient"
+            value="1"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="b483d660-30e5-48b6-bafc-5bef05fa6fe5"
@@ -248,6 +267,9 @@
           targetConnections="06d1975f-edef-4855-b7e6-cc1d285deb4b"
           textPosition="1"
           type="1">
+        <features
+            name="gradient"
+            value="1"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="e30dd011-6634-4019-a4d2-8d434e77b369"
@@ -280,6 +302,9 @@
       id="b17cd40e-da5c-4b66-9e92-02ba741f3c09"
       font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1">
+    <features
+        name="gradient"
+        value="1"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="b64fec3a-80f1-490e-979a-c3c3ac5ecb29"
@@ -302,6 +327,9 @@
         textAlignment="1"
         fillColor="#feeed8"
         type="1">
+      <features
+          name="gradient"
+          value="1"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="d2ad9a35-e35b-476b-a8d2-0f782aff66e1"
@@ -358,6 +386,9 @@
           targetConnections="6edc4806-8279-4438-909c-2dc74fac25e7 d2ad9a35-e35b-476b-a8d2-0f782aff66e1 6a5436e4-5547-4f16-8bc3-4bdc78c0c03f"
           textPosition="1"
           type="1">
+        <features
+            name="gradient"
+            value="1"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="17cc1f90-cc4d-4a88-8286-5492efab4a99"
@@ -401,6 +432,9 @@
           targetConnections="a74acb60-43b9-4da3-8a1f-a24b074fda61 17cc1f90-cc4d-4a88-8286-5492efab4a99"
           textPosition="1"
           type="1">
+        <features
+            name="gradient"
+            value="1"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="ed3c7d44-a1ca-42c7-ad12-dfb2c40b62bd"
@@ -436,6 +470,9 @@
           targetConnections="d8914c5e-20c2-40ac-9725-b0e944853d67 96ab7dee-f602-4ad9-903f-b792c537c926 e993e097-432a-4d28-8c79-43435bae0524 68d12d41-961e-4a0f-b918-9c16dbf9bf79 23db30c9-4cb2-455c-9714-305391d3c115"
           textPosition="1"
           type="1">
+        <features
+            name="gradient"
+            value="1"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="0148aef4-20a1-4c9e-a178-875b73b80d99"
@@ -461,6 +498,9 @@
           targetConnections="9d8f9067-741e-4643-95c5-9be035bc4d77 65e7b48b-877e-4cb1-b444-8c9e080e7716 68d250d5-2bb6-40de-b15b-f120b5a4b8c7"
           textPosition="1"
           type="1">
+        <features
+            name="gradient"
+            value="1"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="23db30c9-4cb2-455c-9714-305391d3c115"
@@ -500,6 +540,9 @@
           targetConnections="f0e81287-3cfd-4405-b76d-0eb2ba94b5ac"
           textPosition="1"
           type="1">
+        <features
+            name="gradient"
+            value="1"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="6a5436e4-5547-4f16-8bc3-4bdc78c0c03f"
@@ -542,4 +585,10 @@
   <properties
       key="difi:docViewPath"
       value="nab_arkitekturlandskap_segmentarkitektur_datadeling_verdistrømmer"/>
+  <properties
+      key="difi:antoraViewPath"
+      value="architecture-repository\docs\architecture-landscape\segment-architectures\modules\data-sharing\pages\data-sharing-value-streams"/>
+  <properties
+      key="difi:antoraViewImagePath"
+      value="architecture-repository\docs\architecture-landscape\segment-architectures\modules\data-sharing\images"/>
 </archimate:ArchimateDiagramModel>

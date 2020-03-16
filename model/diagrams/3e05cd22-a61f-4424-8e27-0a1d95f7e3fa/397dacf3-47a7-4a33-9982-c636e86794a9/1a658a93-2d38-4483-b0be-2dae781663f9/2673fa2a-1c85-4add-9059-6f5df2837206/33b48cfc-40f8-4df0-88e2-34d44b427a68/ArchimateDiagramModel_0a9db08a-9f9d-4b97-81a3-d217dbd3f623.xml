@@ -579,4 +579,20 @@
         xsi:type="archimate:BusinessEvent"
         href="BusinessEvent_e7997bee-c01e-4f01-8fda-c841f6a23d9f.xml#e7997bee-c01e-4f01-8fda-c841f6a23d9f"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="GAMMEL Ende-til-ende verdistrøm, deling av data"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:antoraViewPath"/>
+  <properties
+      key="difi:antoraViewImagePath"/>
 </archimate:ArchimateDiagramModel>
