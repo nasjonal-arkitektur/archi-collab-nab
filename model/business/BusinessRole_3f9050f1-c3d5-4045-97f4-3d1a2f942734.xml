@@ -1,0 +1,40 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datatilbyder"
+    id="3f9050f1-c3d5-4045-97f4-3d1a2f942734"
+    documentation="Tilbyder av data til andre aktører.">
+  <properties
+      key="dct:type"
+      value="archi:business-role"/>
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Datatilbyder"/>
+  <properties
+      key="difi:name_en"
+      value="Data Provider"/>
+  <properties
+      key="difi:description_no"
+      value="Tilbyder av data til andre aktører."/>
+  <properties
+      key="difi:description_en"
+      value="Tilbyder av data til andre aktører."/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}]"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:BibliographicResource"/>
+</archimate:BusinessRole>

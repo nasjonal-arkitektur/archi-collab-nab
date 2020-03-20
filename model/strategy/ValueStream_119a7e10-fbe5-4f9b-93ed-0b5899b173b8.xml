@@ -1,0 +1,38 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Del data (operativt)"
+    id="119a7e10-fbe5-4f9b-93ed-0b5899b173b8"
+    documentation="&quot;Del data (operativt)&quot; handler om utveksling av data gjennom etablerte kanaler og iht. avtaler. Dette forutsetter også håndtering av avvik og ikke-tilsiktede hendelser.&#xD;&#xA;">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:value-stream"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Del data (operativt)"/>
+  <properties
+      key="difi:name_en"
+      value="Del data (operativt)"/>
+  <properties
+      key="difi:description_no"
+      value="&quot;Del data (operativt)&quot; handler om utveksling av data gjennom etablerte kanaler og iht. avtaler. Dette forutsetter også håndtering av avvik og ikke-tilsiktede hendelser.&#xD;&#xA;"/>
+  <properties
+      key="difi:description_en"
+      value="&quot;Del data (operativt)&quot; handler om utveksling av data gjennom etablerte kanaler og iht. avtaler. Dette forutsetter også håndtering av avvik og ikke-tilsiktede hendelser.&#xD;&#xA;"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:ValueStream>

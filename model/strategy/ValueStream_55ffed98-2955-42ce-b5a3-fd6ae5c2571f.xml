@@ -1,0 +1,38 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sett opp avtaler, IT-løsninger og tilganger mot aktuelle konsumenter"
+    id="55ffed98-2955-42ce-b5a3-fd6ae5c2571f"
+    documentation="&quot;Sett opp avtaler, IT-løsninger og tilganger mot aktuelle konsumenter&quot; handler om å etablere, integrere og konfigurere avtaler og it-løsninger mellom partene så alt er klart for at data kan utveksles. &#xD;&#xA;&#xD;&#xA;Merk: Tilgangsstyring må settes opp i sammenheng med, eller etter, utvikling eller oppsett av løsninger.">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:value-stream"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Sett opp avtaler, IT-løsninger og tilganger mot aktuelle konsumenter"/>
+  <properties
+      key="difi:name_en"
+      value="Sett opp avtaler, IT-løsninger og tilganger mot aktuelle konsumenter"/>
+  <properties
+      key="difi:description_no"
+      value="&quot;Sett opp avtaler, IT-løsninger og tilganger mot aktuelle konsumenter&quot; handler om å etablere, integrere og konfigurere avtaler og it-løsninger mellom partene så alt er klart for at data kan utveksles. &#xD;&#xA;&#xD;&#xA;Merk: Tilgangsstyring må settes opp i sammenheng med, eller etter, utvikling eller oppsett av løsninger."/>
+  <properties
+      key="difi:description_en"
+      value="&quot;Sett opp avtaler, IT-løsninger og tilganger mot aktuelle konsumenter&quot; handler om å etablere, integrere og konfigurere avtaler og it-løsninger mellom partene så alt er klart for at data kan utveksles. &#xD;&#xA;&#xD;&#xA;Merk: Tilgangsstyring må settes opp i sammenheng med, eller etter, utvikling eller oppsett av løsninger."/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:ValueStream>

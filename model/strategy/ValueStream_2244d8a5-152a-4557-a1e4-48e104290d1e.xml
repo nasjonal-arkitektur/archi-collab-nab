@@ -1,0 +1,38 @@
+<archimate:ValueStream
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Oppdag data og datakilder"
+    id="2244d8a5-152a-4557-a1e4-48e104290d1e"
+    documentation="Oppslag i kataloger, søk i åpne data, søk i lukkede data">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:value-stream"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Oppdag data og datakilder"/>
+  <properties
+      key="difi:name_en"
+      value="Discover data and data sources"/>
+  <properties
+      key="difi:description_no"
+      value="Oppslag i kataloger, søk i åpne data, søk i lukkede data"/>
+  <properties
+      key="difi:description_en"
+      value="Oppslag ikataloger, søk i åpne data, søk i lukkede data"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:ValueStream>
