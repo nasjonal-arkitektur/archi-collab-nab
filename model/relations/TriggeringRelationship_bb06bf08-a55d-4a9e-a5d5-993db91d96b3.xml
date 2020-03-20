@@ -1,0 +1,42 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="standardløsniger og/eller åpne data"
+    id="bb06bf08-a55d-4a9e-a5d5-993db91d96b3">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:triggering-relationship"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="standardløsniger og/eller åpne data"/>
+  <properties
+      key="difi:name_en"
+      value="generic solution"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+  <source
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_cd09c731-dc77-4746-998b-0919cb320fac.xml#cd09c731-dc77-4746-998b-0919cb320fac"/>
+  <target
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_119a7e10-fbe5-4f9b-93ed-0b5899b173b8.xml#119a7e10-fbe5-4f9b-93ed-0b5899b173b8"/>
+</archimate:TriggeringRelationship>

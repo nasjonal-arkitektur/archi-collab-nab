@@ -1,8 +1,7 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ta rede på egne data og ansvar for å dele data"
-    id="5cfefe08-dff1-4c75-a578-6529c3522668"
-    documentation="&quot;Ta rede på egne data og ansvar for å dele data&quot; handler om å ha oversikt over og forvalte egne data. Virksomheten må også være bevist ansvaret for å dele data og ha informasjonsforvaltningsrutiner som støtter opp om deling.&#xD;&#xA;&#xD;&#xA;Erik: &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+    name="Etabler avtaler og IT-løsninger mot aktuelle tilbydere"
+    id="0479e8b2-bb15-418f-9e18-6b4e72a0d441">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
@@ -20,9 +19,10 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Ta rede på egne data og ansvar for å dele data"/>
+      value="Etabler avtaler og IT-løsninger mot aktuelle tilbydere"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Establish Custom Agreements and Solutions"/>
   <properties
       key="difi:description_no"/>
   <properties

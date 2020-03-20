@@ -1,0 +1,40 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Datakonsument"
+    id="56436773-c2d2-4f37-9adb-b4d0593f79ff"
+    documentation="Den som innhenter eller mottar data fra andre aktører.">
+  <properties
+      key="dct:type"
+      value="archi:business-role"/>
+  <properties
+      key="difi:namespace"
+      value="toopra"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Datakonsument"/>
+  <properties
+      key="difi:name_en"
+      value="Data Consumer"/>
+  <properties
+      key="difi:description_no"
+      value="Den som innhenter eller mottar data fra andre aktører."/>
+  <properties
+      key="difi:description_en"
+      value="Den som innhenter eller mottar data fra andre aktører."/>
+  <properties
+      key="label"
+      value="${name} [ns:${property:difi:namespace}]"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:BibliographicResource"/>
+</archimate:BusinessRole>

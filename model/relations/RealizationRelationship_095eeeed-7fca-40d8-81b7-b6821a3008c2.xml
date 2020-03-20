@@ -1,14 +1,13 @@
-<archimate:ValueStream
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ta rede på egne data og ansvar for å dele data"
-    id="5cfefe08-dff1-4c75-a578-6529c3522668"
-    documentation="&quot;Ta rede på egne data og ansvar for å dele data&quot; handler om å ha oversikt over og forvalte egne data. Virksomheten må også være bevist ansvaret for å dele data og ha informasjonsforvaltningsrutiner som støtter opp om deling.&#xD;&#xA;&#xD;&#xA;Erik: &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+    id="095eeeed-7fca-40d8-81b7-b6821a3008c2">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
   <properties
       key="dct:type"
-      value="archi:value-stream"/>
+      value="archi:realization-relationship"/>
   <properties
       key="difi:namespace"
       value="-"/>
@@ -19,8 +18,7 @@
       key="difi:language"
       value="no"/>
   <properties
-      key="difi:name_no"
-      value="Ta rede på egne data og ansvar for å dele data"/>
+      key="difi:name_no"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -32,4 +30,10 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
-</archimate:ValueStream>
+  <source
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_56436773-c2d2-4f37-9adb-b4d0593f79ff.xml#56436773-c2d2-4f37-9adb-b4d0593f79ff"/>
+  <target
+      xsi:type="archimate:ValueStream"
+      href="ValueStream_34b59ea5-3b75-4a8c-973b-6f57b5835b43.xml#34b59ea5-3b75-4a8c-973b-6f57b5835b43"/>
+</archimate:RealizationRelationship>
