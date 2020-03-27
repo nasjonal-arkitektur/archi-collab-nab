@@ -28,6 +28,8 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:notes"/>
   <source
       xsi:type="archimate:Artifact"
       href="Artifact_4a8dd68a-bb33-4fb1-b020-90d5568d977b.xml#4a8dd68a-bb33-4fb1-b020-90d5568d977b"/>

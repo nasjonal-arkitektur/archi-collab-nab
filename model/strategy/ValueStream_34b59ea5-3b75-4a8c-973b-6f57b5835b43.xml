@@ -1,6 +1,6 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Innhent og motta data  -  fra strategi til forvaltning"
+    name="Innhent og motta data "
     id="34b59ea5-3b75-4a8c-973b-6f57b5835b43"
     documentation="&#xD;&#xA;Also see:&#xD;&#xA;&#xD;&#xA;https://www.firstsanfranciscopartners.com/blog/defining-data-acquisition-importance/?cn-reloaded=1[Defining Data Acquisition and Why it Matters]&#xD;&#xA;&#xD;&#xA;. A need for data is identified, perhaps with use cases&#xD;&#xA;. Prospecting for the required data is carried out&#xD;&#xA;. Data sources are disqualified, leaving a set of qualified sources&#xD;&#xA;. Vendors providing the sources are contacted and legal agreements entered into for evaluation&#xD;&#xA;. Sample data sets are provided for evaluation&#xD;&#xA;. Semantic analysis of the data sets is undertaken, so they are adequately understood&#xD;&#xA;. The data sets are evaluated against originally established use cases&#xD;&#xA;. Legal, privacy and compliance issues are understood, particularly with respect to permitted use of data&#xD;&#xA;. Vendor negotiations occur to purchase the data Implementation specifications are drawn up, usually involving Data Operations who will be responsible for production processes&#xD;&#xA;. Source onboarding occurs, such that ingestion is technically accomplished&#xD;&#xA;. Production ingest is undertaken&#xD;&#xA;">
   <properties

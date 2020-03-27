@@ -10,7 +10,8 @@
       key="difi:name_no"
       value="Sende data"/>
   <properties
-      key="difi:description_no"/>
+      key="difi:description_no"
+      value="Evnen til å sende data til en mottaker."/>
   <properties
       key="difi:name_en"/>
   <properties

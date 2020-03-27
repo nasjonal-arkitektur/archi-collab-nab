@@ -19,7 +19,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Datamodell"/>
+      value="Endringslogg"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -29,4 +29,6 @@
   <properties
       key="label"
       value="${name}"/>
+  <properties
+      key="difi:notes"/>
 </archimate:DataObject>

@@ -27,7 +27,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Data"/>
+      value="Dataobjekt"/>
   <properties
       key="difi:name_en"
       value="Data"/>
@@ -38,7 +38,7 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name} [lang:]"/>
+      value="${name}"/>
   <properties
       key="difi:abstractionLevel"
       value="abb"/>

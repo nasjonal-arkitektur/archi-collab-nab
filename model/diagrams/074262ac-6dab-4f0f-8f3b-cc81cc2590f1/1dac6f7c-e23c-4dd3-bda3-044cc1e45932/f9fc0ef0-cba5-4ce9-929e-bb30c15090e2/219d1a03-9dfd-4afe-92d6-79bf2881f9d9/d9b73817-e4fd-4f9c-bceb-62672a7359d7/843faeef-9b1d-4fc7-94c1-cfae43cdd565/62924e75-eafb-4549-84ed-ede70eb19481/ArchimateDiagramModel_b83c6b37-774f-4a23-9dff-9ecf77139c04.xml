@@ -10,6 +10,9 @@
       textAlignment="1"
       fillColor="#eaffff"
       type="1">
+    <features
+        name="gradient"
+        value="1"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="7e5c8fa9-39cc-49d9-b827-37f948f3d9b7"
@@ -74,6 +77,9 @@
         id="1d219238-9dca-4a68-94d5-1fff1c8a4b15"
         targetConnections="d49ad2ce-280c-4adb-bac0-038cf5cb006a 15dcd589-6c9e-42f6-9314-9b906ae09634"
         textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="f649206c-455d-4e69-90ac-cd16e48e969a"
@@ -107,6 +113,9 @@
         id="158beb52-0205-445c-8cc5-b974e5283eb2"
         targetConnections="7e5c8fa9-39cc-49d9-b827-37f948f3d9b7 167006b2-8a65-4fd4-aae0-41c4e4746313 0e2e5f16-719d-4e6c-9bd9-339d8e53eee1 248ed6fa-5bb4-4227-b61c-40c395e92f83 ccfb29e8-4e09-421c-985c-cb92ff8696ca f649206c-455d-4e69-90ac-cd16e48e969a 67139761-bdf9-4f0e-8ea1-abcca3c558b3 94b5cb78-64fe-420f-9cdc-526808a920ad"
         textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="167006b2-8a65-4fd4-aae0-41c4e4746313"
@@ -179,6 +188,9 @@
         id="6598a962-ed93-40e5-a306-74d0c16b0058"
         targetConnections="0030c75d-3e70-4171-994c-8a3d3d2ca392"
         textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="ccfb29e8-4e09-421c-985c-cb92ff8696ca"
@@ -221,6 +233,9 @@
         id="d243dac2-0f8f-4616-8030-a2a8d56e75c8"
         targetConnections="410a3701-8db8-40f1-9e9e-f0004c61985e"
         textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="94b5cb78-64fe-420f-9cdc-526808a920ad"
@@ -254,6 +269,9 @@
         id="d6dc4092-3fea-4604-bcf5-70d4f6ba50d3"
         targetConnections="8e7840d1-6836-4b6d-9819-667a16bd288d"
         textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="67139761-bdf9-4f0e-8ea1-abcca3c558b3"
@@ -288,6 +306,9 @@
         targetConnections="5f0f2b19-379f-44b6-b625-5116b6a35bd1 366b4c95-cd50-45e1-b67e-0e3247b5e8c7"
         font="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
         textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="1f368e14-a35f-4b51-a447-0065f2d231aa"
@@ -317,6 +338,9 @@
       textAlignment="1"
       fillColor="#f0fdec"
       type="1">
+    <features
+        name="gradient"
+        value="1"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="cd0249f8-4279-4a55-9ead-1f063630b671"
@@ -354,6 +378,9 @@
         id="2b858640-0a0a-435c-ae02-65ede0c39344"
         targetConnections="cd0249f8-4279-4a55-9ead-1f063630b671 12a10028-4016-4a4c-8195-e8f6a8cb471a 5ead2221-6ec8-4beb-8e76-866256622d16"
         textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="248ed6fa-5bb4-4227-b61c-40c395e92f83"
@@ -378,6 +405,9 @@
         id="b27db89e-2e6d-4b31-9790-1a07cad91323"
         targetConnections="522794ae-b567-43b3-b7d1-949c10f86be5"
         textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="2474e049-623f-4ae6-8fc0-0958d5c955d4"
@@ -421,6 +451,9 @@
         id="fc5a482e-2adb-4484-b49a-f16419e949c1"
         targetConnections="2474e049-623f-4ae6-8fc0-0958d5c955d4 92223257-9646-4f6a-bb26-92ee539a2b81"
         textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="12a10028-4016-4a4c-8195-e8f6a8cb471a"
@@ -459,6 +492,9 @@
       textAlignment="1"
       fillColor="#ffffe8"
       type="1">
+    <features
+        name="gradient"
+        value="1"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="6c6e8d68-3616-4cf2-bc59-7d0e6c605dd8"
@@ -478,6 +514,9 @@
         id="c9b541d9-39d6-4480-a457-b55b383a538b"
         targetConnections="6c6e8d68-3616-4cf2-bc59-7d0e6c605dd8 1f368e14-a35f-4b51-a447-0065f2d231aa"
         textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
       <bounds
           x="264"
           y="36"
@@ -496,7 +535,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Hva er data"/>
+      value="Hva er data for datautveksling"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -508,7 +547,9 @@
       key="difi:docViewPath"
       value="nab_referanse_arkitekturer_datautveksling"/>
   <properties
-      key="difi:antoraViewPath"/>
+      key="difi:antoraViewPath"
+      value="architecture-repository\docs\architecture-landscape\segment-architectures\modules\data-exchange"/>
   <properties
-      key="difi:antoraViewImagePath"/>
+      key="difi:antoraViewImagePath"
+      value="architecture-repository\docs\architecture-landscape\segment-architectures\modules\data-exchange\images"/>
 </archimate:ArchimateDiagramModel>
