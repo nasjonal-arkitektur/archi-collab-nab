@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Evnen til å gi konsumenten tilgang til data"
+    id="04f15d37-f5b6-40e9-829a-6649c1a8a763"
+    documentation="Forklaring:&#xD;&#xA;Datatilbyder kjenner til hvordan man setter opp tilgang for nye konsumenter&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Løsning:&#xD;&#xA;Følger beste praksis for oppsett av tilgang i Maskinporten og eventuelt tilgangskontroll internt i virksomheten."/>
