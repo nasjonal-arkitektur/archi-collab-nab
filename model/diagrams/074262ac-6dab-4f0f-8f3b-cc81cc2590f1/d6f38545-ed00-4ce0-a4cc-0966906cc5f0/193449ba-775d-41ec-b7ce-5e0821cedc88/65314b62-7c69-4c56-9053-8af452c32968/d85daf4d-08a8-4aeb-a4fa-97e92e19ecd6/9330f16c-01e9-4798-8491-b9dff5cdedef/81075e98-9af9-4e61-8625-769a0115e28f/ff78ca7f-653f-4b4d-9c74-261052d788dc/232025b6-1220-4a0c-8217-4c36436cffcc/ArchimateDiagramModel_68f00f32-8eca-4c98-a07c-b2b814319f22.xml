@@ -348,5 +348,6 @@
   <properties
       key="difi:antoraViewPath"/>
   <properties
-      key="difi:antoraViewImagePath"/>
+      key="difi:antoraViewImagePath"
+      value="architecture-repository\docs\architecture-landscape\segment-architectures\modules\data-exchange\images"/>
 </archimate:ArchimateDiagramModel>

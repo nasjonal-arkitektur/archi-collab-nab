@@ -4,7 +4,7 @@
     id="5d086052-23e8-4e22-b20e-8e2d8d0cf389">
   <properties
       key="label"
-      value="${name} [lang:]"/>
+      value="${name}"/>
   <properties
       key="dct:type"
       value="archi:business-object"/>
@@ -19,7 +19,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Lagrede data for bevis og gjenbruk"/>
+      value="Sporingsdata"/>
   <properties
       key="difi:name_en"/>
   <properties
