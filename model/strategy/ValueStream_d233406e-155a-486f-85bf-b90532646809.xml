@@ -1,8 +1,7 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Oppdag data og datakilder"
-    id="d233406e-155a-486f-85bf-b90532646809"
-    documentation="Oppslag ikataloger, søk i åpne data, søk i lukkede data">
+    id="d233406e-155a-486f-85bf-b90532646809">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
