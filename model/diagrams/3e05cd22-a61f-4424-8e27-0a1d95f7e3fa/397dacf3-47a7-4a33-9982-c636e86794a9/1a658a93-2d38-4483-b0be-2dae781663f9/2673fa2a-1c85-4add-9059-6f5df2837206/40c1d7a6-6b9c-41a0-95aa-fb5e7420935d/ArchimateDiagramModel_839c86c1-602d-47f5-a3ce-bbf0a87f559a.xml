@@ -459,6 +459,9 @@
           targetConnections="c43ba072-f375-4008-91cb-da817630cf44"
           textPosition="1"
           type="1">
+        <features
+            name="labelExpression"
+            value="Ta rede på behov \nfor data \n(primært og sekundært)"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="9f2f4a7d-5e2c-4ca7-993e-dcb4dba52622"
