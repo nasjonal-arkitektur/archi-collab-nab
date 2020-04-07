@@ -66,6 +66,9 @@
           id="7a356f0e-310b-4167-9bdd-610296827c75"
           targetConnections="43669b3b-3993-49fc-bbd9-9563071a94d3"
           textPosition="1">
+        <features
+            name="labelExpression"
+            value="${name}"/>
         <bounds
             x="24"
             y="36"
