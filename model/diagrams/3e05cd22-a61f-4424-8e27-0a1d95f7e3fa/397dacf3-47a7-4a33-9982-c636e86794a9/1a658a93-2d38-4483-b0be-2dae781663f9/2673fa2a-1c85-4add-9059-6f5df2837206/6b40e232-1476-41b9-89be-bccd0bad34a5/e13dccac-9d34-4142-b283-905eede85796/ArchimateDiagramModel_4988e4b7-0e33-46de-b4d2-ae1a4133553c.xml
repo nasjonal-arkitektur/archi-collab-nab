@@ -104,6 +104,9 @@
             id="343ec2e0-763b-4333-b318-4f684fca471a"
             source="f6eee8ce-6183-4ada-8e85-dbd7108a3c3d"
             target="403510b2-312c-4fd6-9e1e-b68c998515e0">
+          <features
+              name="labelExpression"
+              value="\n${name}"/>
           <bendpoints
               startX="-9"
               startY="-59"

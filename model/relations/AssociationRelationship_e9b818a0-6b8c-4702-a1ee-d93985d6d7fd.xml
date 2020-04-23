@@ -2,8 +2,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="beskriver"
-    id="e9b818a0-6b8c-4702-a1ee-d93985d6d7fd"
-    directed="true">
+    id="e9b818a0-6b8c-4702-a1ee-d93985d6d7fd">
   <properties
       key="label"
       value="${name}"/>

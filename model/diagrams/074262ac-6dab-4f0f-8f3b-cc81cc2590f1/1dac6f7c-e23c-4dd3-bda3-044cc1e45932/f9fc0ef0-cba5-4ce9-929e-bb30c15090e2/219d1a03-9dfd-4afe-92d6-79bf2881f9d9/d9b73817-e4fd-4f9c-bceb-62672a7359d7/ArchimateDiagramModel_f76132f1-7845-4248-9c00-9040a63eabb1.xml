@@ -279,21 +279,6 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="0768c5b4-5dac-4eca-9165-5a579fe88567"
-        targetConnections="7869c92d-2e48-47a4-8084-965fea89a873"
-        fillColor="#feeab6"
-        textPosition="1">
-      <bounds
-          x="504"
-          y="204"
-          width="138"
-          height="71"/>
-      <archimateElement
-          xsi:type="archimate:Grouping"
-          href="Grouping_99fd201d-d4a0-4e42-ae0d-d7f28e7c9278.xml#99fd201d-d4a0-4e42-ae0d-d7f28e7c9278"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
         id="92e41ad5-9454-44a2-b28e-f6cddba04233"
         targetConnections="bc424b5e-d61d-4e4f-9fc0-e6d16a6768f2"
         fontColor="#000000"
@@ -465,25 +450,40 @@
           xsi:type="archimate:Grouping"
           href="Grouping_8685f4e1-c165-4a54-b048-49ff197672e6.xml#8685f4e1-c165-4a54-b048-49ff197672e6"/>
     </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="83741c54-c003-4d8c-99de-ff83fcd989f7"
-        targetConnections="597de189-b323-4075-9c27-51b325f8ac38"
-        fontColor="#000000"
-        fillColor="#feeab6"
-        textPosition="1">
-      <bounds
-          x="36"
-          y="204"
-          width="138"
-          height="71"/>
-      <archimateElement
-          xsi:type="archimate:Grouping"
-          href="Grouping_f7059b5a-651e-4f9f-b403-5073af47d0f5.xml#f7059b5a-651e-4f9f-b403-5073af47d0f5"/>
-    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_cb109445-ddca-4deb-bcd9-becdde0e0ece.xml#cb109445-ddca-4deb-bcd9-becdde0e0ece"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="83741c54-c003-4d8c-99de-ff83fcd989f7"
+      targetConnections="597de189-b323-4075-9c27-51b325f8ac38"
+      fontColor="#000000"
+      fillColor="#feeab6"
+      textPosition="1">
+    <bounds
+        x="48"
+        y="432"
+        width="138"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_f7059b5a-651e-4f9f-b403-5073af47d0f5.xml#f7059b5a-651e-4f9f-b403-5073af47d0f5"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="0768c5b4-5dac-4eca-9165-5a579fe88567"
+      targetConnections="7869c92d-2e48-47a4-8084-965fea89a873"
+      fillColor="#feeab6"
+      textPosition="1">
+    <bounds
+        x="540"
+        y="444"
+        width="138"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_99fd201d-d4a0-4e42-ae0d-d7f28e7c9278.xml#99fd201d-d4a0-4e42-ae0d-d7f28e7c9278"/>
   </children>
   <properties
       key="difi:language"

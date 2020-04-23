@@ -130,6 +130,9 @@
           textPosition="0"
           source="100a3df7-f9d7-4d16-a1f8-1d836478d7d0"
           target="eacbdfd1-8344-4e88-bb68-350e55190fce">
+        <features
+            name="labelExpression"
+            value="leser"/>
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_b40571d5-ef87-47e9-8f57-f26c7631b44c.xml#b40571d5-ef87-47e9-8f57-f26c7631b44c"/>
@@ -153,9 +156,11 @@
           id="64638376-cf4d-4e08-9d00-c76c9c9cc5c0"
           lineWidth="3"
           lineColor="#008080"
-          textPosition="0"
           source="02352e4f-52f3-44a7-a4a7-c4bdf92068d6"
           target="eacbdfd1-8344-4e88-bb68-350e55190fce">
+        <features
+            name="labelExpression"
+            value="leser"/>
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_3fb2d8b8-686f-41da-a754-078818dcb502.xml#3fb2d8b8-686f-41da-a754-078818dcb502"/>
@@ -163,10 +168,13 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="99082fb2-57c5-4dc4-a42c-af2c52e4d229"
-          lineColor="#004080"
+          lineColor="#0000ff"
           textPosition="0"
           source="02352e4f-52f3-44a7-a4a7-c4bdf92068d6"
           target="39fbd052-6408-412b-8d01-cb4ce1b82037">
+        <features
+            name="labelExpression"
+            value="leser"/>
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_df49dcd7-4adc-4d34-91f0-48cd8af5075f.xml#df49dcd7-4adc-4d34-91f0-48cd8af5075f"/>
@@ -205,9 +213,11 @@
           id="c287fcb1-d80f-4732-8e95-69cbbc3a2415"
           lineWidth="3"
           lineColor="#008080"
-          textPosition="0"
           source="110cca0b-e389-44df-8298-e564f8291895"
           target="eacbdfd1-8344-4e88-bb68-350e55190fce">
+        <features
+            name="labelExpression"
+            value="leser"/>
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_627d85bc-08f0-4aeb-946c-721e9f34ab4f.xml#627d85bc-08f0-4aeb-946c-721e9f34ab4f"/>
@@ -215,9 +225,13 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="188b8cab-83f0-40b8-858a-69f628c30f0c"
-          lineColor="#004080"
+          lineColor="#0000ff"
+          textPosition="0"
           source="110cca0b-e389-44df-8298-e564f8291895"
           target="39fbd052-6408-412b-8d01-cb4ce1b82037">
+        <features
+            name="labelExpression"
+            value="leser"/>
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_71caafb1-6db6-4a4f-aa31-2ca6664d7b25.xml#71caafb1-6db6-4a4f-aa31-2ca6664d7b25"/>
@@ -280,4 +294,6 @@
       key="difi:antoraViewPath"/>
   <properties
       key="difi:antoraViewImagePath"/>
+  <properties
+      key="difi:docViewPath"/>
 </archimate:ArchimateDiagramModel>

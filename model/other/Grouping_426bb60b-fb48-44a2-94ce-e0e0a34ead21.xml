@@ -1,6 +1,6 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Publisering - generisk konsept "
+    name="Publisering - grunnleggende konseot"
     id="426bb60b-fb48-44a2-94ce-e0e0a34ead21">
   <properties
       key="difi:metaLevel"
@@ -19,7 +19,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Publiser-abonner - konsept"/>
+      value="Publisering - grunnleggende begreper"/>
   <properties
       key="difi:name_en"/>
   <properties

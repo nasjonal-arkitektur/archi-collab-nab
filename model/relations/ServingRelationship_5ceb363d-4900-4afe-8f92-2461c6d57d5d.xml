@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="tjener"
+    id="5ceb363d-4900-4afe-8f92-2461c6d57d5d">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_21606d86-0be2-4682-a483-60275015bb1b.xml#21606d86-0be2-4682-a483-60275015bb1b"/>
+  <target
+      xsi:type="archimate:BusinessRole"
+      href="BusinessRole_0442a2d9-0a27-4aee-ac78-82b12deccf85.xml#0442a2d9-0a27-4aee-ac78-82b12deccf85"/>
+</archimate:ServingRelationship>

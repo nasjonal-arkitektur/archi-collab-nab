@@ -1,7 +1,7 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="publiserer data"
+    name="skriver"
     id="f27a6a41-ef35-42f0-b068-e1a40c847d05">
   <properties
       key="label"

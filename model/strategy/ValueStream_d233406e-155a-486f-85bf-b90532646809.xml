@@ -31,5 +31,6 @@
       key="label"
       value="${name}"/>
   <properties
-      key="difi:notes"/>
+      key="difi:notes"
+      value="Tidligere: Oppdag data og datakilder"/>
 </archimate:ValueStream>

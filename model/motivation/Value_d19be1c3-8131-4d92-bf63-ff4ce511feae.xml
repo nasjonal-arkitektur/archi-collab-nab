@@ -1,7 +1,8 @@
 <archimate:Value
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Utgående hendelser"
-    id="d19be1c3-8131-4d92-bf63-ff4ce511feae">
+    id="d19be1c3-8131-4d92-bf63-ff4ce511feae"
+    documentation="Svar på forespørsler, trigging av neste ledd i databehandling, hendelsesdata for analyse&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
