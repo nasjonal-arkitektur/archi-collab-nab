@@ -138,6 +138,16 @@
         id="8b63cb1f-e309-4531-af70-f61b3765d381"
         targetConnections="73e54769-3e93-4652-bb25-7191e0a9f6fd"
         textPosition="1">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="89109c04-22a6-4256-8897-767b1edb6a51"
+          lineColor="#000000"
+          source="8b63cb1f-e309-4531-af70-f61b3765d381"
+          target="cc768886-0f5c-4512-a3ca-5f3dfd84a5fc">
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_de922c36-fad7-412e-81b5-e5054b4f2da7.xml#de922c36-fad7-412e-81b5-e5054b4f2da7"/>
+      </sourceConnections>
       <bounds
           x="672"
           y="66"
@@ -240,6 +250,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="cc768886-0f5c-4512-a3ca-5f3dfd84a5fc"
+          targetConnections="89109c04-22a6-4256-8897-767b1edb6a51"
           source="824bd73f-bfc3-4b72-83aa-4655e089bfe3"
           target="0d5c9d09-1b29-4c78-91d2-8c6c64fcb80c">
         <archimateRelationship
@@ -287,6 +298,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="5b16c0f6-c290-479c-8b7b-1e13482f4bb3"
+          targetConnections="55b667e2-1a48-4a15-a824-9f0887a4703f"
           source="0d5c9d09-1b29-4c78-91d2-8c6c64fcb80c"
           target="40ad35d2-9b12-4df8-a5b0-f43abaf65dfa">
         <archimateRelationship
@@ -307,6 +319,16 @@
         id="f97115da-77b7-49f4-b47f-120da7ed1abc"
         targetConnections="28418dbd-a820-4f17-9b01-57bdf924e0ed"
         textPosition="1">
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="55b667e2-1a48-4a15-a824-9f0887a4703f"
+          lineColor="#000000"
+          source="f97115da-77b7-49f4-b47f-120da7ed1abc"
+          target="5b16c0f6-c290-479c-8b7b-1e13482f4bb3">
+        <archimateRelationship
+            xsi:type="archimate:AssociationRelationship"
+            href="AssociationRelationship_5416ec7f-fc91-4bf7-b4df-19fd5fdb177e.xml#5416ec7f-fc91-4bf7-b4df-19fd5fdb177e"/>
+      </sourceConnections>
       <bounds
           x="864"
           y="66"

@@ -34,6 +34,6 @@
       xsi:type="archimate:Value"
       href="Value_c64d6c73-ffcb-41d6-abe9-ec54fccdd1e7.xml#c64d6c73-ffcb-41d6-abe9-ec54fccdd1e7"/>
   <target
-      xsi:type="archimate:Stakeholder"
-      href="Stakeholder_dd77cbb2-a6a4-482a-a5a3-1745666e0da1.xml#dd77cbb2-a6a4-482a-a5a3-1745666e0da1"/>
+      xsi:type="archimate:Junction"
+      href="Junction_d4e19ec9-50c5-4c7d-9954-743a2053a9d3.xml#d4e19ec9-50c5-4c7d-9954-743a2053a9d3"/>
 </archimate:InfluenceRelationship>

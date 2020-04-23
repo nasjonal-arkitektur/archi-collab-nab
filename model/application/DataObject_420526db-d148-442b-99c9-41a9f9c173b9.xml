@@ -19,7 +19,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Datastrøm B"/>
+      value="Datapublikasjon B"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -28,4 +28,7 @@
       key="difi:description_en"/>
   <properties
       key="difi:notes"/>
+  <properties
+      key="label"
+      value="${name}"/>
 </archimate:DataObject>

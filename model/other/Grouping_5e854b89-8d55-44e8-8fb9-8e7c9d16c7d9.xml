@@ -1,6 +1,6 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Publisering - illustrasjon (logisk dataaksess)"
+    name="Publisering - illustrasjon"
     id="5e854b89-8d55-44e8-8fb9-8e7c9d16c7d9">
   <properties
       key="difi:metaLevel"
@@ -19,7 +19,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Publiser-abonner - logisk dataksess"/>
+      value="Publisering - konseptskisse (dataaksess)"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -28,4 +28,7 @@
       key="difi:description_en"/>
   <properties
       key="difi:notes"/>
+  <properties
+      key="label"
+      value="${name}"/>
 </archimate:Grouping>

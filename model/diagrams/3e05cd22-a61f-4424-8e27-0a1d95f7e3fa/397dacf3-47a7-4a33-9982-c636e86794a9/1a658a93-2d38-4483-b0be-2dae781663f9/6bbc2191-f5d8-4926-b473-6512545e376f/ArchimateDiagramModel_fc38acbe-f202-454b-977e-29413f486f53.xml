@@ -8,6 +8,9 @@
       id="1e3db54c-99ec-4a4b-9c25-cc9df6a42ff0"
       targetConnections="dc351cc4-649c-4d50-bdcf-0afec7b85e68"
       textPosition="1">
+    <features
+        name="gradient"
+        value="1"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="13397e47-6faf-4c28-8ca3-c814c93c19d7"
@@ -43,6 +46,12 @@
       targetConnections="bd8de95f-a959-440e-85f3-8a9289e6e03b bcf28ffd-6935-4a45-9e2e-fa4b75303fa3"
       textPosition="1"
       type="1">
+    <features
+        name="labelExpression"
+        value="Del og \ninnhent data"/>
+    <features
+        name="gradient"
+        value="1"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="8ddbdb2d-d3b1-4926-843c-cb0dd09fc521"
@@ -71,6 +80,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="dead891a-9858-4325-a3c6-69ba6a4518ce"
       textPosition="1">
+    <features
+        name="gradient"
+        value="1"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="bd8de95f-a959-440e-85f3-8a9289e6e03b"
@@ -106,6 +118,9 @@
       targetConnections="13397e47-6faf-4c28-8ca3-c814c93c19d7 8ddbdb2d-d3b1-4926-843c-cb0dd09fc521"
       textPosition="1"
       type="1">
+    <features
+        name="gradient"
+        value="1"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="bcf28ffd-6935-4a45-9e2e-fa4b75303fa3"
@@ -144,6 +159,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="749722c1-1183-4b65-bde5-7cf7515721e2"
       targetConnections="43e8e6bc-86a0-4657-a0fe-3625ec0b7005 f7e828ec-6a5f-47cd-a43a-06904cd6b6ce">
+    <features
+        name="gradient"
+        value="1"/>
     <bounds
         x="180"
         y="36"
@@ -158,6 +176,9 @@
       id="86ded8ce-5106-453a-9f1d-c5c84197f195"
       targetConnections="15bd6141-9bce-4887-bf0d-958ab43e9cc1"
       textPosition="1">
+    <features
+        name="gradient"
+        value="1"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="f7e828ec-6a5f-47cd-a43a-06904cd6b6ce"

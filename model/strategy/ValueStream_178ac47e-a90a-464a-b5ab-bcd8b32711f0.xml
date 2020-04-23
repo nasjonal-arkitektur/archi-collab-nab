@@ -1,7 +1,8 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ta rede på behov for data (primært og sekundært)"
-    id="178ac47e-a90a-464a-b5ab-bcd8b32711f0">
+    name="Ta rede på eget behov for data"
+    id="178ac47e-a90a-464a-b5ab-bcd8b32711f0"
+    documentation="Fra forretningsmessig tjeneste til ....">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
@@ -28,5 +29,9 @@
   <properties
       key="difi:description_en"/>
   <properties
-      key="difi:notes"/>
+      key="difi:notes"
+      value="Value: "/>
+  <properties
+      key="label"
+      value="${name} [lang:]"/>
 </archimate:ValueStream>

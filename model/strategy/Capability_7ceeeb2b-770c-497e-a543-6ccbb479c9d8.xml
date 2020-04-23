@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Publisere data"
+    name="Publisere hendelsesdata"
     id="7ceeeb2b-770c-497e-a543-6ccbb479c9d8"
     documentation="Publisering av data handler om om avgi data fra en til mange, med løs kopling mellom tilbydere og konsumenter. Konsumentene er i utgangspunktet interessenter eller abonnenter, inntil de faktisk konsumerer data. Det finnes flere brukstilfeller og arkitekturmønstre for dette, slik som:&#xD;&#xA;&#xD;&#xA;* Tilbyder gjør endring i et felles datalager, der konsumentene innhenter data ved behov&#xD;&#xA;*Notifikasjoner om at data er endret, der konsumenten typisk må _innhente data ved forespørsel_ for å ta rede på aktuelle datasett.&#xD;&#xA;&#xD;&#xA;* Notifikasjoner om om forretningsmessige hendelser,  f.eks. i form av vedtak i tilknytning til saksbehandking&#xD;&#xA;&#xD;&#xA;* Strømming av måledata fra sensorer&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
   <properties

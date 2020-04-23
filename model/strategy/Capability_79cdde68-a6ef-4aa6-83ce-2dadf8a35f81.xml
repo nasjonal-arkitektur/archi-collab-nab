@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Spore datautlevring"
+    name="Spore datamottakere"
     id="79cdde68-a6ef-4aa6-83ce-2dadf8a35f81">
   <properties
       key="difi:namespace"
@@ -23,4 +23,12 @@
   <properties
       key="dct:type"
       value="archi:capability"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:notes"/>
 </archimate:Capability>

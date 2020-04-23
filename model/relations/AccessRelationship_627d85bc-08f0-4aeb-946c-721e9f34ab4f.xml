@@ -1,7 +1,7 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="konsumerer publikasjon"
+    name="leser"
     id="627d85bc-08f0-4aeb-946c-721e9f34ab4f"
     accessType="1">
   <properties

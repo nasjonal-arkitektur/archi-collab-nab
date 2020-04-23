@@ -118,6 +118,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="1afb382b-9f95-4064-82b1-36c41a8447f8"
       textPosition="1">
+    <features
+        name="gradient"
+        value="1"/>
     <bounds
         x="156"
         y="312"
@@ -131,6 +134,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="e5dc3e8a-27bc-48e7-85f2-dde4bce8bca7"
       textPosition="1">
+    <features
+        name="gradient"
+        value="1"/>
     <bounds
         x="492"
         y="312"
@@ -144,6 +150,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="3bbfade9-e681-4895-88b3-b2eee6d590ac"
       textPosition="1">
+    <features
+        name="gradient"
+        value="1"/>
     <bounds
         x="324"
         y="312"
@@ -157,6 +166,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="461519e9-e8f2-4daa-a379-c23a95110b73"
       textPosition="1">
+    <features
+        name="gradient"
+        value="1"/>
     <bounds
         x="324"
         y="408"
@@ -170,6 +182,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="3f538273-adde-493c-9d68-702d5ff91379"
       textPosition="1">
+    <features
+        name="gradient"
+        value="1"/>
     <bounds
         x="660"
         y="312"
@@ -183,6 +198,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="2413ced8-c1f7-4f9c-b1aa-f05f89f2de6b"
       textPosition="1">
+    <features
+        name="gradient"
+        value="1"/>
     <bounds
         x="828"
         y="312"
@@ -197,6 +215,9 @@
       id="fc5b7d54-ad02-4d62-8fbd-a4c61d787ba8"
       font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1">
+    <features
+        name="gradient"
+        value="1"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="965d017b-f984-41f6-b175-4c0f1c0b2810"
@@ -219,6 +240,9 @@
         textAlignment="1"
         fillColor="#feeed8"
         type="1">
+      <features
+          name="gradient"
+          value="1"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="3823bf8d-28db-4517-bf7f-2a5fb205cf10"
@@ -284,6 +308,9 @@
           targetConnections="9f2f4a7d-5e2c-4ca7-993e-dcb4dba52622 7c62c9dd-f3c5-447b-b4e2-912296726fd9"
           textPosition="1"
           type="1">
+        <features
+            name="gradient"
+            value="1"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="af3cf71a-47f9-452a-a092-84ffb6c62cc3"
@@ -342,6 +369,9 @@
           targetConnections="af3cf71a-47f9-452a-a092-84ffb6c62cc3 8e763b06-faee-4ce4-8261-bd0786d5c12b"
           textPosition="1"
           type="1">
+        <features
+            name="gradient"
+            value="1"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="7cabf144-2e24-4c4e-b224-d5472b15c28c"
@@ -376,6 +406,9 @@
           targetConnections="c61aa096-8d88-463a-81d1-533210c36b51 3823bf8d-28db-4517-bf7f-2a5fb205cf10 768fe2cd-5508-41f2-9de8-28595b9aeb4d"
           textPosition="1"
           type="1">
+        <features
+            name="gradient"
+            value="1"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="6ac38226-5a78-4ac8-997e-7d678ffc3ba1"
@@ -410,6 +443,9 @@
           targetConnections="7cabf144-2e24-4c4e-b224-d5472b15c28c 21f5ee23-7d0b-4c6c-a396-772a8f23bb3e"
           textPosition="1"
           type="1">
+        <features
+            name="gradient"
+            value="1"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="768fe2cd-5508-41f2-9de8-28595b9aeb4d"
@@ -444,6 +480,9 @@
           targetConnections="26ad7fb3-5bc1-4632-81f0-999126c6e6ac 6ac38226-5a78-4ac8-997e-7d678ffc3ba1 763cc6f7-5fca-471b-858d-805237c3c038"
           textPosition="1"
           type="1">
+        <features
+            name="gradient"
+            value="1"/>
         <bounds
             x="924"
             y="48"
@@ -462,6 +501,9 @@
         <features
             name="labelExpression"
             value="Ta rede på behov \nfor data \n(primært og sekundært)"/>
+        <features
+            name="gradient"
+            value="1"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="9f2f4a7d-5e2c-4ca7-993e-dcb4dba52622"
@@ -502,6 +544,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="dc79fb7b-f731-4da9-872a-e22e00fff830"
       textPosition="1">
+    <features
+        name="gradient"
+        value="1"/>
     <bounds
         x="996"
         y="312"
@@ -515,6 +560,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="be182b2d-aff7-4d6a-8376-a43e64911e8f"
       textPosition="1">
+    <features
+        name="gradient"
+        value="1"/>
     <bounds
         x="324"
         y="504"
@@ -528,6 +576,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="0633d05f-0f55-4238-ac3c-20a7026d5ff2"
       textPosition="1">
+    <features
+        name="gradient"
+        value="1"/>
     <bounds
         x="492"
         y="408"
@@ -541,6 +592,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="e1785f98-2587-4314-9a3e-bcdb85e1ab50"
       textPosition="1">
+    <features
+        name="gradient"
+        value="1"/>
     <bounds
         x="660"
         y="408"
@@ -554,6 +608,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="4f8a02ac-6bdf-4c04-936e-4f4e44424d82"
       textPosition="1">
+    <features
+        name="gradient"
+        value="1"/>
     <bounds
         x="828"
         y="408"
@@ -563,4 +620,21 @@
         xsi:type="archimate:Capability"
         href="Capability_7960fb04-73cc-4b53-ba99-17e9c72e1f9d.xml#7960fb04-73cc-4b53-ba99-17e9c72e1f9d"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Innhent data, detaljert verdistrøm konsument med kapabiliteter"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="&#xD;&#xA;&#xD;&#xA;"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:antoraViewPath"/>
+  <properties
+      key="difi:antoraViewImagePath"/>
 </archimate:ArchimateDiagramModel>

@@ -1,8 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Spore datakilder (data lineage)"
+    name="Spore datainnhenting"
     id="ba1f7c91-9c0b-4033-a889-8ee6310a3239"
-    documentation="Evnen til å spore opphavet til data og senere håndtering og hendelser.&#xD;&#xA;I arkvisammenheng benyttes ofte begrepet proveniens.">
+    documentation="Evnen til å spore opphavet til data og senere håndtering og hendelser.&#xD;&#xA;I arkivsammenheng benyttes ofte begrepet proveniens.">
   <properties
       key="label"
       value="${name}"/>

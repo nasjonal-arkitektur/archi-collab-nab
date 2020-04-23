@@ -1,12 +1,12 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="leser fra datastrøm"
+    name="leser"
     id="3fb2d8b8-686f-41da-a754-078818dcb502"
     accessType="1">
   <properties
       key="label"
-      value=" "/>
+      value=" leser"/>
   <properties
       key="difi:metaLevel"
       value="undefined"/>
