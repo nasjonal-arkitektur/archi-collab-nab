@@ -1,23 +1,13 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Avgi notifikasjoner på forespørsel"
+    name="Avgi notifikasjoner på forespørsel (enkel)"
     id="8e0981e8-fed4-4178-8f7a-284df489b8a6">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="c6cc1afe-2115-447e-b900-a73aa7829b8e"
       textPosition="1"
       type="1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="3b3a68c1-dbeb-48cb-8839-ec84ea2504c9"
-        textPosition="0"
-        source="c6cc1afe-2115-447e-b900-a73aa7829b8e"
-        target="4081a023-9667-4d22-b555-b2a1ed937fe7">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_e9d796ad-dc89-4cbb-a797-2dba9f0cc5d7.xml#e9d796ad-dc89-4cbb-a797-2dba9f0cc5d7"/>
-    </sourceConnections>
     <bounds
         x="360"
         y="300"
@@ -44,7 +34,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="4081a023-9667-4d22-b555-b2a1ed937fe7"
-      targetConnections="3b3a68c1-dbeb-48cb-8839-ec84ea2504c9"
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
