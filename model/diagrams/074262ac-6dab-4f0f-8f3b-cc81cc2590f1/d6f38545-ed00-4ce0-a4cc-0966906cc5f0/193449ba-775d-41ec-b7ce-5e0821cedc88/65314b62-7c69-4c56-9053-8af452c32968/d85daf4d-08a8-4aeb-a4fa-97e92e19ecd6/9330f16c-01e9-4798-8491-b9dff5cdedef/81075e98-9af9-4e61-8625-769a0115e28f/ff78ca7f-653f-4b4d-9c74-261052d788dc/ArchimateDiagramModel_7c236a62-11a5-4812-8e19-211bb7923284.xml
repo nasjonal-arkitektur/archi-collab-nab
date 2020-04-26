@@ -44,8 +44,8 @@
           href="AssociationRelationship_c66e9985-03f1-4068-b94f-0fb7607db9db.xml#c66e9985-03f1-4068-b94f-0fb7607db9db"/>
     </sourceConnections>
     <bounds
-        x="156"
-        y="324"
+        x="72"
+        y="264"
         width="133"
         height="71"/>
     <archimateElement
@@ -93,8 +93,8 @@
           href="AssociationRelationship_2268f6ed-caf5-4d47-a16a-222948efdd4d.xml#2268f6ed-caf5-4d47-a16a-222948efdd4d"/>
     </sourceConnections>
     <bounds
-        x="768"
-        y="324"
+        x="684"
+        y="264"
         width="133"
         height="71"/>
     <archimateElement
@@ -170,8 +170,8 @@
           href="CompositionRelationship_9a2926db-4a2f-4c8c-b199-218a73c0d640.xml#9a2926db-4a2f-4c8c-b199-218a73c0d640"/>
     </sourceConnections>
     <bounds
-        x="336"
-        y="180"
+        x="252"
+        y="120"
         width="400"
         height="433"/>
     <children

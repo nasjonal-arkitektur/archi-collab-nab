@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Type hendelse"
+    id="13092a64-91a2-402c-8aa7-a11fb39389f2"
+    documentation="Identifikasjon av type hendelse. Dette kan være et entydig element i et kontrollert vokabular, men det kan også være &quot;fritekst&quot;."/>

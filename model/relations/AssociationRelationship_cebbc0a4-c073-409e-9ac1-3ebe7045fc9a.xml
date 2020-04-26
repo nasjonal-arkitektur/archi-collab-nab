@@ -1,7 +1,9 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="cebbc0a4-c073-409e-9ac1-3ebe7045fc9a">
+    name="assosiert med"
+    id="cebbc0a4-c073-409e-9ac1-3ebe7045fc9a"
+    directed="true">
   <properties
       key="difi:metaLevel"
       value="undefined"/>

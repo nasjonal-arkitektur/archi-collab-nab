@@ -1,6 +1,6 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="API for lesing av publikasjon"
+    name="API for lesing fra hendelsesliste"
     id="152a68f1-cc2e-4933-8362-baaf7d1e9695">
   <properties
       key="difi:metaLevel"

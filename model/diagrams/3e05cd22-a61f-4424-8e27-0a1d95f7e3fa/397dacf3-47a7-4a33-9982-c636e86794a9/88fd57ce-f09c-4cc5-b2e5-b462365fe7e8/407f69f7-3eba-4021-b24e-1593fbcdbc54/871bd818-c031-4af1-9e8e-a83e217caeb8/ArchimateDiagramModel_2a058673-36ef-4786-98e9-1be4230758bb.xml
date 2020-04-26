@@ -203,7 +203,6 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="f558cece-31b5-442d-924f-02f79a3f79b9"
-          targetConnections="0a3413a7-de2b-47b1-a539-f07dc5b30f2e"
           textPosition="0"
           source="670e4082-504a-43b2-bdde-50d592b1c3fa"
           target="d0f8b1a9-d28a-49e0-8d5a-6252df352c9c">
@@ -263,7 +262,6 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="ae79fa0a-eaba-412a-97e7-b128b681ca50"
-          targetConnections="734ff8d5-59a6-436b-92f7-3966726eff10"
           textPosition="0"
           source="d0f8b1a9-d28a-49e0-8d5a-6252df352c9c"
           target="670e4082-504a-43b2-bdde-50d592b1c3fa">
@@ -358,15 +356,6 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="66e0ecbb-1658-44b9-93e6-9686bf012193"
         targetConnections="7de448c1-5f27-48c6-99db-262949df830a">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="734ff8d5-59a6-436b-92f7-3966726eff10"
-          source="66e0ecbb-1658-44b9-93e6-9686bf012193"
-          target="ae79fa0a-eaba-412a-97e7-b128b681ca50">
-        <archimateRelationship
-            xsi:type="archimate:AssociationRelationship"
-            href="AssociationRelationship_0167b6e3-fb0a-41e2-b79e-bae40aba6373.xml#0167b6e3-fb0a-41e2-b79e-bae40aba6373"/>
-      </sourceConnections>
       <bounds
           x="336"
           y="110"
@@ -404,15 +393,6 @@
         id="398b49ab-1065-4a72-afec-8fc36bb8e4ce"
         targetConnections="e78347cb-7124-4da8-9107-38cf65c95d53"
         textPosition="2">
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="0a3413a7-de2b-47b1-a539-f07dc5b30f2e"
-          source="398b49ab-1065-4a72-afec-8fc36bb8e4ce"
-          target="f558cece-31b5-442d-924f-02f79a3f79b9">
-        <archimateRelationship
-            xsi:type="archimate:AssociationRelationship"
-            href="AssociationRelationship_f2f101b4-4937-4861-a588-fc58d79864d3.xml#f2f101b4-4937-4861-a588-fc58d79864d3"/>
-      </sourceConnections>
       <bounds
           x="300"
           y="240"

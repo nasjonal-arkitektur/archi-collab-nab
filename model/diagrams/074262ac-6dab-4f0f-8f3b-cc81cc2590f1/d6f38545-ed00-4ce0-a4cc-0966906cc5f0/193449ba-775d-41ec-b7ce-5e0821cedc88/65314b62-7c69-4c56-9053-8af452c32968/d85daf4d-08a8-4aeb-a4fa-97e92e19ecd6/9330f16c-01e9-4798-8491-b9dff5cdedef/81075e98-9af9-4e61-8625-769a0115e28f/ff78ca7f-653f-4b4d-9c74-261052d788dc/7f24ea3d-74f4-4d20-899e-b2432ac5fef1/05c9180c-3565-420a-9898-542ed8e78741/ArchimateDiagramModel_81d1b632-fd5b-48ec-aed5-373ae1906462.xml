@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Innhente notifikasjoner ((arkitekturmønster)"
+    name="Innhente notifikasjoner (arkitekturmønster)"
     id="81d1b632-fd5b-48ec-aed5-373ae1906462">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

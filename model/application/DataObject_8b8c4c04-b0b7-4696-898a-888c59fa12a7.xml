@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Subjekt for hendelse"
+    id="8b8c4c04-b0b7-4696-898a-888c59fa12a7"
+    documentation="Subjekt for hendelse er den entiteten som hendelsen gjelder; f.eks. en person. Kan være en samling av entiteter, f.eks en angitt befolkningsgruppe."/>

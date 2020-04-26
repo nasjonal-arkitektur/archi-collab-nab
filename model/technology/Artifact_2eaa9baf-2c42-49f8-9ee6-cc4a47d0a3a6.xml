@@ -1,6 +1,6 @@
 <archimate:Artifact
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data i bevegelse (datautveksling)"
+    name="Data i bevegelse"
     id="2eaa9baf-2c42-49f8-9ee6-cc4a47d0a3a6">
   <properties
       key="difi:abstractionLevel"
@@ -19,7 +19,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Datasettdistribusjon i bevegelse"/>
+      value="Data i bevegelse (datautveksling)"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -28,7 +28,7 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name} [lang:]"/>
+      value="${name}"/>
   <properties
       key="difi:notes"/>
 </archimate:Artifact>

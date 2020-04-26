@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="forespurte data"
+    name="supplerende hendelsesdata"
     id="985cc05e-cf51-4655-a57a-af9ae3f68610">
   <properties
       key="difi:metaLevel"
