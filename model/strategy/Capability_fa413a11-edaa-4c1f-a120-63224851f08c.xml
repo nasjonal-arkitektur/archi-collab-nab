@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Avgi data på forespørsel"
     id="fa413a11-edaa-4c1f-a120-63224851f08c"
-    documentation="Avgi data på forespørsel">
+    documentation="Evnen til å avgi data på forespørsel">
   <properties
       key="difi:metaLevel"
       value="undefined"/>

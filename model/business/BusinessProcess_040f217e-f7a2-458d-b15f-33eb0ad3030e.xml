@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Autentisere konsument"
     id="040f217e-f7a2-458d-b15f-33eb0ad3030e"
-    documentation="Prosessen med å autentisere en kosnument.">
+    documentation="Prosessen med å autentisere en konsument.">
   <properties
       key="difi:metaLevel"
       value="undefined"/>

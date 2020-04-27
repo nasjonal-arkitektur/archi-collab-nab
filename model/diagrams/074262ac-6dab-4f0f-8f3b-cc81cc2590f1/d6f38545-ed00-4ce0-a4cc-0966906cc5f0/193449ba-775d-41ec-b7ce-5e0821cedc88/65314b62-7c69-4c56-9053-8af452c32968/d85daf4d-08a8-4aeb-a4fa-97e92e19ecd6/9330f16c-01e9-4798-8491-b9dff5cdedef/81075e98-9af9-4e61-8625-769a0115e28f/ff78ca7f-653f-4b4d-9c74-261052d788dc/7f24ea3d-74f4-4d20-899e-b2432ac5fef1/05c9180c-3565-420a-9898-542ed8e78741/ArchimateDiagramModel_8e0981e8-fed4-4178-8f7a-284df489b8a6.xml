@@ -1,26 +1,13 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Avgi notifikasjoner på forespørsel"
+    name="Avgi notifikasjoner på forespørsel (enkel)"
     id="8e0981e8-fed4-4178-8f7a-284df489b8a6">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="c6cc1afe-2115-447e-b900-a73aa7829b8e"
       textPosition="1"
       type="1">
-    <features
-        name="gradient"
-        value="1"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="3b3a68c1-dbeb-48cb-8839-ec84ea2504c9"
-        textPosition="0"
-        source="c6cc1afe-2115-447e-b900-a73aa7829b8e"
-        target="4081a023-9667-4d22-b555-b2a1ed937fe7">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_e9d796ad-dc89-4cbb-a797-2dba9f0cc5d7.xml#e9d796ad-dc89-4cbb-a797-2dba9f0cc5d7"/>
-    </sourceConnections>
     <bounds
         x="360"
         y="300"
@@ -35,9 +22,6 @@
       id="26e5c6e5-f862-4c25-a3a6-86c84f5ac932"
       targetConnections="64edfbd5-69f2-4de0-a2e4-fecd8d4bb25b 7ef5c5e6-eb7a-4cd1-b70d-e780cccaed7a"
       textPosition="1">
-    <features
-        name="gradient"
-        value="1"/>
     <bounds
         x="360"
         y="60"
@@ -50,11 +34,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="4081a023-9667-4d22-b555-b2a1ed937fe7"
-      targetConnections="3b3a68c1-dbeb-48cb-8839-ec84ea2504c9"
       textPosition="1">
-    <features
-        name="gradient"
-        value="1"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="64edfbd5-69f2-4de0-a2e4-fecd8d4bb25b"
@@ -88,9 +68,6 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="f10ce7a1-6748-4718-a4c7-b28de94ead0c"
       textPosition="1">
-    <features
-        name="gradient"
-        value="1"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="281659dc-eef9-488a-a6eb-d6966e3ad3e8"
@@ -115,9 +92,6 @@
       id="76c899f4-9829-42cb-ba0f-3857fc5819e6"
       targetConnections="281659dc-eef9-488a-a6eb-d6966e3ad3e8 a30faf8e-f771-4c18-977a-228288371470"
       textPosition="1">
-    <features
-        name="gradient"
-        value="1"/>
     <bounds
         x="118"
         y="180"
@@ -133,9 +107,6 @@
       textAlignment="1"
       fillColor="#feffe3"
       content="Beskrevet under basismønster for Deling av data på forespørsel">
-    <features
-        name="gradient"
-        value="1"/>
     <sourceConnections
         id="7ef5c5e6-eb7a-4cd1-b70d-e780cccaed7a"
         source="c30d861d-5b0f-4fb4-8243-dcca787ad679"
