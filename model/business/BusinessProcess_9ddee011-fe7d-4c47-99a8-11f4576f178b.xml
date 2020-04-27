@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Registrere abonnent"
-    id="9ddee011-fe7d-4c47-99a8-11f4576f178b"/>
+    id="9ddee011-fe7d-4c47-99a8-11f4576f178b"
+    documentation="Prosessen med å registrere ny konsument av hendelsesliste."/>
