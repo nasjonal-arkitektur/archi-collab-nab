@@ -303,6 +303,43 @@
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_e9551f98-52fb-4cdc-a398-59a3521ebbc0.xml#e9551f98-52fb-4cdc-a398-59a3521ebbc0"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="ac0011d7-0f23-480e-8046-798a50d666c6">
+    <bounds
+        x="624"
+        y="480"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_d6ead874-4a2d-423c-b992-fffc1bf917d3.xml#d6ead874-4a2d-423c-b992-fffc1bf917d3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="c3c6b7bc-09ea-4c8b-84db-fc74290b9eba">
+    <bounds
+        x="792"
+        y="480"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_bfb8c49b-ead4-49af-b1f8-6566d33d8d39.xml#bfb8c49b-ead4-49af-b1f8-6566d33d8d39"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="fcea756f-660a-44d0-ac9c-3d1f55b8d6ee"
+      type="1">
+    <bounds
+        x="252"
+        y="504"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_2455ef80-72de-475d-ac62-fb5d407490b1.xml#2455ef80-72de-475d-ac62-fb5d407490b1"/>
+  </children>
   <properties
       key="difi:language"
       value="no"/>
