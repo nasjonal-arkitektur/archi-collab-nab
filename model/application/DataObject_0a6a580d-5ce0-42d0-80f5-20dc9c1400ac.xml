@@ -1,4 +1,34 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Identifikator for datasett hendelsesrelaterte data"
-    id="0a6a580d-5ce0-42d0-80f5-20dc9c1400ac"/>
+    name="Identifikator for hendelsesrelaterte data"
+    id="0a6a580d-5ce0-42d0-80f5-20dc9c1400ac">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:data-object"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Identifikator for hendelsesrelaterte data"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:DataObject>

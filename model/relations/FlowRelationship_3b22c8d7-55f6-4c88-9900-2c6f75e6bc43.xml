@@ -1,6 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="notifikasjoner"
     id="3b22c8d7-55f6-4c88-9900-2c6f75e6bc43">
   <properties
       key="difi:metaLevel"

@@ -84,7 +84,7 @@
         target="2fc5f283-5b14-49b0-955a-24c728d11a90">
       <features
           name="labelExpression"
-          value="forespørsel om &#xD;&#xA;hendelsesdata"/>
+          value="forespørsel om &#xD;&#xA;supperende data"/>
       <bendpoints
           startX="-149"
           startY="32"
@@ -106,8 +106,8 @@
           href="ServingRelationship_e6f53948-664f-4543-bb97-a5c448ae5f97.xml#e6f53948-664f-4543-bb97-a5c448ae5f97"/>
     </sourceConnections>
     <bounds
-        x="515"
-        y="132"
+        x="528"
+        y="131"
         width="133"
         height="161"/>
     <archimateElement
@@ -229,6 +229,9 @@
         textPosition="0"
         source="2fc5f283-5b14-49b0-955a-24c728d11a90"
         target="05e61e08-4a8a-4b00-9e81-7d6726c72ff9">
+      <features
+          name="labelExpression"
+          value="supplerende &#xD;&#xA;hendelsesrelaterte data"/>
       <bendpoints
           startX="138"
           startY="13"

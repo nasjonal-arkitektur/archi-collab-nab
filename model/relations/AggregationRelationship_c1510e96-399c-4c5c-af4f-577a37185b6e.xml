@@ -1,7 +1,8 @@
 <archimate:AggregationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="94ab142e-7b69-41dd-9f77-970e96d40c33">
+    name="inneholder"
+    id="c1510e96-399c-4c5c-af4f-577a37185b6e">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
@@ -18,7 +19,8 @@
       key="difi:language"
       value="no"/>
   <properties
-      key="difi:name_no"/>
+      key="difi:name_no"
+      value="inneholder"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -35,5 +37,5 @@
       href="DataObject_329e6d1d-d7eb-4aee-a987-fe9682ed4122.xml#329e6d1d-d7eb-4aee-a987-fe9682ed4122"/>
   <target
       xsi:type="archimate:DataObject"
-      href="DataObject_0214e87e-c4ab-42b0-8ae1-5093f76a6e7f.xml#0214e87e-c4ab-42b0-8ae1-5093f76a6e7f"/>
+      href="DataObject_329e6d1d-d7eb-4aee-a987-fe9682ed4122.xml#329e6d1d-d7eb-4aee-a987-fe9682ed4122"/>
 </archimate:AggregationRelationship>

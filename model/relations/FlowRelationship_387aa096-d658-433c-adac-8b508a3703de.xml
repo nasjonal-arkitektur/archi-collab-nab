@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="hendelsesdata"
+    name="supplerende hendelsesrelaterte data"
     id="387aa096-d658-433c-adac-8b508a3703de">
   <source
       xsi:type="archimate:ApplicationInterface"

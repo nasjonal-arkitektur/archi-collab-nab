@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="forespørsel om hendelsesdata"
+    name="forespørsel om  suppelrende data"
     id="ef6c8754-f350-46e0-9479-4ff863e18452">
   <source
       xsi:type="archimate:ApplicationComponent"

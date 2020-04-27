@@ -62,7 +62,7 @@
         name="gradient"
         value="1"/>
     <bounds
-        x="936"
+        x="948"
         y="502"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
@@ -615,8 +615,8 @@
         name="gradient"
         value="1"/>
     <bounds
-        x="984"
-        y="614"
+        x="1008"
+        y="612"
         width="133"
         height="71"/>
     <archimateElement

@@ -1,13 +1,13 @@
-<archimate:AggregationRelationship
+<archimate:SpecializationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="94ab142e-7b69-41dd-9f77-970e96d40c33">
+    id="02ee9d6e-94bf-4064-b35e-cbac5e19ec97">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
   <properties
       key="dct:type"
-      value="archi:aggregation-relationship"/>
+      value="archi:specialization-relationship"/>
   <properties
       key="difi:namespace"
       value="-"/>
@@ -35,5 +35,5 @@
       href="DataObject_329e6d1d-d7eb-4aee-a987-fe9682ed4122.xml#329e6d1d-d7eb-4aee-a987-fe9682ed4122"/>
   <target
       xsi:type="archimate:DataObject"
-      href="DataObject_0214e87e-c4ab-42b0-8ae1-5093f76a6e7f.xml#0214e87e-c4ab-42b0-8ae1-5093f76a6e7f"/>
-</archimate:AggregationRelationship>
+      href="DataObject_e7a43b99-dd6d-4881-9c92-fcea2c2e9f49.xml#e7a43b99-dd6d-4881-9c92-fcea2c2e9f49"/>
+</archimate:SpecializationRelationship>

@@ -385,7 +385,7 @@
           value="1"/>
       <bounds
           x="120"
-          y="130"
+          y="132"
           width="133"
           height="71"/>
       <archimateElement
@@ -619,6 +619,25 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_484ed6c7-a0f3-4e2a-9e5a-942ad4769309.xml#484ed6c7-a0f3-4e2a-9e5a-942ad4769309"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="a7448bd6-f349-4bac-a13a-586db34d3ab5"
+      lineColor="#5c5c5c"
+      fillColor="#b5ffff"
+      textPosition="1"
+      type="1">
+    <features
+        name="gradient"
+        value="1"/>
+    <bounds
+        x="996"
+        y="288"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_6bda415f-5317-4bad-a336-ec80fa0f7493.xml#6bda415f-5317-4bad-a336-ec80fa0f7493"/>
   </children>
   <properties
       key="difi:language"
