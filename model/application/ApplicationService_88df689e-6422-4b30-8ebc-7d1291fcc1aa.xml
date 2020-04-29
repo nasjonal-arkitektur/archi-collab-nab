@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Tilbyders spørretjeneste mot hendelsesliste"
     id="88df689e-6422-4b30-8ebc-7d1291fcc1aa"
-    documentation="Tjeneste for spørring og navigering av hendelsesliste gjennom API. Det kan være aktuelt å filtrere informasjon ut fra hvem som spør og hvilken informasjon det er abonnert på, i tillegg til å filtrere ut fra spesifikasjoner i hver enkelt spørring.">
+    documentation="Tjeneste for spørring og navigering av hendelsesliste gjennom API. ">
   <properties
       key="difi:metaLevel"
       value="undefined"/>

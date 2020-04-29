@@ -81,7 +81,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="1a6d52b8-2705-4b6e-aa6e-07b290642241">
+      id="1a6d52b8-2705-4b6e-aa6e-07b290642241"
+      textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="45c6e72c-3e3e-49d1-941f-0c70cf9eb204"
