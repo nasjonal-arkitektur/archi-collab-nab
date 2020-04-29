@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Generer og publiser notifikasjoner (arkitekturmønster)"
+    name="Generer og publiser notifikasjoner"
     id="8bcc44fa-54e5-4cba-aed8-9462ee32ed2a">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -273,10 +273,11 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="61437fdc-6f7b-47d1-acad-397988b538e6"
-      targetConnections="dd91be55-33b2-4fcb-8ce0-e6f3fd7995eb">
+      targetConnections="dd91be55-33b2-4fcb-8ce0-e6f3fd7995eb"
+      textPosition="1">
     <bounds
-        x="240"
-        y="456"
+        x="252"
+        y="444"
         width="133"
         height="71"/>
     <archimateElement
@@ -286,10 +287,11 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="a44e1655-902f-4f0f-96a2-8e4a5ebfc45a"
-      targetConnections="49717857-f2c4-4cdc-8d3e-23376580d237">
+      targetConnections="49717857-f2c4-4cdc-8d3e-23376580d237"
+      textPosition="1">
     <bounds
-        x="384"
-        y="456"
+        x="396"
+        y="444"
         width="133"
         height="71"/>
     <archimateElement
@@ -299,10 +301,11 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="13c3c170-33af-4a57-a02d-2c298b1cdd69"
-      targetConnections="78ea7273-31cb-4b71-8af0-af290965cb91">
+      targetConnections="78ea7273-31cb-4b71-8af0-af290965cb91"
+      textPosition="1">
     <bounds
-        x="672"
-        y="456"
+        x="684"
+        y="444"
         width="133"
         height="71"/>
     <archimateElement
@@ -312,10 +315,11 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="ed8452ff-8f1f-4b52-8326-1ca1ee171f16"
-      targetConnections="0068c3f9-12fb-484d-bdf1-5840043f8d2a">
+      targetConnections="0068c3f9-12fb-484d-bdf1-5840043f8d2a"
+      textPosition="1">
     <bounds
-        x="531"
-        y="456"
+        x="543"
+        y="444"
         width="133"
         height="71"/>
     <archimateElement
