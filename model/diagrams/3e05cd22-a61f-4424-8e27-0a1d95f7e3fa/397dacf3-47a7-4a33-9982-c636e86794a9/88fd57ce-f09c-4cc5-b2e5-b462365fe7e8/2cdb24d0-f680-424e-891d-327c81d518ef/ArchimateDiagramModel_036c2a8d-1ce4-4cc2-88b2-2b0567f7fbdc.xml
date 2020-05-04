@@ -1,12 +1,12 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Innhenting av supplerende hendelsesrelaterte data"
+    name="Spørring mot hendelseslister - med innhenting av supplerende data"
     id="036c2a8d-1ce4-4cc2-88b2-2b0567f7fbdc">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="ae30e3c9-46db-430c-b018-c71f63495990"
-      targetConnections="0b1d5771-b4c0-4e11-b7d3-6835d310fa75"
+      targetConnections="0b1d5771-b4c0-4e11-b7d3-6835d310fa75 c1a21a6d-30ee-4e73-99f9-8554b77adf01"
       textPosition="1">
     <features
         name="gradient"
@@ -47,9 +47,9 @@
     </sourceConnections>
     <bounds
         x="72"
-        y="156"
+        y="120"
         width="133"
-        height="133"/>
+        height="169"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_ebe49991-06cd-4621-8493-41fa6f6dcb6f.xml#ebe49991-06cd-4621-8493-41fa6f6dcb6f"/>
@@ -80,11 +80,29 @@
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_69b4d7b4-4731-42e9-b380-f36ae40d52a5.xml#69b4d7b4-4731-42e9-b380-f36ae40d52a5"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="c1a21a6d-30ee-4e73-99f9-8554b77adf01"
+        lineColor="#000000"
+        source="e06005c3-9800-48f8-9207-b3e8dd9792df"
+        target="ae30e3c9-46db-430c-b018-c71f63495990">
+      <features
+          name="labelExpression"
+          value="forespørsel om &#xD;&#xA;notifikasjoner"/>
+      <bendpoints
+          startX="-162"
+          startY="-60"
+          endX="138"
+          endY="-60"/>
+      <archimateRelationship
+          xsi:type="archimate:FlowRelationship"
+          href="FlowRelationship_b7b3918f-e792-4fdf-95f4-ecc4a20401c5.xml#b7b3918f-e792-4fdf-95f4-ecc4a20401c5"/>
+    </sourceConnections>
     <bounds
         x="372"
-        y="156"
+        y="120"
         width="133"
-        height="133"/>
+        height="169"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_0382af42-2f20-4972-bbcd-c026966e08a9.xml#0382af42-2f20-4972-bbcd-c026966e08a9"/>
