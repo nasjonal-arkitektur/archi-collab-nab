@@ -22,8 +22,8 @@
           href="SpecializationRelationship_a308b432-52ad-4e8e-8c9b-49f3ad427973.xml#a308b432-52ad-4e8e-8c9b-49f3ad427973"/>
     </sourceConnections>
     <bounds
-        x="372"
-        y="396"
+        x="422"
+        y="384"
         width="133"
         height="71"/>
     <archimateElement
@@ -167,7 +167,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="958821df-e938-418a-b113-28f8a83b026e"
-          targetConnections="6daee9c9-fb58-45b0-b231-a2f7f62a8c76 3882e929-c56e-465f-8531-1af5f9fcb292 3098d6a5-a0d6-4a80-892d-858f85f05b0b 3c97784e-43bb-4082-a381-e002c37dd68f"
+          targetConnections="6daee9c9-fb58-45b0-b231-a2f7f62a8c76 3882e929-c56e-465f-8531-1af5f9fcb292 3098d6a5-a0d6-4a80-892d-858f85f05b0b"
           textPosition="1"
           type="1">
         <features
@@ -267,8 +267,8 @@
           href="ServingRelationship_11ee9cd6-6b35-47c4-a005-8a03c4cf8e39.xml#11ee9cd6-6b35-47c4-a005-8a03c4cf8e39"/>
     </sourceConnections>
     <bounds
-        x="120"
-        y="370"
+        x="96"
+        y="384"
         width="138"
         height="71"/>
     <archimateElement
@@ -304,7 +304,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="a53e6921-cc8f-44ea-8623-95944ecda0fc"
-      targetConnections="1707d991-5e4f-48f3-8e5f-f5102d96ee15 206c01eb-dcd1-4613-adfd-f6c2b4a0aca6"
+      targetConnections="1707d991-5e4f-48f3-8e5f-f5102d96ee15"
       textPosition="1">
     <features
         name="gradient"
@@ -328,47 +328,13 @@
           href="ServingRelationship_8e1c9273-9c22-4cff-bea5-56af4b469661.xml#8e1c9273-9c22-4cff-bea5-56af4b469661"/>
     </sourceConnections>
     <bounds
-        x="600"
+        x="576"
         y="288"
         width="138"
         height="71"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_fa413a11-edaa-4c1f-a120-63224851f08c.xml#fa413a11-edaa-4c1f-a120-63224851f08c"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="826f919c-da1c-42ee-9b1a-8bf153c66251"
-      textPosition="1">
-    <features
-        name="gradient"
-        value="0"/>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="206c01eb-dcd1-4613-adfd-f6c2b4a0aca6"
-        source="826f919c-da1c-42ee-9b1a-8bf153c66251"
-        target="a53e6921-cc8f-44ea-8623-95944ecda0fc">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_aef376e2-88fb-4f51-954f-47d360cbef08.xml#aef376e2-88fb-4f51-954f-47d360cbef08"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="3c97784e-43bb-4082-a381-e002c37dd68f"
-        source="826f919c-da1c-42ee-9b1a-8bf153c66251"
-        target="958821df-e938-418a-b113-28f8a83b026e">
-      <archimateRelationship
-          xsi:type="archimate:ServingRelationship"
-          href="ServingRelationship_f820c628-e645-47cc-bd7c-5d4b6a2aaf0e.xml#f820c628-e645-47cc-bd7c-5d4b6a2aaf0e"/>
-    </sourceConnections>
-    <bounds
-        x="540"
-        y="396"
-        width="133"
-        height="71"/>
-    <archimateElement
-        xsi:type="archimate:Capability"
-        href="Capability_627f362e-2204-42ce-a032-e904c0151e14.xml#627f362e-2204-42ce-a032-e904c0151e14"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -391,8 +357,8 @@
           href="SpecializationRelationship_60557fc5-1e71-4d33-b553-e2a7c828ec6e.xml#60557fc5-1e71-4d33-b553-e2a7c828ec6e"/>
     </sourceConnections>
     <bounds
-        x="216"
-        y="466"
+        x="264"
+        y="384"
         width="133"
         height="71"/>
     <archimateElement
@@ -414,8 +380,8 @@
           href="SpecializationRelationship_281454be-31e6-4eee-93d5-e3004fde1640.xml#281454be-31e6-4eee-93d5-e3004fde1640"/>
     </sourceConnections>
     <bounds
-        x="696"
-        y="396"
+        x="578"
+        y="384"
         width="133"
         height="71"/>
     <archimateElement
