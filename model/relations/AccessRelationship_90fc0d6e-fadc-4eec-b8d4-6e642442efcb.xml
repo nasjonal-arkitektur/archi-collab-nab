@@ -1,7 +1,7 @@
 <archimate:AccessRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="leser"
+    name="konsumerer"
     id="90fc0d6e-fadc-4eec-b8d4-6e642442efcb"
     accessType="1">
   <source

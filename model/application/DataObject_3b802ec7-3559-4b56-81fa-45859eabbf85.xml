@@ -1,7 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Øyeblikksbilde av subjekt etter hendelse"
-    id="187c3d5f-3dff-4eb7-b2ce-3801bc560c6a">
+    name="Hendelsestype (copy)"
+    id="3b802ec7-3559-4b56-81fa-45859eabbf85"
+    documentation="Identifikasjon av type hendelse. Dette kan være et entydig element i et kontrollert vokabular, men det kan også være &quot;fritekst&quot;.">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
@@ -19,11 +20,12 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Øyeblikkbilde etter hendelse"/>
+      value="Type hendelse"/>
   <properties
       key="difi:name_en"/>
   <properties
-      key="difi:description_no"/>
+      key="difi:description_no"
+      value="Identifikasjon av type hendelse. Dette kan være et entydig element i et kontrollert vokabular, men det kan også være &quot;fritekst&quot;."/>
   <properties
       key="difi:description_en"/>
   <properties
