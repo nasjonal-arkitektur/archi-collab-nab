@@ -1,4 +1,5 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inngå avtaler om tilgang og innhenting av hendelsesstrømmer "
-    id="03bc0a43-3378-43bf-a04c-8a5021afb0f6"/>
+    id="03bc0a43-3378-43bf-a04c-8a5021afb0f6"
+    documentation="Evnen til å inngå avtaler med datatilbyder om tilgang til hendelser gjennom hendelseslister med notifikasjoner."/>

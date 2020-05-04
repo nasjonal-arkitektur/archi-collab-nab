@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Registrering av abonnement"
-    id="c3773faa-e8de-4157-b8ab-66ad17f306d6"/>
+    name="Registrering av konsument av hendelsesliste"
+    id="c3773faa-e8de-4157-b8ab-66ad17f306d6"
+    documentation="Tjeneste for å registrere konsumenter av hendelseslite med notifikasjoner."/>

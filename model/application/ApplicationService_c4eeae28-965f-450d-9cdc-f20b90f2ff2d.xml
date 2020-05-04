@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Skriving av notifikasjon til eksponerte hendelseslister"
     id="c4eeae28-965f-450d-9cdc-f20b90f2ff2d"
-    documentation="Tjeneste for å skrive en notifikasjon til en eller flere hendelseslister, eventuelt med filtrering av informasjon ut fra hvem som er aktuelle konsumenter (abonnenter).">
+    documentation="Tjeneste for å skrive en notifikasjon til en eller flere hendelseslister, eventuelt med filtrering av informasjon ut fra hvem som er aktuelle konsumenter.">
   <properties
       key="difi:metaLevel"
       value="undefined"/>
