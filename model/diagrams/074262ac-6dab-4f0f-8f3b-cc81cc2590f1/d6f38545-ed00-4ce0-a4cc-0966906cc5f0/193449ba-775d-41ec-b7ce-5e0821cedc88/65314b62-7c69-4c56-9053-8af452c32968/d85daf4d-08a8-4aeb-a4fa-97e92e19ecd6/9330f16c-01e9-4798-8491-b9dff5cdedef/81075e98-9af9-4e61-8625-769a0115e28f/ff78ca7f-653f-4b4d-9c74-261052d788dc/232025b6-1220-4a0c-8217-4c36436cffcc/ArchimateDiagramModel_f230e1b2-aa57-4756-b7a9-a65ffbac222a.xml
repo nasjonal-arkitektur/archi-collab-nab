@@ -83,15 +83,6 @@
               xsi:type="archimate:TriggeringRelationship"
               href="TriggeringRelationship_a5bad2d9-97f0-44a4-97e0-4d038f98a701.xml#a5bad2d9-97f0-44a4-97e0-4d038f98a701"/>
         </sourceConnections>
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
-            id="c78fd247-4132-43b1-af8c-4784a95f5967"
-            source="75fb14ed-f598-4892-ad5a-30ccab2f4d2b"
-            target="7a7b5237-c2ec-48f3-8d81-0583ccb42a38">
-          <archimateRelationship
-              xsi:type="archimate:TriggeringRelationship"
-              href="TriggeringRelationship_76c616ed-8e14-4574-8a42-499d08c51a98.xml#76c616ed-8e14-4574-8a42-499d08c51a98"/>
-        </sourceConnections>
         <bounds
             x="240"
             y="36"
@@ -253,15 +244,6 @@
             xsi:type="archimate:CompositionRelationship"
             href="CompositionRelationship_24a3fdae-a0f3-4a1f-83e2-30233d1ee593.xml#24a3fdae-a0f3-4a1f-83e2-30233d1ee593"/>
       </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="8a63d577-4f4b-425b-b86c-0730c06b5457"
-          source="ed8560cc-8697-4f14-9f8e-36ef39e046cc"
-          target="7a7b5237-c2ec-48f3-8d81-0583ccb42a38">
-        <archimateRelationship
-            xsi:type="archimate:CompositionRelationship"
-            href="CompositionRelationship_4dd443b6-771a-4a53-b418-782616691ac3.xml#4dd443b6-771a-4a53-b418-782616691ac3"/>
-      </sourceConnections>
       <bounds
           x="24"
           y="36"
@@ -270,7 +252,7 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="a3eda6cd-56e4-4c11-ad7e-969ea8c00de6"
-          targetConnections="b984e71d-6f17-44ab-ac81-c786eec99a25 c581fb7b-a18f-4caa-affb-251468bdae58"
+          targetConnections="b984e71d-6f17-44ab-ac81-c786eec99a25 1f85e605-1347-4f8d-8684-eacbaff6de83"
           textPosition="1"
           type="1">
         <features
@@ -340,12 +322,12 @@
             value="1"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
-            id="424f5474-449e-4081-bb92-7a0d5f652f0c"
+            id="1f85e605-1347-4f8d-8684-eacbaff6de83"
             source="d54cafe0-8fb0-4adb-8850-61b7375c6ea4"
-            target="7a7b5237-c2ec-48f3-8d81-0583ccb42a38">
+            target="a3eda6cd-56e4-4c11-ad7e-969ea8c00de6">
           <archimateRelationship
               xsi:type="archimate:TriggeringRelationship"
-              href="TriggeringRelationship_7c00519c-9691-4e0e-8093-acd8826179f9.xml#7c00519c-9691-4e0e-8093-acd8826179f9"/>
+              href="TriggeringRelationship_de78a081-4235-4b39-a182-9941a86f0644.xml#de78a081-4235-4b39-a182-9941a86f0644"/>
         </sourceConnections>
         <bounds
             x="72"
@@ -355,33 +337,6 @@
         <archimateElement
             xsi:type="archimate:ValueStream"
             href="ValueStream_a2a3a005-617b-4b4f-9830-23287719081f.xml#a2a3a005-617b-4b4f-9830-23287719081f"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="7a7b5237-c2ec-48f3-8d81-0583ccb42a38"
-          targetConnections="c78fd247-4132-43b1-af8c-4784a95f5967 424f5474-449e-4081-bb92-7a0d5f652f0c 8a63d577-4f4b-425b-b86c-0730c06b5457"
-          textPosition="1"
-          type="1">
-        <features
-            name="gradient"
-            value="1"/>
-        <sourceConnections
-            xsi:type="archimate:DiagramModelArchimateConnection"
-            id="c581fb7b-a18f-4caa-affb-251468bdae58"
-            source="7a7b5237-c2ec-48f3-8d81-0583ccb42a38"
-            target="a3eda6cd-56e4-4c11-ad7e-969ea8c00de6">
-          <archimateRelationship
-              xsi:type="archimate:TriggeringRelationship"
-              href="TriggeringRelationship_0b035484-5e6c-4ea0-ad32-c2aa7003b4b6.xml#0b035484-5e6c-4ea0-ad32-c2aa7003b4b6"/>
-        </sourceConnections>
-        <bounds
-            x="240"
-            y="36"
-            width="133"
-            height="71"/>
-        <archimateElement
-            xsi:type="archimate:ValueStream"
-            href="ValueStream_42962d81-f124-4ac5-ba9e-a1f514c2283a.xml#42962d81-f124-4ac5-ba9e-a1f514c2283a"/>
       </children>
       <archimateElement
           xsi:type="archimate:ValueStream"
