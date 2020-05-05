@@ -1,22 +1,22 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Publisering med push mot abonnenter (copy)"
-    id="6d24b2a0-755b-479a-9cf7-e9ae464c49be">
+    name="Publisering med push mot abonnenter (copy) (copy)"
+    id="28897ef0-51cb-411b-b148-45d76cb4f7ec">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="c62a6325-2ff8-40fb-859b-1fb67f5ca67e"
+      id="934ab2d4-28c4-415f-bf28-ff22d80055ca"
       textPosition="1">
     <features
         name="gradient"
         value="1"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="452381f1-8339-484f-8b3a-442389f2a8f8"
+        id="a36ffca2-5bc9-4cc4-8f04-d84ae156ca9d"
         lineColor="#000000"
         textPosition="0"
-        source="c62a6325-2ff8-40fb-859b-1fb67f5ca67e"
-        target="bbce5623-d431-4137-9649-fd40b2104640">
+        source="934ab2d4-28c4-415f-bf28-ff22d80055ca"
+        target="559fcd1b-c19a-4e93-87ee-6abd5a7ea1de">
       <bendpoints
           startX="-197"
           startY="-35"
@@ -28,10 +28,10 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="567a1734-c7f4-434b-824f-562f67ac2ac3"
+        id="928a1f52-adfb-4673-b603-68514ad72571"
         lineColor="#000000"
-        source="c62a6325-2ff8-40fb-859b-1fb67f5ca67e"
-        target="b42d611c-302d-4301-b386-7d80b11ba048">
+        source="934ab2d4-28c4-415f-bf28-ff22d80055ca"
+        target="a2ed4fab-7838-47d0-af75-78baa8657e16">
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_669f54c5-d2ac-41cb-bf0c-b33c33f6b387.xml#669f54c5-d2ac-41cb-bf0c-b33c33f6b387"/>
@@ -47,18 +47,18 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="bbce5623-d431-4137-9649-fd40b2104640"
-      targetConnections="452381f1-8339-484f-8b3a-442389f2a8f8"
+      id="559fcd1b-c19a-4e93-87ee-6abd5a7ea1de"
+      targetConnections="a36ffca2-5bc9-4cc4-8f04-d84ae156ca9d"
       textPosition="1">
     <features
         name="gradient"
         value="1"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="70311796-0ac7-40ce-89a7-40c87283500a"
+        id="2155be59-33bc-4c67-84ae-2845998ad6c0"
         lineColor="#000000"
-        source="bbce5623-d431-4137-9649-fd40b2104640"
-        target="b42d611c-302d-4301-b386-7d80b11ba048">
+        source="559fcd1b-c19a-4e93-87ee-6abd5a7ea1de"
+        target="a2ed4fab-7838-47d0-af75-78baa8657e16">
       <features
           name="labelExpression"
           value="abonnerte &#xD;&#xA;notifikasjoner"/>
@@ -77,8 +77,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="b42d611c-302d-4301-b386-7d80b11ba048"
-      targetConnections="567a1734-c7f4-434b-824f-562f67ac2ac3 70311796-0ac7-40ce-89a7-40c87283500a"
+      id="a2ed4fab-7838-47d0-af75-78baa8657e16"
+      targetConnections="928a1f52-adfb-4673-b603-68514ad72571 2155be59-33bc-4c67-84ae-2845998ad6c0"
       lineColor="#5c5c5c"
       fillColor="#b5ffff"
       textPosition="1"

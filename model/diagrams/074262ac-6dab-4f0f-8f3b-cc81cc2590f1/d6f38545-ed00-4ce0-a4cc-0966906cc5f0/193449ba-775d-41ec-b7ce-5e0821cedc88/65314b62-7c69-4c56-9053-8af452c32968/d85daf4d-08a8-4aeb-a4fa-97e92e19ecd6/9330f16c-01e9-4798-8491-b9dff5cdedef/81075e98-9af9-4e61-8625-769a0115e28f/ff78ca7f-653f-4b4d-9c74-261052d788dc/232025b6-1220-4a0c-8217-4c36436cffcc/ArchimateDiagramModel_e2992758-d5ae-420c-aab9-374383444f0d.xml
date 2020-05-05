@@ -242,7 +242,7 @@
           href="ServingRelationship_f81d43ad-812c-4cc8-a061-9395f6f26e06.xml#f81d43ad-812c-4cc8-a061-9395f6f26e06"/>
     </sourceConnections>
     <bounds
-        x="48"
+        x="60"
         y="288"
         width="138"
         height="71"/>
@@ -262,12 +262,17 @@
         id="21444fa2-ccc5-4249-ad2c-81a5115f7bf1"
         source="549294e5-7886-42fd-aa16-6c38fcd8f550"
         target="91b4f6b3-f853-428a-a229-56d623024856">
+      <bendpoints
+          startX="39"
+          startY="-107"
+          endX="-6"
+          endY="123"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_11ee9cd6-6b35-47c4-a005-8a03c4cf8e39.xml#11ee9cd6-6b35-47c4-a005-8a03c4cf8e39"/>
     </sourceConnections>
     <bounds
-        x="96"
+        x="108"
         y="384"
         width="138"
         height="71"/>
