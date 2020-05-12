@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Publisering med push mot abonnenter (copy) (copy)"
+    name="Pushbasert levering av notifikasjoner til abonnenter"
     id="28897ef0-51cb-411b-b148-45d76cb4f7ec">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

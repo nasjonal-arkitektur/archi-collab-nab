@@ -219,6 +219,9 @@
         targetConnections="c3cbb0a4-397c-4a14-8a6b-dd36d78c69af"
         fontColor="#000000"
         textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="04f59280-a1f0-4f41-8677-88bb5f702301"

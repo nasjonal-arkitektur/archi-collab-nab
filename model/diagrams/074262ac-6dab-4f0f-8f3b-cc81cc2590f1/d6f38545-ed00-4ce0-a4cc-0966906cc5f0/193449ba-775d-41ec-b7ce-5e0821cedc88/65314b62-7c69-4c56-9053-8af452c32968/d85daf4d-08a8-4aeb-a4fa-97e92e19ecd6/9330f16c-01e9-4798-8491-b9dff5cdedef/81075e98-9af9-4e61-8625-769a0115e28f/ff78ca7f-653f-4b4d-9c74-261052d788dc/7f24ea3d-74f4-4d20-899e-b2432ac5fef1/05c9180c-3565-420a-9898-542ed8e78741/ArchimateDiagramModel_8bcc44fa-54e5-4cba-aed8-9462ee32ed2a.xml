@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Generer og publiser notifikasjoner"
+    name="Generere og publisere notifikasjoner"
     id="8bcc44fa-54e5-4cba-aed8-9462ee32ed2a">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -39,7 +39,7 @@
     </sourceConnections>
     <bounds
         x="108"
-        y="84"
+        y="96"
         width="133"
         height="71"/>
     <archimateElement
@@ -300,7 +300,7 @@
         x="348"
         y="444"
         width="133"
-        height="49"/>
+        height="71"/>
     <archimateElement
         xsi:type="archimate:DataObject"
         href="DataObject_d9db40fa-6e13-4bd0-b701-16694bc7afb5.xml#d9db40fa-6e13-4bd0-b701-16694bc7afb5"/>
@@ -317,7 +317,7 @@
         x="504"
         y="444"
         width="133"
-        height="49"/>
+        height="71"/>
     <archimateElement
         xsi:type="archimate:DataObject"
         href="DataObject_6aac0cd3-c219-4507-b5b8-89874cac1e0c.xml#6aac0cd3-c219-4507-b5b8-89874cac1e0c"/>
@@ -334,7 +334,7 @@
         x="648"
         y="444"
         width="133"
-        height="49"/>
+        height="71"/>
     <archimateElement
         xsi:type="archimate:DataObject"
         href="DataObject_cf641ae6-df2a-47e3-90d2-96b15200781d.xml#cf641ae6-df2a-47e3-90d2-96b15200781d"/>
@@ -353,7 +353,7 @@
       key="difi:description_en"/>
   <properties
       key="difi:docViewPath"
-      value="nab_referanse_arkitekturer_epublisering"/>
+      value="nab_referanse_arkitekturer_datautveksling_publisering"/>
   <properties
       key="difi:antoraViewPath"/>
   <properties

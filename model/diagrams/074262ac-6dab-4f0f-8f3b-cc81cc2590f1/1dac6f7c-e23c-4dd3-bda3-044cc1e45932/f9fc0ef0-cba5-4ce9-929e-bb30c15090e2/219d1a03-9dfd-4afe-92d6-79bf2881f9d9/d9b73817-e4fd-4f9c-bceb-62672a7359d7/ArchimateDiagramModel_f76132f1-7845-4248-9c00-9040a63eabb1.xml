@@ -9,6 +9,9 @@
       font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
       fillColor="#fff1dd">
+    <features
+        name="gradient"
+        value="1"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="aa687894-24d5-4217-bdee-6ebc60c86594"
@@ -110,15 +113,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="597de189-b323-4075-9c27-51b325f8ac38"
-        source="7da8f0fe-4519-4655-8b83-aff4ca6e638a"
-        target="83741c54-c003-4d8c-99de-ff83fcd989f7">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_0647f9ac-bb1c-4062-98d4-82c970b7b480.xml#0647f9ac-bb1c-4062-98d4-82c970b7b480"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="7869c92d-2e48-47a4-8084-965fea89a873"
         source="7da8f0fe-4519-4655-8b83-aff4ca6e638a"
         target="0768c5b4-5dac-4eca-9165-5a579fe88567">
@@ -191,6 +185,9 @@
         targetConnections="9306d7a4-2371-4b2e-bc29-dfee9d404d19"
         fillColor="#feeab6"
         textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
       <bounds
           x="660"
           y="36"
@@ -206,6 +203,9 @@
         targetConnections="fda93b14-60ec-4984-a661-391786c34d42"
         fillColor="#feeab6"
         textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
       <bounds
           x="504"
           y="120"
@@ -221,6 +221,9 @@
         targetConnections="10500c17-e15e-48d6-b67b-f85cfe25e063"
         fillColor="#feeab6"
         textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
       <bounds
           x="348"
           y="36"
@@ -236,6 +239,9 @@
         targetConnections="aaba9bc4-9ea0-4e53-b9ab-eb734acdf1a7"
         fillColor="#feeab6"
         textPosition="2">
+      <features
+          name="gradient"
+          value="1"/>
       <bounds
           x="348"
           y="120"
@@ -252,6 +258,9 @@
         fontColor="#000000"
         fillColor="#feeab6"
         textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
       <bounds
           x="192"
           y="204"
@@ -268,6 +277,9 @@
         fontColor="#000000"
         fillColor="#feeab6"
         textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
       <bounds
           x="192"
           y="36"
@@ -284,8 +296,11 @@
         fontColor="#000000"
         fillColor="#feeab6"
         textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
       <bounds
-          x="504"
+          x="348"
           y="288"
           width="138"
           height="71"/>
@@ -300,6 +315,9 @@
         fontColor="#000000"
         fillColor="#feeab6"
         textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
       <bounds
           x="348"
           y="204"
@@ -316,6 +334,9 @@
         fontColor="#000000"
         fillColor="#feeab6"
         textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
       <bounds
           x="504"
           y="36"
@@ -331,6 +352,9 @@
         targetConnections="2202bd4d-7881-4eb3-86fc-235f0aa4296a"
         fillColor="#feeab6"
         textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
       <bounds
           x="36"
           y="36"
@@ -346,6 +370,9 @@
         targetConnections="365718d4-1ce2-4a7e-a70d-4da5b75bdd99"
         fillColor="#feeab6"
         textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
       <bounds
           x="192"
           y="120"
@@ -362,8 +389,11 @@
         fontColor="#000000"
         fillColor="#feeab6"
         textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
       <bounds
-          x="348"
+          x="192"
           y="288"
           width="138"
           height="71"/>
@@ -378,9 +408,12 @@
         fontColor="#000000"
         fillColor="#feeab6"
         textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
       <bounds
           x="36"
-          y="288"
+          y="204"
           width="138"
           height="71"/>
       <archimateElement
@@ -394,8 +427,11 @@
         fontColor="#000000"
         fillColor="#feeab6"
         textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
       <bounds
-          x="192"
+          x="36"
           y="288"
           width="138"
           height="71"/>
@@ -410,6 +446,9 @@
         fontColor="#000000"
         fillColor="#feeab6"
         textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
       <bounds
           x="660"
           y="204"
@@ -426,6 +465,9 @@
         fontColor="#000000"
         fillColor="#feeab6"
         textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
       <bounds
           x="36"
           y="120"
@@ -441,6 +483,9 @@
         targetConnections="7607a100-f3db-44cf-9815-836b067374fc"
         fillColor="#feeab6"
         textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
       <bounds
           x="660"
           y="120"
@@ -450,40 +495,27 @@
           xsi:type="archimate:Grouping"
           href="Grouping_8685f4e1-c165-4a54-b048-49ff197672e6.xml#8685f4e1-c165-4a54-b048-49ff197672e6"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="0768c5b4-5dac-4eca-9165-5a579fe88567"
+        targetConnections="7869c92d-2e48-47a4-8084-965fea89a873"
+        fillColor="#feeab6"
+        textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
+      <bounds
+          x="504"
+          y="204"
+          width="138"
+          height="71"/>
+      <archimateElement
+          xsi:type="archimate:Grouping"
+          href="Grouping_99fd201d-d4a0-4e42-ae0d-d7f28e7c9278.xml#99fd201d-d4a0-4e42-ae0d-d7f28e7c9278"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_cb109445-ddca-4deb-bcd9-becdde0e0ece.xml#cb109445-ddca-4deb-bcd9-becdde0e0ece"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="83741c54-c003-4d8c-99de-ff83fcd989f7"
-      targetConnections="597de189-b323-4075-9c27-51b325f8ac38"
-      fontColor="#000000"
-      fillColor="#feeab6"
-      textPosition="1">
-    <bounds
-        x="48"
-        y="432"
-        width="138"
-        height="71"/>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_f7059b5a-651e-4f9f-b403-5073af47d0f5.xml#f7059b5a-651e-4f9f-b403-5073af47d0f5"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="0768c5b4-5dac-4eca-9165-5a579fe88567"
-      targetConnections="7869c92d-2e48-47a4-8084-965fea89a873"
-      fillColor="#feeab6"
-      textPosition="1">
-    <bounds
-        x="540"
-        y="444"
-        width="138"
-        height="71"/>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_99fd201d-d4a0-4e42-ae0d-d7f28e7c9278.xml#99fd201d-d4a0-4e42-ae0d-d7f28e7c9278"/>
   </children>
   <properties
       key="difi:language"

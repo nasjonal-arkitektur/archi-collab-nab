@@ -1,8 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Generere og tilby notifikasjoner"
+    name="Generere og publisere notifikasjoner"
     id="46c24fa7-6787-4f2b-9d53-7184b04a351c"
-    documentation="Evnen til å dele informasjon om hendelser gjennom notifikasjoner som tilgjengeliggjøres for konsumenter gjennom hendelseslister.">
+    documentation="Evnen til å generere notifikasjoner som data om hendelser, samt å publisere slike notifikasjoner i en eller flere hendelseslister, eventuelt tilpasset ulike målgrupper.">
   <properties
       key="difi:metaLevel"
       value="undefined"/>

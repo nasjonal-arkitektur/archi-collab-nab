@@ -1,11 +1,15 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gi tilgang til notifikasjoner og hendelser"
+    name="Inngå avtaler om tilgang og levering av hendelsesstrømmer"
     id="ae91ce5c-67e9-431f-b0ff-52208a4ddd50">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="3769aeb5-1b10-4082-9b26-1763d27d0296">
+      id="3769aeb5-1b10-4082-9b26-1763d27d0296"
+      font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI">
+    <features
+        name="gradient"
+        value="1"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="c5a7f4e3-22a2-421a-99f6-7940aec74e50"
@@ -18,6 +22,7 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="2b0c12bd-994f-4516-abee-b95220bc3a43"
+        textPosition="0"
         source="3769aeb5-1b10-4082-9b26-1763d27d0296"
         target="64f2abdf-b5be-4e06-a03d-6678bfe9c887">
       <archimateRelationship
@@ -43,6 +48,9 @@
         id="acd1b3f6-7e65-4259-9eb3-a30c11c2e2d2"
         targetConnections="c5a7f4e3-22a2-421a-99f6-7940aec74e50"
         textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="11938f56-25d3-4f22-b2df-82fb368a6838"
@@ -66,6 +74,9 @@
         id="4b67b3c9-85d2-4bf2-8024-c1b6760467fa"
         targetConnections="09022087-1c95-4254-9478-d0e8add33232 11938f56-25d3-4f22-b2df-82fb368a6838 28dd3dda-f778-40cc-b4b4-24409a1bb848"
         textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
       <bounds
           x="204"
           y="36"
@@ -83,6 +94,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="1a6d52b8-2705-4b6e-aa6e-07b290642241"
       textPosition="1">
+    <features
+        name="gradient"
+        value="1"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="45c6e72c-3e3e-49d1-941f-0c70cf9eb204"
@@ -93,8 +107,8 @@
           href="AssociationRelationship_f48fc255-67fc-477f-97f2-a7ccc392a9c4.xml#f48fc255-67fc-477f-97f2-a7ccc392a9c4"/>
     </sourceConnections>
     <bounds
-        x="170"
-        y="108"
+        x="156"
+        y="110"
         width="133"
         height="71"/>
     <archimateElement
@@ -106,6 +120,9 @@
       id="27cf8575-6778-409f-9648-83fb27d00f85"
       textPosition="1"
       type="1">
+    <features
+        name="gradient"
+        value="1"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="28dd3dda-f778-40cc-b4b4-24409a1bb848"
@@ -133,14 +150,29 @@
       textPosition="1">
     <features
         name="gradient"
-        value="0"/>
+        value="1"/>
     <bounds
-        x="170"
-        y="216"
+        x="156"
+        y="218"
         width="133"
         height="71"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_cf897fd3-bb18-4b0a-872c-5223b9b543bc.xml#cf897fd3-bb18-4b0a-872c-5223b9b543bc"/>
   </children>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Gi tilgang til notifikasjoner og hendelser"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="difi:docViewPath"
+      value="nab_referanse_arkitekturer_datautveksling_publisering"/>
 </archimate:ArchimateDiagramModel>

@@ -21,7 +21,7 @@
       value="no"/>
   <properties
       key="label"
-      value="${name} [ns:${property:difi:namespace}]"/>
+      value="${name}"/>
   <properties
       key="dct:type"
       value="archi:grouping"/>
@@ -33,4 +33,7 @@
       value="undefined"/>
   <properties
       key="difi:notes"/>
+  <properties
+      key="drill down"
+      value="cf4eda21-c489-462c-8935-e6a8ccb9b0cd"/>
 </archimate:Grouping>

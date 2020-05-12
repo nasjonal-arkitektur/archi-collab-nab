@@ -1,6 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="eventuelt minimert"
     id="b14920b8-6662-452c-a038-f381ce00849c"
     directed="true">
   <source
