@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Del og innhent data, verdistrøm (copy)"
+    name="Del og innhent data, verdistrøm"
     id="9aa92583-a5d4-484b-a630-e2f17380fb24">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

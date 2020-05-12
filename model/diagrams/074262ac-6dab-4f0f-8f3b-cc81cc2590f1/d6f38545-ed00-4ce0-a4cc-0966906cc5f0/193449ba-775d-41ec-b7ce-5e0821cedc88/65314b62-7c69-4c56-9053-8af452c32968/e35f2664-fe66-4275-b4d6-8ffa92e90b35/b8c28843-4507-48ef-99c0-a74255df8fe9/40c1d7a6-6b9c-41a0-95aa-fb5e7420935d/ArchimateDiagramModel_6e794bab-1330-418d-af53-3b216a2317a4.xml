@@ -330,6 +330,9 @@
             id="f5ffc2e2-aecd-4848-93ff-f6c747077b94"
             source="d197becc-9a84-4035-a383-095eb8b48fa3"
             target="d0dc56e6-092d-437e-b4fc-cf21b19bd275">
+          <features
+              name="labelExpression"
+              value="&#xD;&#xA;åpne data og standardløsning"/>
           <bendpoints
               startX="-9"
               startY="-59"
