@@ -5,7 +5,8 @@
     id="37bd9498-5180-4dc7-a901-337f97156d64">
   <children
       xsi:type="archimate:DiagramModelReference"
-      id="a783e502-b0d9-4e5d-ab95-11f5947a5a32">
+      id="a783e502-b0d9-4e5d-ab95-11f5947a5a32"
+      textPosition="1">
     <bounds
         x="204"
         y="60"

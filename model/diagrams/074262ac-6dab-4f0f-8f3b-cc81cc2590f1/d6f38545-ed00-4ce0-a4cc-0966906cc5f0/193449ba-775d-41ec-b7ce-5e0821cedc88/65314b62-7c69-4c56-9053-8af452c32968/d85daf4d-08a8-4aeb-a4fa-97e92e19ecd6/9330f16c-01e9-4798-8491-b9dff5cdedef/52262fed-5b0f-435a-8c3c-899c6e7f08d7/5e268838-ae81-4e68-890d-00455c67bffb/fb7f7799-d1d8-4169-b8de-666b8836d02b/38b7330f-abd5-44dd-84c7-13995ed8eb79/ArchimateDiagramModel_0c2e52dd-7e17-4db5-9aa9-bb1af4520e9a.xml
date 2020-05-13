@@ -8,6 +8,9 @@
       id="277e33e7-9325-4dac-adb5-11f2ae37d26e"
       textPosition="1"
       type="1">
+    <features
+        name="gradient"
+        value="1"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="f47a7dc5-5dc3-4de2-99a3-46d030b54263"
@@ -18,8 +21,8 @@
           href="ServingRelationship_45407d5a-2ffa-4b80-876f-a0910503872a.xml#45407d5a-2ffa-4b80-876f-a0910503872a"/>
     </sourceConnections>
     <bounds
-        x="444"
-        y="336"
+        x="432"
+        y="324"
         width="133"
         height="70"/>
     <archimateElement
@@ -30,6 +33,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="e7b1032f-66dd-468a-9f4b-59c8095702f9"
       targetConnections="3886418f-e770-4371-8920-21ae307d5f70">
+    <features
+        name="gradient"
+        value="1"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="8c49af29-2573-47f8-8c72-88b6cba5f290"
@@ -58,6 +64,9 @@
         id="33092330-ce26-412f-a5e2-5aa02f9c29a8"
         targetConnections="8c49af29-2573-47f8-8c72-88b6cba5f290 f47a7dc5-5dc3-4de2-99a3-46d030b54263 c9265d2e-7b86-4dd2-ac5c-25b171eb1cb6"
         textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
       <bounds
           x="216"
           y="36"
@@ -72,6 +81,9 @@
         id="d0a5739a-9e86-49b5-821e-acdc0478f6e4"
         targetConnections="eb6adbc5-26e3-46ad-b33b-a3ac920dd078"
         textPosition="1">
+      <features
+          name="gradient"
+          value="1"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="bbe2232a-42db-4cac-b9e4-ccf3d1fc7785"
@@ -108,6 +120,9 @@
       id="9f31126a-9033-4cc7-a57a-c22312702cdc"
       targetConnections="214f672d-593c-4872-826b-d7a24aaa0073"
       textPosition="1">
+    <features
+        name="gradient"
+        value="1"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="3886418f-e770-4371-8920-21ae307d5f70"
@@ -131,6 +146,9 @@
       id="b51ed9f4-c52e-4d1d-94f5-6d09edcc5e5b"
       targetConnections="bbe2232a-42db-4cac-b9e4-ccf3d1fc7785"
       textPosition="1">
+    <features
+        name="gradient"
+        value="1"/>
     <bounds
         x="252"
         y="60"
@@ -144,6 +162,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="03ba9933-a05d-4d76-8115-946d84b2eb8d"
       textPosition="1">
+    <features
+        name="gradient"
+        value="1"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="214f672d-593c-4872-826b-d7a24aaa0073"

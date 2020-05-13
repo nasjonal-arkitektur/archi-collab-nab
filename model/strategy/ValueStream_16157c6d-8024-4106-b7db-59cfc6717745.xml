@@ -1,6 +1,6 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Del data operativt"
+    name="Del data"
     id="16157c6d-8024-4106-b7db-59cfc6717745"
     documentation="&quot;Del data (operativt)&quot; handler om utveksling av data gjennom etablerte kanaler og iht. avtaler. Dette forutsetter også håndtering av avvik og ikke-tilsiktede hendelser.&#xD;&#xA;">
   <properties

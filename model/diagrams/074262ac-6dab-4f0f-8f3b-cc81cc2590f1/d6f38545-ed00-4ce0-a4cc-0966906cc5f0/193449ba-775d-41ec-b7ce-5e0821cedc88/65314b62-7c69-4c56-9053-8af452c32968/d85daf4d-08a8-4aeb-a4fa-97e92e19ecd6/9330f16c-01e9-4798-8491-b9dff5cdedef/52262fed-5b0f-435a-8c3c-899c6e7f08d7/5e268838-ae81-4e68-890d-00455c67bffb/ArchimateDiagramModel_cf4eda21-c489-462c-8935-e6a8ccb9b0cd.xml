@@ -24,6 +24,11 @@
         id="8e2807aa-7006-4dbd-a899-c708bc5e261f"
         source="832f5fe8-0ea3-4a43-8cc0-51eefeab6afe"
         target="5693577e-aeea-4370-a395-d756b72ee1f0">
+      <bendpoints
+          startX="-135"
+          startY="-96"
+          endX="150"
+          endY="1"/>
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_e747078b-72ce-41cf-9f07-5fb6ef106cf7.xml#e747078b-72ce-41cf-9f07-5fb6ef106cf7"/>
@@ -184,6 +189,16 @@
       <features
           name="gradient"
           value="1"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="edab5c50-44e5-4987-86ad-c1e761b8b48c"
+          lineColor="#000000"
+          source="4f249125-b3fb-4e57-a224-91e4429cde01"
+          target="2f67642e-b20c-40cb-b698-d30922a24449">
+        <archimateRelationship
+            xsi:type="archimate:FlowRelationship"
+            href="FlowRelationship_11e01263-87c2-4b67-9f46-870d5952ccfb.xml#11e01263-87c2-4b67-9f46-870d5952ccfb"/>
+      </sourceConnections>
       <bounds
           x="24"
           y="120"
@@ -196,7 +211,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="2f67642e-b20c-40cb-b698-d30922a24449"
-        targetConnections="65fcfc86-0c7d-4ebd-8a55-dc413d32bdf4 f1222015-99de-436b-9f1e-0abe560ca76e"
+        targetConnections="65fcfc86-0c7d-4ebd-8a55-dc413d32bdf4 f1222015-99de-436b-9f1e-0abe560ca76e edab5c50-44e5-4987-86ad-c1e761b8b48c"
         textPosition="1">
       <features
           name="gradient"

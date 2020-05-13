@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Inngangsport referansearkitektur for datautveksling"
+    name="Referansearkitekturer for datautveksling"
     id="c369a1ce-cb80-4ffc-a30e-fe90a864ed53">
   <children
       xsi:type="archimate:DiagramModelReference"

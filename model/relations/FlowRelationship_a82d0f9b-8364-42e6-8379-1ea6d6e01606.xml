@@ -1,7 +1,6 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="henvendelse"
     id="a82d0f9b-8364-42e6-8379-1ea6d6e01606">
   <properties
       key="label"
