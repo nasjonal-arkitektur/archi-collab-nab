@@ -17,7 +17,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Sømløse sluttbrukertjenester"/>
+      value="Sammenhengende tjenester med brukerne i sentrum"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -26,7 +26,7 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name} [lang:]"/>
+      value="${name}"/>
   <properties
       key="difi:metaLevel"
       value="undefined"/>

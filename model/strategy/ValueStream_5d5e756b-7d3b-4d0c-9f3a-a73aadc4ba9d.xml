@@ -1,6 +1,6 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gjennomfør hendelsesdrevet prosessteg"
+    name="Utfør steg i samhandlingsprosess"
     id="5d5e756b-7d3b-4d0c-9f3a-a73aadc4ba9d">
   <properties
       key="difi:metaLevel"
@@ -31,4 +31,7 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
+  <properties
+      key="drill down"
+      value="3c9586f5-3098-4147-a9cc-eaf8594f626f"/>
 </archimate:ValueStream>
