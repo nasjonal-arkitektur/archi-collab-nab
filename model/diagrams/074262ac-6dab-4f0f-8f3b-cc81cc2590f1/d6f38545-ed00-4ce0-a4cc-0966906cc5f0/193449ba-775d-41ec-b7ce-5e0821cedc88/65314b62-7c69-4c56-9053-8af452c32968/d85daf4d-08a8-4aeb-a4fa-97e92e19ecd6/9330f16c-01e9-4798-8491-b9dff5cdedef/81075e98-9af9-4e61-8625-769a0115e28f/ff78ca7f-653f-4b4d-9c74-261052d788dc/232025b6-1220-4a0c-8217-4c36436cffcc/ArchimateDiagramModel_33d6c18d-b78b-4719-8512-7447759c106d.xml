@@ -75,6 +75,9 @@
         <features
             name="gradient"
             value="1"/>
+        <features
+            name="labelExpression"
+            value="Innhent  &#xD;&#xA;notifikasjoner"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="c450c4e4-34de-49fe-9bef-dcbf9fac42d1"
@@ -85,7 +88,7 @@
               href="TriggeringRelationship_fbaa7155-e1e0-4457-880e-abf4c8e9e305.xml#fbaa7155-e1e0-4457-880e-abf4c8e9e305"/>
         </sourceConnections>
         <bounds
-            x="312"
+            x="360"
             y="36"
             width="133"
             height="71"/>

@@ -9,6 +9,9 @@
       fillColor="#ffe49f"
       textPosition="1"
       type="1">
+    <features
+        name="gradient"
+        value="1"/>
     <bounds
         x="108"
         y="72"
@@ -24,6 +27,9 @@
       fillColor="#ffe49f"
       textPosition="1"
       type="1">
+    <features
+        name="gradient"
+        value="1"/>
     <bounds
         x="264"
         y="72"
@@ -39,6 +45,9 @@
       fillColor="#ffe49f"
       textPosition="1"
       type="1">
+    <features
+        name="gradient"
+        value="1"/>
     <bounds
         x="420"
         y="72"
@@ -54,6 +63,9 @@
       targetConnections="f4d5fe92-4003-40b7-a055-6f7ab0008c6d"
       textAlignment="1"
       fillColor="#fff7e6">
+    <features
+        name="gradient"
+        value="1"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="5a3ca316-a909-4427-b501-5b921dc697ca"
@@ -93,6 +105,9 @@
         textAlignment="1"
         fillColor="#dcfeec"
         type="1">
+      <features
+          name="gradient"
+          value="1"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="f718c0df-81dd-4aca-96b2-094df4cc5e9d"
@@ -121,6 +136,9 @@
           id="cca073f5-0345-404e-a9c5-bc5318e8451c"
           targetConnections="f718c0df-81dd-4aca-96b2-094df4cc5e9d"
           fillColor="#fff7e6">
+        <features
+            name="gradient"
+            value="1"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="6f53054c-c9aa-47a3-9bf3-bd2a11fe35b2"
@@ -158,6 +176,9 @@
             id="d718c3e7-4fac-4b33-b87a-13ede1b820a8"
             targetConnections="cf871ec9-9702-43a9-a7e2-dc1cfb71b556"
             textPosition="1">
+          <features
+              name="gradient"
+              value="1"/>
           <bounds
               x="336"
               y="36"
@@ -172,6 +193,9 @@
             id="12e59ef2-9a69-4997-bfae-77edbf6d8a9a"
             targetConnections="6f53054c-c9aa-47a3-9bf3-bd2a11fe35b2"
             textPosition="1">
+          <features
+              name="gradient"
+              value="1"/>
           <bounds
               x="24"
               y="36"
@@ -186,6 +210,9 @@
             id="fbbaf5e2-4155-422f-b98f-ee4db5025ea5"
             targetConnections="207e657c-682f-4c54-8cab-1e311d1fe1c1"
             textPosition="1">
+          <features
+              name="gradient"
+              value="1"/>
           <bounds
               x="180"
               y="36"
@@ -204,6 +231,9 @@
           id="ab5f4d16-c68a-4824-848d-fa714c01a7a8"
           targetConnections="8813f727-bb9c-4d09-b629-22f782a118cc"
           fillColor="#fff7e6">
+        <features
+            name="gradient"
+            value="1"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="4aaefe84-2ad9-4779-8b7c-58d1b274a4ff"
@@ -241,6 +271,9 @@
             id="8e362d5b-2d19-498c-80a4-d087a4413211"
             targetConnections="ca6633e9-cb13-4f2d-82b9-d3d3e507b803"
             textPosition="1">
+          <features
+              name="gradient"
+              value="1"/>
           <bounds
               x="336"
               y="36"
@@ -255,6 +288,9 @@
             id="1f1d50e6-ac00-4d48-84fc-c6dd743aa470"
             targetConnections="4aaefe84-2ad9-4779-8b7c-58d1b274a4ff"
             textPosition="1">
+          <features
+              name="gradient"
+              value="1"/>
           <bounds
               x="24"
               y="36"
@@ -269,6 +305,9 @@
             id="b0a0ec77-ad38-4944-ae23-08b93cdbe903"
             targetConnections="c36e6475-ff7d-4ce3-be0a-88c7774974d7"
             textPosition="1">
+          <features
+              name="gradient"
+              value="1"/>
           <bounds
               x="180"
               y="36"
@@ -293,6 +332,9 @@
         textAlignment="1"
         fillColor="#e8faff"
         type="1">
+      <features
+          name="gradient"
+          value="1"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="07f28991-a480-4d70-97f2-ed17897953f2"
@@ -330,6 +372,9 @@
           id="af845b72-d2fe-4660-b41d-cb24cf6d06bb"
           targetConnections="07f28991-a480-4d70-97f2-ed17897953f2"
           fillColor="#fff7e6">
+        <features
+            name="gradient"
+            value="1"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="d75e4798-1eff-4b81-9da2-6fe724f9f46b"
@@ -367,6 +412,9 @@
             id="68a9e19d-5ff0-46f4-88ef-b0963e4689e9"
             targetConnections="91366753-da2e-41fe-9d77-268dbd668298"
             textPosition="1">
+          <features
+              name="gradient"
+              value="1"/>
           <bounds
               x="180"
               y="36"
@@ -381,6 +429,9 @@
             id="5440d67f-4763-4099-9618-bb55e09f5a4e"
             targetConnections="4aa9c045-2e69-4c5f-9f78-21e2a00a8ed2"
             textPosition="1">
+          <features
+              name="gradient"
+              value="1"/>
           <bounds
               x="24"
               y="36"
@@ -395,6 +446,9 @@
             id="ef91ac49-07bc-4358-bd9b-4ef5584830d0"
             targetConnections="d75e4798-1eff-4b81-9da2-6fe724f9f46b"
             textPosition="1">
+          <features
+              name="gradient"
+              value="1"/>
           <bounds
               x="336"
               y="36"
@@ -413,6 +467,9 @@
           id="f7149f59-9620-4fd3-8def-95a9dd62dc15"
           targetConnections="00beebd8-d2d5-48aa-83ae-78add95e77d4"
           fillColor="#fff7e6">
+        <features
+            name="gradient"
+            value="1"/>
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="533f87b4-cb1e-44d5-864e-8633c63b445a"
@@ -450,6 +507,9 @@
             id="49ea46c2-2108-44a2-89fd-592c4fdbf2d1"
             targetConnections="0930dc6a-5f0f-4061-bb17-8868a42ee4f4"
             textPosition="1">
+          <features
+              name="gradient"
+              value="1"/>
           <bounds
               x="180"
               y="36"
@@ -464,6 +524,9 @@
             id="f20a57d6-e865-4c4b-887d-745cc971e8fc"
             targetConnections="533f87b4-cb1e-44d5-864e-8633c63b445a"
             textPosition="1">
+          <features
+              name="gradient"
+              value="1"/>
           <bounds
               x="336"
               y="36"
@@ -478,6 +541,9 @@
             id="884b8a77-cca6-403f-a87d-8ef992b05429"
             targetConnections="4cb68e8f-ffdf-4cd6-8c26-716792f313a9"
             textPosition="1">
+          <features
+              name="gradient"
+              value="1"/>
           <bounds
               x="24"
               y="36"
@@ -502,6 +568,9 @@
         textAlignment="1"
         fillColor="#fef4ff"
         type="1">
+      <features
+          name="gradient"
+          value="1"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="260b5cc2-08f5-4663-bfa6-804836e39142"
@@ -594,6 +663,9 @@
           targetConnections="81736e25-1ecc-4460-9ff4-fe736bea97f7"
           fillColor="#feeab6"
           textPosition="1">
+        <features
+            name="gradient"
+            value="1"/>
         <bounds
             x="588"
             y="36"
@@ -609,6 +681,9 @@
           targetConnections="697ee4ec-6b60-4024-a669-460e52f9f4a5"
           fillColor="#feeab6"
           textPosition="1">
+        <features
+            name="gradient"
+            value="1"/>
         <bounds
             x="768"
             y="36"
@@ -624,6 +699,9 @@
           targetConnections="872493a9-cac2-4028-bf8d-9f0092deaa27"
           fillColor="#feeab6"
           textPosition="1">
+        <features
+            name="gradient"
+            value="1"/>
         <bounds
             x="228"
             y="36"
@@ -639,6 +717,9 @@
           targetConnections="260b5cc2-08f5-4663-bfa6-804836e39142"
           fillColor="#feeab6"
           textPosition="1">
+        <features
+            name="gradient"
+            value="1"/>
         <bounds
             x="48"
             y="36"
@@ -654,6 +735,9 @@
           targetConnections="2f0ca196-3fca-4f45-974a-b765322bcd84"
           fillColor="#feeab6"
           textPosition="1">
+        <features
+            name="gradient"
+            value="1"/>
         <bounds
             x="408"
             y="36"
@@ -669,6 +753,9 @@
           targetConnections="9739ee56-99a1-4f4f-b3e0-da52ddb6913d"
           fillColor="#feeab6"
           textPosition="1">
+        <features
+            name="gradient"
+            value="1"/>
         <bounds
             x="948"
             y="36"

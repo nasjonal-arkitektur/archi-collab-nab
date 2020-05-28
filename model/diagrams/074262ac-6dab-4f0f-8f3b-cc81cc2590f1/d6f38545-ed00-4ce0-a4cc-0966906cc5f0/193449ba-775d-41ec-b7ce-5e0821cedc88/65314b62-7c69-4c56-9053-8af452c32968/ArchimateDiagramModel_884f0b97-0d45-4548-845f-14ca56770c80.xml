@@ -9,6 +9,9 @@
       font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       textAlignment="1"
       fillColor="#fff1dd">
+    <features
+        name="gradient"
+        value="1"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="a415e761-ba6f-4f97-88a9-c172c343fc24"
@@ -47,6 +50,9 @@
         targetConnections="78546ebb-4086-413a-9149-6fbf2df556b3"
         textAlignment="1"
         fillColor="#ffe49f">
+      <features
+          name="gradient"
+          value="1"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="43669b3b-3993-49fc-bbd9-9563071a94d3"
@@ -69,6 +75,9 @@
         <features
             name="labelExpression"
             value="${name}"/>
+        <features
+            name="gradient"
+            value="1"/>
         <bounds
             x="24"
             y="36"
@@ -88,6 +97,9 @@
         targetConnections="c0093d86-da65-4599-ba74-53db76d409ec"
         textAlignment="1"
         fillColor="#ffe49f">
+      <features
+          name="gradient"
+          value="1"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="0e4f923b-41c4-47ce-90a4-c61d73c88693"
@@ -107,6 +119,9 @@
           id="c50eb68e-4d01-41c3-a280-63df5d2ba7d6"
           targetConnections="0e4f923b-41c4-47ce-90a4-c61d73c88693"
           textPosition="1">
+        <features
+            name="gradient"
+            value="1"/>
         <bounds
             x="24"
             y="36"
@@ -126,6 +141,9 @@
         targetConnections="a415e761-ba6f-4f97-88a9-c172c343fc24"
         textAlignment="1"
         fillColor="#ffe49f">
+      <features
+          name="gradient"
+          value="1"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="2b1c7eac-d587-4f14-83ba-19ec347b93f4"
@@ -145,6 +163,9 @@
           id="708d3c41-1dcd-4f24-8060-c243e54eeb30"
           targetConnections="2b1c7eac-d587-4f14-83ba-19ec347b93f4"
           textPosition="1">
+        <features
+            name="gradient"
+            value="1"/>
         <bounds
             x="24"
             y="36"

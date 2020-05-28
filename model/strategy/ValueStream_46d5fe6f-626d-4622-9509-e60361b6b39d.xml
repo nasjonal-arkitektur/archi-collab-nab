@@ -1,8 +1,7 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Sett opp avtaler, IT-løsninger og tilganger mot aktuelle konsumenter"
-    id="46d5fe6f-626d-4622-9509-e60361b6b39d"
-    documentation="&quot;Sett opp avtaler, IT-løsninger og tilganger mot aktuelle konsumenter&quot; handler om å etablere, integrere og konfigurere avtaler og it-løsninger mellom partene så alt er klart for at data kan utveksles. &#xD;&#xA;&#xD;&#xA;Merk: Tilgangsstyring må settes opp i sammenheng med, eller etter, utvikling eller oppsett av løsninger.">
+    name="Sett opp avtaler, løsninger og tilganger etter henvendelse"
+    id="46d5fe6f-626d-4622-9509-e60361b6b39d">
   <properties
       key="difi:metaLevel"
       value="undefined"/>

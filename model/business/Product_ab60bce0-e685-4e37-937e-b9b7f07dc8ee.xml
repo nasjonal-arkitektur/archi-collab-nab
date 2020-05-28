@@ -1,0 +1,5 @@
+<archimate:Product
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ELMA"
+    id="ab60bce0-e685-4e37-937e-b9b7f07dc8ee"
+    documentation="Evne til på forespørsel å levere de nødvendige metadata (forsendelseskanal/adresse og dokumenttype) for foretaks-til-foretaks-kommunikasjon innenfor Peppol-nettverket. I ELMA finner du bl.a. en oversikt over alle virksomheter i Norge som kan motta elektroniske fakturaer i henhold til EHF-standarden. ELMA er en instans av Capability Lookup funksjonen i referansearkitekturen for eMelding. Peppol er et eksempel på en løsningsarkitektur baseret på referansearkitekturen for eMelding."/>

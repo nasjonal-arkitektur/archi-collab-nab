@@ -7,7 +7,7 @@
       value="-"/>
   <properties
       key="difi:name_no"
-      value="Datadeling"/>
+      value="Virksomhetsarkitektur og informasjonsforvaltning"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -19,7 +19,7 @@
       value="no"/>
   <properties
       key="label"
-      value="${name} [lang:]"/>
+      value="${name}"/>
   <properties
       key="dct:type"
       value="archi:grouping"/>

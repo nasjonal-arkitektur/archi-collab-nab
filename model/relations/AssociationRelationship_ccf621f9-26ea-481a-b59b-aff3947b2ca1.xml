@@ -1,7 +1,6 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="samarbeid"
     id="ccf621f9-26ea-481a-b59b-aff3947b2ca1">
   <source
       xsi:type="archimate:ValueStream"

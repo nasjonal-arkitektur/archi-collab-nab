@@ -2,32 +2,51 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Inngangsport"
-    id="76346cce-ecac-4f26-a411-56d689c8fdd0">
+    id="76346cce-ecac-4f26-a411-56d689c8fdd0"
+    documentation="Gjennom denne inngangsporten kan du drille ned i Archimate-modellene i arkitekturbibioteket. Navigeringsstrukturen er manuelt lagt opp, og kan gå på tvers av mappestrukturen.">
   <children
-      xsi:type="archimate:DiagramModelReference"
-      id="a588f8cc-e1a8-4198-9587-82b8d33d54de"
-      textPosition="1">
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="9c967e4d-82e3-4369-8827-aa15b6fd8c5d"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff">
+    <features
+        name="gradient"
+        value="1"/>
     <bounds
-        x="60"
-        y="48"
-        width="133"
-        height="70"/>
-    <referencedModel
-        xsi:type="archimate:ArchimateDiagramModel"
-        href="ArchimateDiagramModel_8073c0fb-091f-460d-a0cf-ab9d89a28310.xml#8073c0fb-091f-460d-a0cf-ab9d89a28310"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelReference"
-      id="b9ec809e-aa80-4c40-a437-88816942b1da"
-      textPosition="1">
-    <bounds
-        x="228"
-        y="48"
-        width="133"
-        height="70"/>
-    <referencedModel
-        xsi:type="archimate:ArchimateDiagramModel"
-        href="ArchimateDiagramModel_c3ddba49-1bf4-4f3a-861c-e846b2c7f8ca.xml#c3ddba49-1bf4-4f3a-861c-e846b2c7f8ca"/>
+        x="24"
+        y="24"
+        width="373"
+        height="121"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="a588f8cc-e1a8-4198-9587-82b8d33d54de"
+        textPosition="1">
+      <bounds
+          x="24"
+          y="36"
+          width="133"
+          height="70"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_8073c0fb-091f-460d-a0cf-ab9d89a28310.xml#8073c0fb-091f-460d-a0cf-ab9d89a28310"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="b9ec809e-aa80-4c40-a437-88816942b1da"
+        textPosition="1">
+      <bounds
+          x="192"
+          y="36"
+          width="133"
+          height="70"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_c3ddba49-1bf4-4f3a-861c-e846b2c7f8ca.xml#c3ddba49-1bf4-4f3a-861c-e846b2c7f8ca"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_b790a119-526c-4636-b543-3030d389c180.xml#b790a119-526c-4636-b543-3030d389c180"/>
   </children>
   <properties
       key="difi:language"
@@ -42,7 +61,8 @@
   <properties
       key="difi:description_en"/>
   <properties
-      key="difi:docViewPath"/>
+      key="difi:docViewPath"
+      value="nab_modellsamling"/>
   <properties
       key="difi:antoraViewPath"/>
   <properties

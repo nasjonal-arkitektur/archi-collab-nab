@@ -1,7 +1,6 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="datautveksling"
     id="2dabaddc-9cf7-4ca6-8282-005af5f9289f">
   <properties
       key="difi:metaLevel"
