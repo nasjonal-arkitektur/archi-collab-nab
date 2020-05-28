@@ -1,0 +1,40 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Metamodell (copy)"
+    id="94997a26-cd1d-4ee1-b46a-d42a82048237">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="4d67157a-0331-4609-b2af-674c13ac1752">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="64b35a57-4cfe-4aee-9e30-6bd801c5641e"
+        source="4d67157a-0331-4609-b2af-674c13ac1752"
+        target="3660a853-1c6f-4548-b630-8009d7a7af0b">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_151e643c-6e83-4ab7-bfe4-6636010dc916.xml#151e643c-6e83-4ab7-bfe4-6636010dc916"/>
+    </sourceConnections>
+    <bounds
+        x="300"
+        y="252"
+        width="133"
+        height="78"/>
+    <archimateElement
+        xsi:type="archimate:Resource"
+        href="Resource_2f8cf1f9-b60e-4103-882c-0584d1ebacdd.xml#2f8cf1f9-b60e-4103-882c-0584d1ebacdd"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="3660a853-1c6f-4548-b630-8009d7a7af0b"
+      targetConnections="64b35a57-4cfe-4aee-9e30-6bd801c5641e">
+    <bounds
+        x="300"
+        y="96"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:ValueStream"
+        href="ValueStream_1481137c-b63e-4f1a-a914-faf50243d221.xml#1481137c-b63e-4f1a-a914-faf50243d221"/>
+  </children>
+</archimate:ArchimateDiagramModel>
