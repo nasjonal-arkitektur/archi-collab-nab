@@ -3583,6 +3583,7 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-ca44a1be88db433dadca9c2e0c8b1674"
+      fontColor="#ff0000"
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffff"
@@ -4196,15 +4197,15 @@
       lineColor="#5c5c5c"
       textAlignment="1"
       fillColor="#ffffff"
-      content="Generelt: &#xD;&#xA;&#xD;&#xA;* Navngi spesifikke tjenester, ikke  bruk &quot;tjenesteboksene&quot; som en generell beskrivelse av produktet&#xD;&#xA;* Ikke bruk &quot;produkt&quot; når det dreier seg om en aktør eller et aktørsamarbeid">
+      content="Generelt: &#xD;&#xA;&#xD;&#xA;* Navngi spesifikke tjenester, ikke  bruk &quot;tjenesteboksene&quot; som en generell beskrivelse av produktet&#xD;&#xA;* Ikke bruk &quot;produkt&quot; når det dreier seg om en aktør eller et aktørsamarbeid&#xD;&#xA;* OK å bruke &quot;produkt&quot; for applikasjonskomponenter, spesielt dersom det også finnes relaterte tjenester, men vurder om produktet fortjener et annet navn? Eksempel: Forsikring som produkt vs. skaderapportering som forretningstjeneste..">
     <features
         name="gradient"
         value="1"/>
     <bounds
-        x="4518"
-        y="29"
+        x="24"
+        y="12"
         width="661"
-        height="80"/>
+        height="115"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
