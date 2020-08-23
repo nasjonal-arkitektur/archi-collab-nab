@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Datalagring og arkivering (copy)"
+    name="Lagre og arkivere data"
     id="73b9ab36-027a-4d8e-8f3a-058b2697282c">
   <properties
       key="difi:metaLevel"
@@ -19,7 +19,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Lagring og arkivering"/>
+      value="Lagre og arkivere data"/>
   <properties
       key="difi:name_en"/>
   <properties

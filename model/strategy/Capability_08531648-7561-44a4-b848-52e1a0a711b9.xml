@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Publisere notifikasjoner"
+    name="Event publishing"
     id="08531648-7561-44a4-b848-52e1a0a711b9">
   <properties
       key="difi:metaLevel"

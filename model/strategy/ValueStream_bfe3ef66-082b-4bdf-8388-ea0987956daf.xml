@@ -1,6 +1,6 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Etabler datagrunnlag"
+    name="Establish input data (evidence)"
     id="bfe3ef66-082b-4bdf-8388-ea0987956daf">
   <properties
       key="difi:metaLevel"
@@ -19,7 +19,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Innhent nødvendige data "/>
+      value="Etabler datagrunnlag"/>
   <properties
       key="difi:name_en"/>
   <properties

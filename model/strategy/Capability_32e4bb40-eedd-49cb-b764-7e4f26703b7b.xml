@@ -25,7 +25,7 @@
       key="difi:name_en"/>
   <properties
       key="difi:description_no"
-      value="Duplikatdeteksjon, deduplisering"/>
+      value="Husk: Duplikatdeteksjon, deduplisering."/>
   <properties
       key="difi:description_en"/>
   <properties

@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Dokumentere etterlevelse"
+    name="Complance logging"
     id="23c250ed-d66e-4dcd-a064-615567ad4df5">
   <properties
       key="difi:metaLevel"

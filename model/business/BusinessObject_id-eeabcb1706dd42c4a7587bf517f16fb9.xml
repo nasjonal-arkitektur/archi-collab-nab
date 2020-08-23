@@ -1,0 +1,8 @@
+<archimate:BusinessObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Business Object"
+    id="id-eeabcb1706dd42c4a7587bf517f16fb9">
+  <properties
+      key="difi:namespace"
+      value="arnelek2"/>
+</archimate:BusinessObject>

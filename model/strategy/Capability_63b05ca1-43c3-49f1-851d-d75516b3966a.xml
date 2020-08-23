@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Motta forespørsel om data"
+    name="Request reception"
     id="63b05ca1-43c3-49f1-851d-d75516b3966a">
   <properties
       key="difi:metaLevel"
@@ -19,7 +19,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Motta forespørsel om data"/>
+      value="Motta forespørsler"/>
   <properties
       key="difi:name_en"/>
   <properties

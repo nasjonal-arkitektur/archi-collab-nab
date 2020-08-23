@@ -1,6 +1,6 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Avgi utgående hendelser"
+    name="Distribute outgoing events"
     id="3a0d2dbd-4970-4bd5-9ab7-75de25406ebb">
   <properties
       key="difi:metaLevel"
@@ -19,7 +19,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Generer utgående hendelser fra databehandling"/>
+      value="Avgi utgående hendelser"/>
   <properties
       key="difi:name_en"/>
   <properties

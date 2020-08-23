@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Notifisere kjente samhandlingsparter"
+    name="Notification of known parties"
     id="a9f63257-bbc9-4066-b3fe-cb0da4bb5500">
   <properties
       key="difi:metaLevel"
@@ -19,7 +19,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Sende notifikasjon til "/>
+      value="Notifisere kjente samhandlingsparter"/>
   <properties
       key="difi:name_en"/>
   <properties

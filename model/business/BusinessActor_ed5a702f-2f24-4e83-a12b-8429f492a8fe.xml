@@ -13,7 +13,7 @@
       value="-"/>
   <properties
       key="difi:abstractionLevel"
-      value="undefined"/>
+      value="sbb"/>
   <properties
       key="difi:language"
       value="en"/>

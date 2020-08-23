@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Ha &quot;orden i eget hus &quot;"
+    name="Own Enterprise Arhitecture "
     id="ef23b84e-52b6-4943-b583-bcee995c1994"
     documentation="Orden i eget hus...">
   <properties
@@ -20,12 +20,12 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Etterlevelse"/>
+      value="Ha &quot;orden i eget hus &quot;"/>
   <properties
       key="difi:name_en"/>
   <properties
       key="difi:description_no"
-      value="Etterlevelse av lover, regler og andre føringer, slik som felles referansearkitekturer og arkitekturprinsspper."/>
+      value="Orden i eget hus..."/>
   <properties
       key="difi:description_en"/>
   <properties

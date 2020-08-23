@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Dataformidler"
     id="ab749393-6726-4b1f-a60e-c539a2875fc8"
-    documentation="Dataformidler er et mellomledd som formidler data mellom produsent og konsument. Eksempler. Tilbyder av meldingsinfrastruktur, aksesspunkt, mellomliggende lagringsløsninger. &#xD;&#xA;&#xD;&#xA;Merk: En  megler (broker) som sammenstiller data fra flere produsenter regnes her som en datatilbyder og ikke som en dataformidler.">
+    documentation="Dataformidler er et mellomledd som formidler data mellom produsent og konsument. Eksempler. Tilbyder av meldingsinfrastruktur, aksesspunkt, mellomliggende lagringsløsninger, sammenstilling av data fra flere datakilder.&#xD;&#xA;&#xD;&#xA;Merk: Det er per 2019 uklart om rollen Dataformidler behøves, eller kan dekkes av rollen Daytatilbyder. Dette avhanger av pågående arbeid med juridiske spørsmåk (hvem eier data og hvem inngår avtaler med hvem).">
   <properties
       key="dct:type"
       value="archi:business-role"/>

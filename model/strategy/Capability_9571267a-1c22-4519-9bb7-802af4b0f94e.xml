@@ -20,11 +20,12 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Oppdagelse, søk og gjenfinning"/>
+      value="Spore dataj"/>
   <properties
       key="difi:name_en"/>
   <properties
-      key="difi:description_no"/>
+      key="difi:description_no"
+      value="- Sporing av dataaksess&#xD;&#xA;- Sporing av kilder &#xD;&#xA;- Sporing for etterlevelse&#xD;&#xA;- Sporing for dokumentasjon tilknyttet vedtak etc."/>
   <properties
       key="difi:description_en"/>
   <properties

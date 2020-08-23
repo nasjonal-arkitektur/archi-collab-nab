@@ -5,32 +5,18 @@
     id="2445346e-ac47-4153-a7a8-ea4da6d211be">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="26ec355b-0da7-41ff-a1e7-38aafcf6a333"
-      targetConnections="9761479a-05fb-4098-826f-09673a673b18"
-      fillColor="#ffffdb"
-      textPosition="1">
-    <bounds
-        x="72"
-        y="48"
-        width="133"
-        height="71"/>
-    <archimateElement
-        xsi:type="archimate:BusinessProcess"
-        href="BusinessProcess_b5daec23-efd2-4931-9fdd-f2e3cfd5983d.xml#b5daec23-efd2-4931-9fdd-f2e3cfd5983d"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="cdc08a9e-ddd2-43cd-a618-1f0f1599ed68"
       targetConnections="039db363-dae1-4e61-bf45-252e1470ef46"
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="9761479a-05fb-4098-826f-09673a673b18"
+        id="b3677b03-a8d3-4b90-bc16-8daabcce748a"
+        lineColor="#000000"
         source="cdc08a9e-ddd2-43cd-a618-1f0f1599ed68"
-        target="26ec355b-0da7-41ff-a1e7-38aafcf6a333">
+        target="e81b0ef8-7126-4dc2-856a-cd597f6b5372">
       <archimateRelationship
-          xsi:type="archimate:SpecializationRelationship"
-          href="SpecializationRelationship_4352bf82-e370-4eaa-8cf6-bea10cf4a63a.xml#4352bf82-e370-4eaa-8cf6-bea10cf4a63a"/>
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_f876f008-b991-4883-b83b-f71b0f879c5a.xml#f876f008-b991-4883-b83b-f71b0f879c5a"/>
     </sourceConnections>
     <bounds
         x="72"
@@ -210,6 +196,26 @@
     <archimateElement
         xsi:type="archimate:TechnologyProcess"
         href="TechnologyProcess_3fa04dcf-ee8e-4d6b-9ac9-909ed7c89043.xml#3fa04dcf-ee8e-4d6b-9ac9-909ed7c89043"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="e81b0ef8-7126-4dc2-856a-cd597f6b5372"
+      targetConnections="b3677b03-a8d3-4b90-bc16-8daabcce748a"
+      lineColor="#5c5c5c"
+      fillColor="#f5deaa"
+      textPosition="1"
+      type="1">
+    <features
+        name="gradient"
+        value="1"/>
+    <bounds
+        x="72"
+        y="48"
+        width="133"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:ValueStream"
+        href="ValueStream_d5ad2df4-c48b-489a-b858-91067caee4ad.xml#d5ad2df4-c48b-489a-b858-91067caee4ad"/>
   </children>
   <properties
       key="difi:language"

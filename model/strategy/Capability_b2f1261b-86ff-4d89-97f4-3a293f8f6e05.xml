@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Innhente data gjennom forespørsel"
+    name="Data collection"
     id="b2f1261b-86ff-4d89-97f4-3a293f8f6e05">
   <properties
       key="difi:metaLevel"
@@ -19,7 +19,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Innhente data gjennom forespørsel"/>
+      value="Innhente data"/>
   <properties
       key="difi:name_en"/>
   <properties

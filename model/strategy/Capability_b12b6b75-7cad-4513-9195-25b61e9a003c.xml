@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Infrastruktur for datautveklsing (copy)"
+    name="Data Echange"
     id="b12b6b75-7cad-4513-9195-25b61e9a003c">
   <properties
       key="difi:metaLevel"
@@ -19,7 +19,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Datakvalitet"/>
+      value="Utveksle data"/>
   <properties
       key="difi:name_en"/>
   <properties

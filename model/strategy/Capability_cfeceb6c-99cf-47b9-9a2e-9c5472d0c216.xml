@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Unntakshåndtering"
+    name="Exception handling"
     id="cfeceb6c-99cf-47b9-9a2e-9c5472d0c216">
   <properties
       key="difi:metaLevel"

@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Oppdage data og datakilder"
+    name="Data discovery"
     id="1cec0232-9353-48f6-80cb-eeedb8dc790d"
     documentation="Engelsk: Data discovery is the collection and analysis of data from various sources to gain insight from hidden patterns and trends. It is the first step in fully harnessing an organization's data to inform critical business decisions.">
   <properties
@@ -20,12 +20,12 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Oppdage data"/>
+      value="Oppdage data og datakilder"/>
   <properties
       key="difi:name_en"/>
   <properties
       key="difi:description_no"
-      value="Ta rede på eget databehov, søk og gjenfininng"/>
+      value="Engelsk: Data discovery is the collection and analysis of data from various sources to gain insight from hidden patterns and trends. It is the first step in fully harnessing an organization's data to inform critical business decisions."/>
   <properties
       key="difi:description_en"/>
   <properties

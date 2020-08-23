@@ -1,6 +1,6 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Distribuere utgående hendelser"
+    name="Avgi utgående hendelser"
     id="d0dc2869-2b61-42ff-9949-abb8553fbe17">
   <properties
       key="difi:metaLevel"
@@ -19,7 +19,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Kapabiliteter for å generere utgående hendelser"/>
+      value="Avgi utgående hendelser"/>
   <properties
       key="difi:name_en"/>
   <properties
