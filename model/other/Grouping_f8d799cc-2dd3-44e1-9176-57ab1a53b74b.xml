@@ -1,6 +1,6 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Detektere triggerhendelse"
+    name="Detect triggering event"
     id="f8d799cc-2dd3-44e1-9176-57ab1a53b74b">
   <properties
       key="difi:metaLevel"
@@ -21,7 +21,8 @@
       key="difi:name_no"
       value="Detektere triggerhendelse"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Detektere triggerhendelse"/>
   <properties
       key="difi:description_no"/>
   <properties

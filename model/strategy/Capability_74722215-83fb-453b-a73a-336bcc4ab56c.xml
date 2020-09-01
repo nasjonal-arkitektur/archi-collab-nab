@@ -21,7 +21,8 @@
       key="difi:name_no"
       value="Avidentifisere persondata"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Avidentifisere persondata"/>
   <properties
       key="difi:description_no"/>
   <properties

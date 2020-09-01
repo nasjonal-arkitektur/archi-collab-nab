@@ -22,12 +22,14 @@
       key="difi:name_no"
       value="Avtaleforvaltning (copy)"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Avtaleforvaltning (copy)"/>
   <properties
       key="difi:description_no"
       value="Inkl. fellesskapsforvaltning"/>
   <properties
-      key="difi:description_en"/>
+      key="difi:description_en"
+      value="Inkl. fellesskapsforvaltning"/>
   <properties
       key="label"
       value="${name}"/>

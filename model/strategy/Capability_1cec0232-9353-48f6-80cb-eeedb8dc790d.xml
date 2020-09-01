@@ -22,12 +22,14 @@
       key="difi:name_no"
       value="Oppdage data og datakilder"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Data discovery"/>
   <properties
       key="difi:description_no"
       value="Engelsk: Data discovery is the collection and analysis of data from various sources to gain insight from hidden patterns and trends. It is the first step in fully harnessing an organization's data to inform critical business decisions."/>
   <properties
-      key="difi:description_en"/>
+      key="difi:description_en"
+      value="Engelsk: Data discovery is the collection and analysis of data from various sources to gain insight from hidden patterns and trends. It is the first step in fully harnessing an organization's data to inform critical business decisions."/>
   <properties
       key="label"
       value="${name}"/>

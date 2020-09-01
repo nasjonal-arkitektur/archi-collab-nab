@@ -21,7 +21,8 @@
       key="difi:name_no"
       value="Lagre og arkivere data"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Lagre og arkivere data"/>
   <properties
       key="difi:description_no"/>
   <properties

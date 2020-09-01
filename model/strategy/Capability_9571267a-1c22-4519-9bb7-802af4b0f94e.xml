@@ -22,12 +22,14 @@
       key="difi:name_no"
       value="Spore dataj"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Spore dataj"/>
   <properties
       key="difi:description_no"
       value="- Sporing av dataaksess&#xD;&#xA;- Sporing av kilder &#xD;&#xA;- Sporing for etterlevelse&#xD;&#xA;- Sporing for dokumentasjon tilknyttet vedtak etc."/>
   <properties
-      key="difi:description_en"/>
+      key="difi:description_en"
+      value="- Sporing av dataaksess&#xD;&#xA;- Sporing av kilder &#xD;&#xA;- Sporing for etterlevelse&#xD;&#xA;- Sporing for dokumentasjon tilknyttet vedtak etc."/>
   <properties
       key="label"
       value="${name}"/>

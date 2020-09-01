@@ -22,12 +22,14 @@
       key="difi:name_no"
       value="Etterlevelse av lover og regler (copy)"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Etterlevelse av lover og regler (copy)"/>
   <properties
       key="difi:description_no"
       value="Etterlevelse av lover, regler og andre føringer, slik som felles referansearkitekturer og arkitekturprinsspper."/>
   <properties
-      key="difi:description_en"/>
+      key="difi:description_en"
+      value="Etterlevelse av lover, regler og andre føringer, slik som felles referansearkitekturer og arkitekturprinsspper."/>
   <properties
       key="label"
       value="${name}"/>

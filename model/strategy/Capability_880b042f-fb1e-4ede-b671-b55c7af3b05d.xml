@@ -22,12 +22,14 @@
       key="difi:name_no"
       value="Tidsstemple data"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Tidsstemple data"/>
   <properties
       key="difi:description_no"
       value="The date and time on an electronic document which proves that the document existed at a point-in-time and that it has not changed since then"/>
   <properties
-      key="difi:description_en"/>
+      key="difi:description_en"
+      value="The date and time on an electronic document which proves that the document existed at a point-in-time and that it has not changed since then"/>
   <properties
       key="difi:metaLevel"
       value="undefined"/>

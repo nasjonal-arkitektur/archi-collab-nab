@@ -26,7 +26,8 @@
       key="difi:language"
       value="no"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Identifisere autoritative datasett"/>
   <properties
       key="difi:description_en"/>
   <properties

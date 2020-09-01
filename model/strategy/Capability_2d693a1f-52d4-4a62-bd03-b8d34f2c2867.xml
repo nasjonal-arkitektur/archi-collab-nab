@@ -22,12 +22,14 @@
       key="difi:name_no"
       value="Informasjonsarkitektur"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Informasjonsarkitektur"/>
   <properties
       key="difi:description_no"
       value="Felles datamodeller, metadata,kontrollerte vokabularer (kodelister)."/>
   <properties
-      key="difi:description_en"/>
+      key="difi:description_en"
+      value="Felles datamodeller, metadata,kontrollerte vokabularer (kodelister)."/>
   <properties
       key="label"
       value="${name}"/>

@@ -21,14 +21,15 @@
       key="difi:name_no"
       value="Avgi utgående hendelser"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Distribute outgoing events"/>
   <properties
       key="difi:description_no"/>
   <properties
       key="difi:description_en"/>
   <properties
-      key="label"
-      value="${name}"/>
-  <properties
       key="difi:notes"/>
+  <properties
+      key="icon"
+      value="|"/>
 </archimate:ValueStream>

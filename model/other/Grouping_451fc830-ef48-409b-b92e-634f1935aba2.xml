@@ -1,6 +1,6 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Etablere datagrunnlag"
+    name="Establish input data (evidence)"
     id="451fc830-ef48-409b-b92e-634f1935aba2">
   <properties
       key="difi:metaLevel"
@@ -21,7 +21,8 @@
       key="difi:name_no"
       value="Etablere datagrunnlag"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Etablere datagrunnlag"/>
   <properties
       key="difi:description_no"/>
   <properties

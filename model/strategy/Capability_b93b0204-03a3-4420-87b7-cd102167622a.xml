@@ -21,7 +21,8 @@
       key="difi:name_no"
       value="Unik identifisering av  dataressurser (copy)"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Unik identifisering av  dataressurser (copy)"/>
   <properties
       key="difi:description_no"/>
   <properties

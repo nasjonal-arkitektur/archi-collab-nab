@@ -21,14 +21,15 @@
       key="difi:name_no"
       value="Notifisere kjente samhandlingsparter"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Notification of known parties"/>
   <properties
       key="difi:description_no"/>
   <properties
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name}"/>
+      value="${name} [lang:en]"/>
   <properties
       key="difi:notes"/>
 </archimate:Capability>

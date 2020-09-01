@@ -532,60 +532,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="b46783c5-a6dd-453b-a3f6-7adda098691a"
-      fillColor="#defefc"
-      textPosition="1"
-      type="1">
-    <features
-        name="gradient"
-        value="1"/>
-    <bounds
-        x="864"
-        y="77"
-        width="133"
-        height="34"/>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_0423a41d-a135-4b67-af18-e01810fa9da5.xml#0423a41d-a135-4b67-af18-e01810fa9da5"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="bf40e23a-f079-43ba-b1cd-e9bad611d450"
-      fillColor="#defefc"
-      textPosition="1"
-      type="1">
-    <features
-        name="gradient"
-        value="1"/>
-    <bounds
-        x="1032"
-        y="77"
-        width="133"
-        height="34"/>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_968bb019-971b-448c-a1e2-64ca88bc8ff8.xml#968bb019-971b-448c-a1e2-64ca88bc8ff8"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="e2591c0f-8899-4920-906e-b5cd1ca0aa63"
-      fillColor="#defefc"
-      textPosition="1"
-      type="1">
-    <features
-        name="gradient"
-        value="1"/>
-    <bounds
-        x="192"
-        y="77"
-        width="630"
-        height="34"/>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_9ab19ce4-6b20-4299-b25d-d5e54d754ada.xml#9ab19ce4-6b20-4299-b25d-d5e54d754ada"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="a8423c3e-daa2-4324-953e-1294df31f3bd"
       fillColor="#f5deaa"
       textPosition="1">

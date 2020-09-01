@@ -21,14 +21,15 @@
       key="difi:name_no"
       value="Sørge for datakvalitet"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Data quality"/>
   <properties
       key="difi:description_no"/>
   <properties
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name}"/>
+      value="${name} [lang:en]"/>
   <properties
       key="difi:notes"/>
 </archimate:Capability>

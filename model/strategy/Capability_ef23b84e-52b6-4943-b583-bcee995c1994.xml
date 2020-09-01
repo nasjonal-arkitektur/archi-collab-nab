@@ -22,15 +22,17 @@
       key="difi:name_no"
       value="Ha &quot;orden i eget hus &quot;"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Own Enterprise Arhitecture "/>
   <properties
       key="difi:description_no"
       value="Orden i eget hus..."/>
   <properties
-      key="difi:description_en"/>
+      key="difi:description_en"
+      value="Orden i eget hus..."/>
   <properties
       key="label"
-      value="${name}"/>
+      value="${name} [lang:en]"/>
   <properties
       key="difi:notes"/>
 </archimate:Capability>
