@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data lineage"
+    name="Spore dataflyt"
     id="9820ec1b-be53-4a20-a743-f0a5c6bec401">
   <properties
       key="difi:name_no"
@@ -9,7 +9,7 @@
       key="difi:description_no"/>
   <properties
       key="label"
-      value="${name} [lang:en]"/>
+      value="${name}"/>
   <properties
       key="difi:metaLevel"
       value="undefined"/>

@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data Echange"
+    name="Utveksle data"
     id="b12b6b75-7cad-4513-9195-25b61e9a003c">
   <properties
       key="difi:metaLevel"
@@ -29,7 +29,7 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name} [lang:en]"/>
+      value="${name}"/>
   <properties
       key="difi:notes"/>
 </archimate:Capability>

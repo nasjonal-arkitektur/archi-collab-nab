@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Responding to requests"
+    name="Svare på forespørsler"
     id="7f2a4f1c-49f6-4443-bd16-39baa226029b">
   <properties
       key="difi:metaLevel"
@@ -29,7 +29,7 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name} [lang:en]"/>
+      value="${name}"/>
   <properties
       key="difi:notes"/>
 </archimate:Capability>

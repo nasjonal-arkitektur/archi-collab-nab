@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Complex event processing"
+    name="Analysere hendelsesstrømmer"
     id="0b1bb0c8-08cf-48b9-8b08-e75232721895">
   <properties
       key="difi:metaLevel"
@@ -29,7 +29,7 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name} [lang:en]"/>
+      value="${name}"/>
   <properties
       key="difi:notes"/>
 </archimate:Capability>

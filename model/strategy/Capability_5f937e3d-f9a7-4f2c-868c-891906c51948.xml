@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data creation and updating"
+    name="Opprette og endre datasett"
     id="5f937e3d-f9a7-4f2c-868c-891906c51948">
   <properties
       key="difi:metaLevel"
@@ -29,7 +29,7 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name} [lang:en]"/>
+      value="${name}"/>
   <properties
       key="difi:notes"/>
 </archimate:Capability>

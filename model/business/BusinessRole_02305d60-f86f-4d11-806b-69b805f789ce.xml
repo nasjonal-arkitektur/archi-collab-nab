@@ -27,7 +27,8 @@
   <properties
       key="difi:name_en"/>
   <properties
-      key="difi:description_no"/>
+      key="difi:description_no"
+      value="En aktør som har en koordinerende rolle i tilrettelegging og gjennomføring av datautveksling."/>
   <properties
       key="difi:description_en"/>
   <properties

@@ -1,6 +1,6 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Cross-cutting capabilities"
+    name="Tverrrgående"
     id="60fc1661-4aa4-4312-9209-4503a9ac5f64">
   <properties
       key="difi:metaLevel"
@@ -29,7 +29,7 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name} [lang:en]"/>
+      value="${name}"/>
   <properties
       key="difi:notes"/>
 </archimate:Grouping>

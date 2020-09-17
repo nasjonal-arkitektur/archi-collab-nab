@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Data collection"
+    name="Innhente data"
     id="b2f1261b-86ff-4d89-97f4-3a293f8f6e05">
   <properties
       key="difi:metaLevel"
@@ -29,7 +29,7 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name} [lang:en]"/>
+      value="${name} [ns:${property:difi:namespace}]"/>
   <properties
       key="difi:notes"/>
 </archimate:Capability>

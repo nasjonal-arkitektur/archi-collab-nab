@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Own Enterprise Arhitecture "
+    name="Ha &quot;orden i eget hus &quot;"
     id="ef23b84e-52b6-4943-b583-bcee995c1994"
     documentation="Orden i eget hus...">
   <properties
@@ -32,7 +32,7 @@
       value="Orden i eget hus..."/>
   <properties
       key="label"
-      value="${name} [lang:en]"/>
+      value="${name}"/>
   <properties
       key="difi:notes"/>
 </archimate:Capability>

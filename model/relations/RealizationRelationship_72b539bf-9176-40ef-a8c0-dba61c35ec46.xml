@@ -20,9 +20,10 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="realiserer"/>
+      value="beskriver"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value=" "/>
   <properties
       key="difi:description_no"/>
   <properties

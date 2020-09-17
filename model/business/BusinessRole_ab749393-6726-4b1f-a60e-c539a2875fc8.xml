@@ -19,7 +19,8 @@
       key="difi:name_en"
       value="Mediator"/>
   <properties
-      key="difi:description_no"/>
+      key="difi:description_no"
+      value="Dataformidler er et mellomledd som formidler data mellom produsent og konsument. Eksempler. Tilbyder av meldingsinfrastruktur, aksesspunkt, mellomliggende lagringsløsninger, sammenstilling av data fra flere datakilder.&#xD;&#xA;&#xD;&#xA;Merk: Det er per 2019 uklart om rollen Dataformidler behøves, eller kan dekkes av rollen Daytatilbyder. Dette avhanger av pågående arbeid med juridiske spørsmåk (hvem eier data og hvem inngår avtaler med hvem)."/>
   <properties
       key="difi:description_en"/>
   <properties

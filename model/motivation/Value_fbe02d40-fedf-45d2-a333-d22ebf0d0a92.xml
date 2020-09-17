@@ -1,6 +1,6 @@
 <archimate:Value
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Intergrated archiving"
+    name="Innebygget arkiv"
     id="fbe02d40-fedf-45d2-a333-d22ebf0d0a92">
   <properties
       key="difi:name_no"
@@ -9,7 +9,7 @@
       key="difi:description_no"/>
   <properties
       key="label"
-      value="${name} [lang:en]"/>
+      value="${name}"/>
   <properties
       key="difi:metaLevel"
       value="undefined"/>
