@@ -1,10 +1,10 @@
 <archimate:Value
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Sammenhengende tjenester"
+    name="Interoperabilitet i samhandlingsprosesser"
     id="ab3d766e-2de4-48d6-a8b1-ef841cab5372">
   <properties
       key="difi:name_no"
-      value="Sammenhengende tjenester"/>
+      value="Interoperabilitet i samhandlingsprosesser"/>
   <properties
       key="difi:description_no"/>
   <properties
@@ -27,7 +27,7 @@
       value="no"/>
   <properties
       key="difi:name_en"
-      value="Seamless services"/>
+      value="Interoperable processes (inside-out)"/>
   <properties
       key="difi:description_en"/>
   <properties

@@ -12,6 +12,16 @@
         value="1"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
+        id="0e7b9072-476f-47db-8ee7-62372502e866"
+        textPosition="0"
+        source="222aaf4d-e10a-4582-a6dc-e97dfdca7fc1"
+        target="40425d0f-817c-4fd4-a93c-8d81fe375c00">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_c74dd799-d2d7-4314-920b-539c575406b7.xml#c74dd799-d2d7-4314-920b-539c575406b7"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
         id="483a76a7-4f93-4244-94b1-6ee79a3abda2"
         source="222aaf4d-e10a-4582-a6dc-e97dfdca7fc1"
         target="cdb33f1e-1314-4d79-97af-98a3bcba553f">
@@ -27,16 +37,6 @@
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_1c456f60-2ee2-4b3b-84f8-8e7fd85128a8.xml#1c456f60-2ee2-4b3b-84f8-8e7fd85128a8"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="0e7b9072-476f-47db-8ee7-62372502e866"
-        textPosition="0"
-        source="222aaf4d-e10a-4582-a6dc-e97dfdca7fc1"
-        target="40425d0f-817c-4fd4-a93c-8d81fe375c00">
-      <archimateRelationship
-          xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_c74dd799-d2d7-4314-920b-539c575406b7.xml#c74dd799-d2d7-4314-920b-539c575406b7"/>
     </sourceConnections>
     <bounds
         x="276"
@@ -72,7 +72,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="0631d9be-6b3d-4905-9c32-a544e24d0d16"
-        targetConnections="875e7c06-9a5a-496a-ad36-24d39080d7a6 cc32667f-6cc6-4a3a-b1a2-a3bb11ac47f0 35224b3c-d1bd-45be-865e-c1b901c1cc33"
+        targetConnections="cc32667f-6cc6-4a3a-b1a2-a3bb11ac47f0 875e7c06-9a5a-496a-ad36-24d39080d7a6 35224b3c-d1bd-45be-865e-c1b901c1cc33"
         textPosition="1">
       <features
           name="gradient"
@@ -118,7 +118,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="40425d0f-817c-4fd4-a93c-8d81fe375c00"
-      targetConnections="93f7ac50-29c9-482e-a860-dd10a6f13233 0e7b9072-476f-47db-8ee7-62372502e866"
+      targetConnections="0e7b9072-476f-47db-8ee7-62372502e866 93f7ac50-29c9-482e-a860-dd10a6f13233"
       lineColor="#5c5c5c"
       fillColor="#f5deaa"
       textPosition="1">

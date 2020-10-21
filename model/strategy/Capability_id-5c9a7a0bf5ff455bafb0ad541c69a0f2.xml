@@ -1,7 +1,15 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Innhente data"
-    id="b2f1261b-86ff-4d89-97f4-3a293f8f6e05">
+    name="Dele data"
+    id="id-5c9a7a0bf5ff455bafb0ad541c69a0f2">
+  <properties
+      key="difi:name_no"
+      value="Datadeling"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="label"
+      value="${name}"/>
   <properties
       key="difi:metaLevel"
       value="undefined"/>
@@ -18,18 +26,10 @@
       key="difi:language"
       value="no"/>
   <properties
-      key="difi:name_no"
-      value="Innhente data"/>
-  <properties
       key="difi:name_en"
-      value="Data collection"/>
-  <properties
-      key="difi:description_no"/>
+      value="Data Sharing"/>
   <properties
       key="difi:description_en"/>
-  <properties
-      key="label"
-      value="${name} [ns:${property:difi:namespace}]"/>
   <properties
       key="difi:notes"/>
 </archimate:Capability>

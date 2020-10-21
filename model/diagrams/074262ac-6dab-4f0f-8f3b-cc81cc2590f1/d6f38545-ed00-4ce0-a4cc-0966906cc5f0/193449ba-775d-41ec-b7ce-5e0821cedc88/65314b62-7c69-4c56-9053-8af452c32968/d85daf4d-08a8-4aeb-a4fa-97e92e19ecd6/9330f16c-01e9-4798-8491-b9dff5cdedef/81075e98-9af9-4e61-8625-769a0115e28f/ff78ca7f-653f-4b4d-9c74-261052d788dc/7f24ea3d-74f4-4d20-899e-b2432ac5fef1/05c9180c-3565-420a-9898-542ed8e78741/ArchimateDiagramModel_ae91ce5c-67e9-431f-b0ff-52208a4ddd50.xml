@@ -21,6 +21,15 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
+        id="09022087-1c95-4254-9478-d0e8add33232"
+        source="3769aeb5-1b10-4082-9b26-1763d27d0296"
+        target="4b67b3c9-85d2-4bf2-8024-c1b6760467fa">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_ee1bfabb-df05-480c-90a8-e101654211df.xml#ee1bfabb-df05-480c-90a8-e101654211df"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
         id="2b0c12bd-994f-4516-abee-b95220bc3a43"
         textPosition="0"
         source="3769aeb5-1b10-4082-9b26-1763d27d0296"
@@ -28,15 +37,6 @@
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_c1fbbc7b-2910-43ea-992a-b3b5a98bb40d.xml#c1fbbc7b-2910-43ea-992a-b3b5a98bb40d"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="09022087-1c95-4254-9478-d0e8add33232"
-        source="3769aeb5-1b10-4082-9b26-1763d27d0296"
-        target="4b67b3c9-85d2-4bf2-8024-c1b6760467fa">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_ee1bfabb-df05-480c-90a8-e101654211df.xml#ee1bfabb-df05-480c-90a8-e101654211df"/>
     </sourceConnections>
     <bounds
         x="360"
@@ -72,7 +72,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="4b67b3c9-85d2-4bf2-8024-c1b6760467fa"
-        targetConnections="09022087-1c95-4254-9478-d0e8add33232 11938f56-25d3-4f22-b2df-82fb368a6838 28dd3dda-f778-40cc-b4b4-24409a1bb848"
+        targetConnections="28dd3dda-f778-40cc-b4b4-24409a1bb848 09022087-1c95-4254-9478-d0e8add33232 11938f56-25d3-4f22-b2df-82fb368a6838"
         textPosition="1">
       <features
           name="gradient"
@@ -144,7 +144,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="64f2abdf-b5be-4e06-a03d-6678bfe9c887"
-      targetConnections="2b0c12bd-994f-4516-abee-b95220bc3a43 45c6e72c-3e3e-49d1-941f-0c70cf9eb204"
+      targetConnections="45c6e72c-3e3e-49d1-941f-0c70cf9eb204 2b0c12bd-994f-4516-abee-b95220bc3a43"
       lineColor="#5c5c5c"
       fillColor="#f5deaa"
       textPosition="1">

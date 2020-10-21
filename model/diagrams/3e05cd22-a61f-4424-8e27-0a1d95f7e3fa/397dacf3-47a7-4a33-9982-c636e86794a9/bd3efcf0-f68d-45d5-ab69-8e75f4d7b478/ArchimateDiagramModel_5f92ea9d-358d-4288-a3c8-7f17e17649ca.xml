@@ -29,8 +29,8 @@
           href="ServingRelationship_id-c23f1c1a5853494194e70f0f2181a42f.xml#id-c23f1c1a5853494194e70f0f2181a42f"/>
     </sourceConnections>
     <bounds
-        x="180"
-        y="216"
+        x="144"
+        y="288"
         width="769"
         height="71"/>
     <archimateElement
@@ -63,8 +63,8 @@
           href="ServingRelationship_id-ef162d541db446c3b739336a7c8de256.xml#id-ef162d541db446c3b739336a7c8de256"/>
     </sourceConnections>
     <bounds
-        x="180"
-        y="300"
+        x="144"
+        y="372"
         width="769"
         height="71"/>
     <archimateElement
@@ -108,8 +108,8 @@
           href="CompositionRelationship_fa42455b-4b73-42fc-9787-60cb082ce978.xml#fa42455b-4b73-42fc-9787-60cb082ce978"/>
     </sourceConnections>
     <bounds
-        x="180"
-        y="-24"
+        x="144"
+        y="48"
         width="769"
         height="145"/>
     <children
@@ -123,6 +123,9 @@
       <features
           name="gradient"
           value="1"/>
+      <features
+          name="labelExpression"
+          value="Etabler &#xD;&#xA;samhandlingsløsninger"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="f65fcf2f-0855-4c05-8e61-4b9301c6a0a3"
@@ -136,7 +139,7 @@
       <bounds
           x="312"
           y="36"
-          width="133"
+          width="181"
           height="71"/>
       <archimateElement
           xsi:type="archimate:ValueStream"
@@ -145,7 +148,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="f437a06f-3553-49d8-b5a0-e6fbd0277d59"
-        targetConnections="2a7a6a1d-ce63-49d2-ac0f-dcd81cfbe6b3"
+        targetConnections="2a7a6a1d-ce63-49d2-ac0f-dcd81cfbe6b3 id-2ca297f2169c4b9eb0ab5c9b098bff4d"
         lineColor="#5c5c5c"
         fillColor="#f5deaa"
         textPosition="1"
@@ -153,6 +156,9 @@
       <features
           name="gradient"
           value="1"/>
+      <features
+          name="labelExpression"
+          value="Identifiser &#xD;&#xA;sluttbrukertjenester &#xD;&#xA;og brukerreiser"/>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-c931b3816cb64e69917d6aa475a7ef5b"
@@ -164,9 +170,9 @@
             href="FlowRelationship_id-b64b05f6a9d84137909ef20dc52438a3.xml#id-b64b05f6a9d84137909ef20dc52438a3"/>
       </sourceConnections>
       <bounds
-          x="84"
+          x="96"
           y="36"
-          width="133"
+          width="181"
           height="71"/>
       <archimateElement
           xsi:type="archimate:ValueStream"
@@ -184,9 +190,9 @@
           name="gradient"
           value="1"/>
       <bounds
-          x="564"
+          x="528"
           y="36"
-          width="133"
+          width="181"
           height="71"/>
       <archimateElement
           xsi:type="archimate:ValueStream"
@@ -222,8 +228,8 @@
           href="ServingRelationship_id-0b9bf0499b9b457b8b202a2b981ade05.xml#id-0b9bf0499b9b457b8b202a2b981ade05"/>
     </sourceConnections>
     <bounds
-        x="183"
-        y="132"
+        x="147"
+        y="204"
         width="769"
         height="71"/>
     <archimateElement
@@ -240,9 +246,19 @@
     <features
         name="gradient"
         value="1"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-2ca297f2169c4b9eb0ab5c9b098bff4d"
+        lineColor="#000000"
+        source="e1ae7e5c-b81d-4abb-8683-c9dda2aae81b"
+        target="f437a06f-3553-49d8-b5a0-e6fbd0277d59">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-19ac1dca868547239d7ebc1a4b6def74.xml#id-19ac1dca868547239d7ebc1a4b6def74"/>
+    </sourceConnections>
     <bounds
-        x="180"
-        y="384"
+        x="144"
+        y="456"
         width="769"
         height="71"/>
     <archimateElement

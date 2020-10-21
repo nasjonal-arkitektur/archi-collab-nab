@@ -1,6 +1,6 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Collect data"
+    name="Innhent data"
     id="3bf49272-5d3a-4ae6-b529-4613537e3353">
   <properties
       key="difi:metaLevel"
@@ -16,7 +16,7 @@
       value="undefined"/>
   <properties
       key="difi:language"
-      value="en"/>
+      value="no"/>
   <properties
       key="difi:name_no"
       value="Innhent data"/>
@@ -29,7 +29,7 @@
       key="difi:description_en"/>
   <properties
       key="label"
-      value="${name}"/>
+      value="${name} [ns:${property:difi:namespace}]"/>
   <properties
       key="difi:notes"/>
   <properties

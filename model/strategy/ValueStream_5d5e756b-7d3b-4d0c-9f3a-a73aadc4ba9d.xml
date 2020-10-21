@@ -1,6 +1,6 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Operate part of integrated process"
+    name="Utfør steg i samhandlingsprosess"
     id="5d5e756b-7d3b-4d0c-9f3a-a73aadc4ba9d">
   <properties
       key="difi:metaLevel"
@@ -19,7 +19,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Operate part of integrated process"/>
+      value="Utfør steg i samhandlingsprosess"/>
   <properties
       key="difi:name_en"
       value="Operate part of integrated process"/>

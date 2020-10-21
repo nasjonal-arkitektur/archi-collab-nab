@@ -22,7 +22,7 @@
       value="Avgi utgående hendelser"/>
   <properties
       key="difi:name_en"
-      value="Avgi utgående hendelser"/>
+      value="Outgoing event provisioning"/>
   <properties
       key="difi:description_no"/>
   <properties

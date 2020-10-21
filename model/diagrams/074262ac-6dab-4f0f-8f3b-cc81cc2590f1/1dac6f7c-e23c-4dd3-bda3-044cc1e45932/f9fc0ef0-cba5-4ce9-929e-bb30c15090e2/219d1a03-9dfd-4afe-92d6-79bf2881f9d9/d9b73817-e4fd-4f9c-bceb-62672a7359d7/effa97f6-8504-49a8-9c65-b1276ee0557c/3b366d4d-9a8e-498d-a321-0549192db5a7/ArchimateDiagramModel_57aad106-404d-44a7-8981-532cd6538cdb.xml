@@ -83,7 +83,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="bbd5c27f-5d14-4cda-8d2b-9943c3ec482d"
-      targetConnections="1b488ad2-a6a1-402b-8cd5-3b68bceeb387 204e20d8-bf60-4563-876d-fff42b03cbd5 4729a85c-345e-4935-8cad-387d1ddd30ac 84abaaa6-67af-46d3-b6f0-ee7a5d127a09"
+      targetConnections="4729a85c-345e-4935-8cad-387d1ddd30ac 84abaaa6-67af-46d3-b6f0-ee7a5d127a09 204e20d8-bf60-4563-876d-fff42b03cbd5 1b488ad2-a6a1-402b-8cd5-3b68bceeb387"
       textPosition="1">
     <features
         name="gradient"
@@ -165,21 +165,21 @@
         value="1"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="7d4a9646-a16b-4196-ae9c-3ea8a694b39a"
-        source="17f692b1-ee4e-41bf-9b52-522caac168d2"
-        target="3454cdea-8858-417f-b672-416d50c2abaa">
-      <archimateRelationship
-          xsi:type="archimate:SpecializationRelationship"
-          href="SpecializationRelationship_a567b1e3-4b11-4001-86c4-3ff7eda88d37.xml#a567b1e3-4b11-4001-86c4-3ff7eda88d37"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="d54681db-8f78-4f89-a77e-a5769eb1a04b"
         source="17f692b1-ee4e-41bf-9b52-522caac168d2"
         target="291513cc-2765-4d6d-8ade-a6f460713420">
       <archimateRelationship
           xsi:type="archimate:SpecializationRelationship"
           href="SpecializationRelationship_26e29980-79c3-4eb6-94d6-ae89124eb15f.xml#26e29980-79c3-4eb6-94d6-ae89124eb15f"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="7d4a9646-a16b-4196-ae9c-3ea8a694b39a"
+        source="17f692b1-ee4e-41bf-9b52-522caac168d2"
+        target="3454cdea-8858-417f-b672-416d50c2abaa">
+      <archimateRelationship
+          xsi:type="archimate:SpecializationRelationship"
+          href="SpecializationRelationship_a567b1e3-4b11-4001-86c4-3ff7eda88d37.xml#a567b1e3-4b11-4001-86c4-3ff7eda88d37"/>
     </sourceConnections>
     <bounds
         x="822"
@@ -244,7 +244,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="3454cdea-8858-417f-b672-416d50c2abaa"
-      targetConnections="089b832e-5e3e-418d-b196-135b245f2eb0 5e613a8a-eea7-4f3e-8422-2dcc7f770a5f 7d4a9646-a16b-4196-ae9c-3ea8a694b39a 74cbeed4-fe90-4d76-a281-e8c13af5a1aa 261d83b7-2ca1-429e-ac82-d69a12618b06"
+      targetConnections="74cbeed4-fe90-4d76-a281-e8c13af5a1aa 089b832e-5e3e-418d-b196-135b245f2eb0 261d83b7-2ca1-429e-ac82-d69a12618b06 7d4a9646-a16b-4196-ae9c-3ea8a694b39a 5e613a8a-eea7-4f3e-8422-2dcc7f770a5f"
       textPosition="1">
     <features
         name="gradient"

@@ -1,6 +1,6 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Svare på forespørsler "
+    name="Svare på forespørsler om datagrunnlag"
     id="9cc03490-94db-4bf9-8710-ad13c1e8cdaa">
   <properties
       key="difi:metaLevel"
@@ -22,7 +22,7 @@
       value="Svare på forespørsler om datagrunnlag og etterlevelse"/>
   <properties
       key="difi:name_en"
-      value="Svare på forespørsler om datagrunnlag og etterlevelse"/>
+      value="Evidence provisioning on request"/>
   <properties
       key="difi:description_no"/>
   <properties

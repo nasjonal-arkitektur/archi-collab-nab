@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Unik identifisering av  dataressurser (copy)"
+    name="Unik identifisering av  dataressurser"
     id="b93b0204-03a3-4420-87b7-cd102167622a">
   <properties
       key="difi:metaLevel"
@@ -19,10 +19,10 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Unik identifisering av  dataressurser (copy)"/>
+      value="Unik identifisering av  dataressurser"/>
   <properties
       key="difi:name_en"
-      value="Unik identifisering av  dataressurser (copy)"/>
+      value="Unique identification of data resources"/>
   <properties
       key="difi:description_no"/>
   <properties

@@ -12,21 +12,6 @@
         value="1"/>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-05e4b252d24845599df5eaeadbbfb756"
-        textPosition="0"
-        source="id-367e5fad304d4867bfb143b4d76a9ef6"
-        target="id-350fabc1db2542c989e5abd1b36c1570">
-      <bendpoints
-          startX="210"
-          startY="13"
-          endX="-209"
-          endY="13"/>
-      <archimateRelationship
-          xsi:type="archimate:FlowRelationship"
-          href="FlowRelationship_985cc05e-cf51-4655-a57a-af9ae3f68610.xml#985cc05e-cf51-4655-a57a-af9ae3f68610"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-40f77152a49a4aee8ec7bd9c22fd3fd0"
         lineColor="#000000"
         textPosition="0"
@@ -41,6 +26,21 @@
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_3353b347-277b-4e19-88ed-c249e6608ceb.xml#3353b347-277b-4e19-88ed-c249e6608ceb"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-05e4b252d24845599df5eaeadbbfb756"
+        textPosition="0"
+        source="id-367e5fad304d4867bfb143b4d76a9ef6"
+        target="id-350fabc1db2542c989e5abd1b36c1570">
+      <bendpoints
+          startX="210"
+          startY="13"
+          endX="-209"
+          endY="13"/>
+      <archimateRelationship
+          xsi:type="archimate:FlowRelationship"
+          href="FlowRelationship_985cc05e-cf51-4655-a57a-af9ae3f68610.xml#985cc05e-cf51-4655-a57a-af9ae3f68610"/>
+    </sourceConnections>
     <bounds
         x="97"
         y="72"
@@ -53,7 +53,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-350fabc1db2542c989e5abd1b36c1570"
-      targetConnections="id-05e4b252d24845599df5eaeadbbfb756 id-40f77152a49a4aee8ec7bd9c22fd3fd0"
+      targetConnections="id-40f77152a49a4aee8ec7bd9c22fd3fd0 id-05e4b252d24845599df5eaeadbbfb756"
       textPosition="1">
     <features
         name="gradient"

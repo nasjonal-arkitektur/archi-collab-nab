@@ -1,6 +1,6 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Maintain own enterprise architceture"
+    name="Hold orden i egen virksomhet"
     id="930e4424-cf14-4d4d-810b-3c83f9a1d9d8">
   <properties
       key="difi:metaLevel"
@@ -16,7 +16,7 @@
       value="undefined"/>
   <properties
       key="difi:language"
-      value="en"/>
+      value="no"/>
   <properties
       key="difi:name_no"
       value="Hold orden i egen virksomhet"/>

@@ -6,7 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="b131af4c-c333-4abd-9bee-6aec79e337ef"
-      targetConnections="8b1233e0-8caf-48d3-8d4a-b1bcad89497c 4fd1692c-51cb-4ecf-9fae-ca55598e587f c64867a3-cf35-449c-b36f-7955460120aa 2da29537-d52d-49bc-a8f7-8bbc6bfee524 6cb74d40-e37b-479c-a754-3535e777ba6d"
+      targetConnections="2da29537-d52d-49bc-a8f7-8bbc6bfee524 8b1233e0-8caf-48d3-8d4a-b1bcad89497c c64867a3-cf35-449c-b36f-7955460120aa 6cb74d40-e37b-479c-a754-3535e777ba6d 4fd1692c-51cb-4ecf-9fae-ca55598e587f"
       font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       fillColor="#feeed8">
     <features
@@ -20,15 +20,6 @@
       <archimateRelationship
           xsi:type="archimate:TriggeringRelationship"
           href="TriggeringRelationship_a6e0709a-b87a-408c-956a-28bd33faace7.xml#a6e0709a-b87a-408c-956a-28bd33faace7"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="6078391d-fa53-408b-931b-a1edaf0767fd"
-        source="b131af4c-c333-4abd-9bee-6aec79e337ef"
-        target="c74add95-48dd-4d88-ba77-2263625a6d97">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_c1c52d04-8d9b-4443-92ce-bf576f554ac9.xml#c1c52d04-8d9b-4443-92ce-bf576f554ac9"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -58,6 +49,15 @@
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_1846caba-8a91-4e06-84e2-9d40c443ae28.xml#1846caba-8a91-4e06-84e2-9d40c443ae28"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="6078391d-fa53-408b-931b-a1edaf0767fd"
+        source="b131af4c-c333-4abd-9bee-6aec79e337ef"
+        target="c74add95-48dd-4d88-ba77-2263625a6d97">
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_c1c52d04-8d9b-4443-92ce-bf576f554ac9.xml#c1c52d04-8d9b-4443-92ce-bf576f554ac9"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -93,6 +93,15 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
+          id="4fd1692c-51cb-4ecf-9fae-ca55598e587f"
+          source="da14c17e-26d2-4338-a001-758d09857229"
+          target="b131af4c-c333-4abd-9bee-6aec79e337ef">
+        <archimateRelationship
+            xsi:type="archimate:AssignmentRelationship"
+            href="AssignmentRelationship_f2992291-78ff-4807-b3a7-418545c36c91.xml#f2992291-78ff-4807-b3a7-418545c36c91"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
           id="d523e03b-0c97-49d7-882d-c81a8909a43b"
           textPosition="0"
           source="da14c17e-26d2-4338-a001-758d09857229"
@@ -100,15 +109,6 @@
         <archimateRelationship
             xsi:type="archimate:TriggeringRelationship"
             href="TriggeringRelationship_54254269-a315-4174-9002-defcc999883d.xml#54254269-a315-4174-9002-defcc999883d"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="4fd1692c-51cb-4ecf-9fae-ca55598e587f"
-          source="da14c17e-26d2-4338-a001-758d09857229"
-          target="b131af4c-c333-4abd-9bee-6aec79e337ef">
-        <archimateRelationship
-            xsi:type="archimate:AssignmentRelationship"
-            href="AssignmentRelationship_f2992291-78ff-4807-b3a7-418545c36c91.xml#f2992291-78ff-4807-b3a7-418545c36c91"/>
       </sourceConnections>
       <bounds
           x="48"
@@ -159,7 +159,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="c74add95-48dd-4d88-ba77-2263625a6d97"
-        targetConnections="6078391d-fa53-408b-931b-a1edaf0767fd d523e03b-0c97-49d7-882d-c81a8909a43b 749cb6b1-d6d0-4ab9-a398-ded0de29da23"
+        targetConnections="749cb6b1-d6d0-4ab9-a398-ded0de29da23 6078391d-fa53-408b-931b-a1edaf0767fd d523e03b-0c97-49d7-882d-c81a8909a43b"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         textPosition="1"
         type="1">

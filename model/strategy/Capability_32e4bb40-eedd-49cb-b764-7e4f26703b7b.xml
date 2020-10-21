@@ -23,7 +23,7 @@
       value="Masterdatahåndtering"/>
   <properties
       key="difi:name_en"
-      value="Masterdatahåndtering"/>
+      value="Master Data Management"/>
   <properties
       key="difi:description_no"
       value="Husk: Duplikatdeteksjon, deduplisering."/>

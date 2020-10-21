@@ -21,7 +21,8 @@
       key="difi:name_no"
       value="Etterleve lover og regler"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Compliance management"/>
   <properties
       key="difi:description_no"/>
   <properties

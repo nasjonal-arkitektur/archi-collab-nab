@@ -1,6 +1,6 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Datavirtualisering (copy)"
+    name="Datavirtualisering"
     id="97357e1d-971a-416e-af2b-e100ce584877">
   <properties
       key="difi:metaLevel"
@@ -19,10 +19,10 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Datavirtualisering (copy)"/>
+      value="Datavirtualisering"/>
   <properties
       key="difi:name_en"
-      value="Datavirtualisering (copy)"/>
+      value="Data Virtualization"/>
   <properties
       key="difi:description_no"/>
   <properties

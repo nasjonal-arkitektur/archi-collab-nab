@@ -50,7 +50,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="29f8e37b-e9a5-4ee5-ab35-5448ca42420f"
-      targetConnections="3f18bfcf-aa45-4cb7-851a-cc22692f6b7a c7c9523d-2419-410d-86ee-c1a06efb29b0 5513c625-05b7-435d-b070-0103c30ae700"
+      targetConnections="c7c9523d-2419-410d-86ee-c1a06efb29b0 5513c625-05b7-435d-b070-0103c30ae700 3f18bfcf-aa45-4cb7-851a-cc22692f6b7a"
       textPosition="1">
     <bounds
         x="336"

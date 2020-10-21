@@ -22,7 +22,7 @@
       value="Detektere triggerhendelse"/>
   <properties
       key="difi:name_en"
-      value="Detektere triggerhendelse"/>
+      value="Trigger event detection"/>
   <properties
       key="difi:description_no"/>
   <properties

@@ -23,7 +23,7 @@
       value="Tidsstemple data"/>
   <properties
       key="difi:name_en"
-      value="Tidsstemple data"/>
+      value="Timestamping"/>
   <properties
       key="difi:description_no"
       value="The date and time on an electronic document which proves that the document existed at a point-in-time and that it has not changed since then"/>

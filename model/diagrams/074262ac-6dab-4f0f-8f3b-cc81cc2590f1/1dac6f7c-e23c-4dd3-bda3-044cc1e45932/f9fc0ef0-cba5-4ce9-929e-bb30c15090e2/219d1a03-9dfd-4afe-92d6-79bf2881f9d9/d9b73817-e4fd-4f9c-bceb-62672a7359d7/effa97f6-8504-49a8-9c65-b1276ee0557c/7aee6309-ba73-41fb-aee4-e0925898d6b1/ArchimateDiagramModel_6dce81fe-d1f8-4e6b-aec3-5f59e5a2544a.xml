@@ -26,7 +26,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="853ba53d-1c91-4ab6-b2d3-846ced5744ef"
-      targetConnections="1839d081-db2a-424e-99e1-6267451fc748 2dfdd85d-adac-4049-8f0e-cddbd386340c 3aed1264-904c-4506-b6dd-f205bb899f84"
+      targetConnections="3aed1264-904c-4506-b6dd-f205bb899f84 2dfdd85d-adac-4049-8f0e-cddbd386340c 1839d081-db2a-424e-99e1-6267451fc748"
       fontColor="#000000"
       textPosition="1">
     <bounds

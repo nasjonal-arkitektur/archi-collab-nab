@@ -1,6 +1,6 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Interoperate in integrated processes to deliver seamless services"
+    name="Samhandle i tverrgående prosesser"
     id="22741f74-b6ff-44a1-9ccc-24f0609e9ed9">
   <properties
       key="difi:metaLevel"
@@ -16,7 +16,7 @@
       value="undefined"/>
   <properties
       key="difi:language"
-      value="en"/>
+      value="no"/>
   <properties
       key="difi:name_no"
       value="Samhandle i tverrgående prosesser"/>

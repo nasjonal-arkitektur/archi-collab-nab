@@ -1,6 +1,6 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Establish interoperable solution"
+    name="Etabler samhandlingsløsninger"
     id="13ed1872-a6df-4789-81dc-3e68beb5cbed">
   <properties
       key="difi:metaLevel"
@@ -21,7 +21,8 @@
       key="difi:name_no"
       value="Etabler samhandlingsløsninger"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Establish interoperable solution"/>
   <properties
       key="difi:description_no"/>
   <properties

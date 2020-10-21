@@ -1,6 +1,6 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Perform data analysis"
+    name="Analyser data"
     id="a21fe9f1-da08-4b3f-9658-e67bdc8dd86c">
   <properties
       key="difi:metaLevel"
@@ -16,7 +16,7 @@
       value="undefined"/>
   <properties
       key="difi:language"
-      value="en"/>
+      value="no"/>
   <properties
       key="difi:name_no"
       value="Analyser data"/>

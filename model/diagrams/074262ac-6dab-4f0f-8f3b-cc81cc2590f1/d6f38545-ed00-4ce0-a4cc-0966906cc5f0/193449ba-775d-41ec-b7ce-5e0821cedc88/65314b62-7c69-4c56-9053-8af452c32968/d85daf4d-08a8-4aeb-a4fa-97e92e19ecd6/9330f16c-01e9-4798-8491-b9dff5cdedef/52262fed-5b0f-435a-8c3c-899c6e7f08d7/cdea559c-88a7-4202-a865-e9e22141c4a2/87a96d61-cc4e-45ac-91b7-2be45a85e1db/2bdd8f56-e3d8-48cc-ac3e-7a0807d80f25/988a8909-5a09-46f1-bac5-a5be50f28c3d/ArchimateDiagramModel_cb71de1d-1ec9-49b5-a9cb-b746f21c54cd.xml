@@ -67,16 +67,6 @@
       type="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="01274f13-c67a-4811-8e26-e340ae02c90c"
-        textPosition="0"
-        source="953fa6a8-a372-4f27-b823-677e8446d29f"
-        target="22883bc7-b2bb-4725-8d3a-d58c5d20c07b">
-      <archimateRelationship
-          xsi:type="archimate:AccessRelationship"
-          href="AccessRelationship_f421504b-895c-4116-a919-9f0c22a3709e.xml#f421504b-895c-4116-a919-9f0c22a3709e"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="dce40e2a-096b-4adb-9635-d9937aced48f"
         textPosition="0"
         source="953fa6a8-a372-4f27-b823-677e8446d29f"
@@ -84,6 +74,16 @@
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_9c9e8ba9-9a59-4600-b91e-11fd13d6e8f7.xml#9c9e8ba9-9a59-4600-b91e-11fd13d6e8f7"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="01274f13-c67a-4811-8e26-e340ae02c90c"
+        textPosition="0"
+        source="953fa6a8-a372-4f27-b823-677e8446d29f"
+        target="22883bc7-b2bb-4725-8d3a-d58c5d20c07b">
+      <archimateRelationship
+          xsi:type="archimate:AccessRelationship"
+          href="AccessRelationship_f421504b-895c-4116-a919-9f0c22a3709e.xml#f421504b-895c-4116-a919-9f0c22a3709e"/>
     </sourceConnections>
     <bounds
         x="456"
@@ -97,7 +97,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="22883bc7-b2bb-4725-8d3a-d58c5d20c07b"
-      targetConnections="0e233db5-4803-4f9e-803d-8921775b51a5 01274f13-c67a-4811-8e26-e340ae02c90c"
+      targetConnections="01274f13-c67a-4811-8e26-e340ae02c90c 0e233db5-4803-4f9e-803d-8921775b51a5"
       textPosition="1">
     <bounds
         x="228"
@@ -111,7 +111,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="79b60a78-b45c-48e6-99b8-31ab05da7aaf"
-      targetConnections="fddddc7b-1cb3-418d-aae1-9db33596d0ce 3cd8bbb3-5f56-474b-9230-2faa535e14f8">
+      targetConnections="3cd8bbb3-5f56-474b-9230-2faa535e14f8 fddddc7b-1cb3-418d-aae1-9db33596d0ce">
     <bounds
         x="228"
         y="61"

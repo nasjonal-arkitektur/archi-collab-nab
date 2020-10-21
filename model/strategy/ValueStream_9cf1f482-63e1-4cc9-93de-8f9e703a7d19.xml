@@ -1,6 +1,6 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Identify end user services user journeys"
+    name="Identifiser sluttbrukertjenester og brukerreiser"
     id="9cf1f482-63e1-4cc9-93de-8f9e703a7d19">
   <properties
       key="difi:metaLevel"
@@ -21,14 +21,12 @@
       key="difi:name_no"
       value="Identifiser sluttbrukertjenester og brukerreiser"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Identify end user services user journeys"/>
   <properties
       key="difi:description_no"/>
   <properties
       key="difi:description_en"/>
-  <properties
-      key="label"
-      value="${name}"/>
   <properties
       key="difi:notes"/>
 </archimate:ValueStream>

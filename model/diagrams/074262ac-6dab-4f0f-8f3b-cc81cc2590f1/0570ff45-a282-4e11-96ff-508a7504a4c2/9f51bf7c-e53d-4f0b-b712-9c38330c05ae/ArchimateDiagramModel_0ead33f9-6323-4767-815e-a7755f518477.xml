@@ -74,26 +74,6 @@
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="adacb7e9-958b-4fee-b1a6-fdeb6edad362"
-        textPosition="0"
-        source="1f33d652-22f7-4c59-993e-2967b5ce5f70"
-        target="86f8d2ac-490d-4245-bc73-ed55e1d8af36">
-      <bendpoints
-          startX="-6"
-          startY="87"
-          endX="-114"
-          endY="-69"/>
-      <bendpoints
-          startX="102"
-          startY="87"
-          endX="-6"
-          endY="-69"/>
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_06ccea52-89ff-4c20-8643-45b33fd6f661.xml#06ccea52-89ff-4c20-8643-45b33fd6f661"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="bbd3589c-6049-43e1-b280-f0077cb362de"
         textPosition="0"
         source="1f33d652-22f7-4c59-993e-2967b5ce5f70"
@@ -112,6 +92,26 @@
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_d9542c0b-bc64-47a4-85d9-59cf8ecd93bb.xml#d9542c0b-bc64-47a4-85d9-59cf8ecd93bb"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="adacb7e9-958b-4fee-b1a6-fdeb6edad362"
+        textPosition="0"
+        source="1f33d652-22f7-4c59-993e-2967b5ce5f70"
+        target="86f8d2ac-490d-4245-bc73-ed55e1d8af36">
+      <bendpoints
+          startX="-6"
+          startY="87"
+          endX="-114"
+          endY="-69"/>
+      <bendpoints
+          startX="102"
+          startY="87"
+          endX="-6"
+          endY="-69"/>
+      <archimateRelationship
+          xsi:type="archimate:AggregationRelationship"
+          href="AggregationRelationship_06ccea52-89ff-4c20-8643-45b33fd6f661.xml#06ccea52-89ff-4c20-8643-45b33fd6f661"/>
+    </sourceConnections>
     <bounds
         x="180"
         y="48"
@@ -124,7 +124,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="6818823b-166f-47bf-9a9b-c7b5e6bfc145"
-      targetConnections="1d2a88d5-10aa-4368-b8c4-2b9d8808f2f3 bbd3589c-6049-43e1-b280-f0077cb362de">
+      targetConnections="bbd3589c-6049-43e1-b280-f0077cb362de 1d2a88d5-10aa-4368-b8c4-2b9d8808f2f3">
     <bounds
         x="72"
         y="204"

@@ -1,6 +1,6 @@
 <archimate:ValueStream
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Svar på forespørsel om behandlingsaktivitet"
+    name="Svar på forespørsel om datagrunnlag og etterlevelse"
     id="2b4d9878-0c60-4e5d-89b6-e9541284bb6f">
   <properties
       key="difi:metaLevel"
@@ -22,7 +22,7 @@
       value="Svar på forespørsel om datagrunnlag og etterlevelse"/>
   <properties
       key="difi:name_en"
-      value="Respond to requests about input data and compliance"/>
+      value="Respond to requests about data lineage and compliance"/>
   <properties
       key="difi:description_no"/>
   <properties
