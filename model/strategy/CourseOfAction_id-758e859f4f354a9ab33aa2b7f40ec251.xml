@@ -1,6 +1,6 @@
 <archimate:CourseOfAction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Utvikle metoder og samle kunnskap om brukerorientering, organisering og koordinering i utvikling og drift av sammenhengende tjenester"
+    name="Utvikle metoder og kunnskapsgrunnlag for sammenhengende tjenester"
     id="id-758e859f4f354a9ab33aa2b7f40ec251">
   <properties
       key="difi:metaLevel"
@@ -15,7 +15,8 @@
       key="difi:abstractionLevel"
       value="undefined"/>
   <properties
-      key="digdir:link1"/>
+      key="digdir:link1"
+      value="https://www.digdir.no/digitalisering-og-samordning/sammenhengende-tjenester-med-brukeren-i-sentrum/1255#initiativ_utvikle_metoder_og_samle_kunnskap_om_brukerorientering_organisering_og_koordinering_i_utvikling_og_drift_av_sammenhengende_tjenester"/>
   <properties
       key="difi:language"
       value="no"/>
@@ -33,4 +34,7 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
+  <properties
+      key="drill down"
+      value="id-c24cbde7bf1846efafe0b78480137f98"/>
 </archimate:CourseOfAction>

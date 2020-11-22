@@ -1,6 +1,6 @@
 <archimate:CourseOfAction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Deling av data"
+    name="Deling av data og verdiskaping"
     id="c9cc3208-8d56-46bf-8c9e-fa9f3b9bd252">
   <properties
       key="difi:metaLevel"
@@ -31,4 +31,9 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="drill down"
+      value="id-96c9d3dfe49f4747859abdc791f2bf84"/>
 </archimate:CourseOfAction>

@@ -1,6 +1,6 @@
 <archimate:CourseOfAction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Sammenhengende tjenester"
+    name="Sammenhengende tjenester med brukeren i sentrum"
     id="a510485a-0213-47ad-a5c4-5886e658dff9">
   <properties
       key="difi:metaLevel"
@@ -31,4 +31,10 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
+  <properties
+      key="digdir:link1"
+      value="https://www.digdir.no/digitalisering-og-samordning/sammenhengende-tjenester-med-brukeren-i-sentrum/1255"/>
+  <properties
+      key="drill down"
+      value="7933609c-e6c0-4180-b2ca-550b4064c362"/>
 </archimate:CourseOfAction>

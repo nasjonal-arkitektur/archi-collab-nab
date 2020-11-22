@@ -15,7 +15,8 @@
       key="difi:abstractionLevel"
       value="undefined"/>
   <properties
-      key="digdir:link1"/>
+      key="digdir:link1"
+      value="https://www.domstol.no/domstoladministrasjonen/"/>
   <properties
       key="difi:language"
       value="no"/>

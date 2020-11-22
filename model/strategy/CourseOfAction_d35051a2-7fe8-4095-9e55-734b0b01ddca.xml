@@ -31,4 +31,6 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
+  <properties
+      key="digdir:link1"/>
 </archimate:CourseOfAction>

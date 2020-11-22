@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="medvirkende"
+    id="id-b8fd5f9ddd964941b34ca15f5d7cb512">
+  <source
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-d1dae0c96b96496d97216598c359e778.xml#id-d1dae0c96b96496d97216598c359e778"/>
+  <target
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-782b313039504a008a16e4f95ae5317d.xml#id-782b313039504a008a16e4f95ae5317d"/>
+</archimate:ServingRelationship>

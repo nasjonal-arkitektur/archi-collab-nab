@@ -1,7 +1,7 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="hovedansvarlig"
+    name="ansvarlig"
     id="id-2e0183d128894addb946a7c0f95642b0">
   <properties
       key="difi:metaLevel"
@@ -35,8 +35,8 @@
   <properties
       key="difi:notes"/>
   <source
-      xsi:type="archimate:Grouping"
-      href="Grouping_id-ee52206f32534100bef8295069bfdd27.xml#id-ee52206f32534100bef8295069bfdd27"/>
+      xsi:type="archimate:BusinessActor"
+      href="BusinessActor_id-d1b3b4788d324723abe82d72b072839e.xml#id-d1b3b4788d324723abe82d72b072839e"/>
   <target
       xsi:type="archimate:CourseOfAction"
       href="CourseOfAction_id-8de8562aa462425fbd664fff89a6e808.xml#id-8de8562aa462425fbd664fff89a6e808"/>

@@ -1,6 +1,6 @@
 <archimate:CourseOfAction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Prioritere å utvikle sammenhengende tjenester innenfor 7 livshendelser"
+    name="Utvikle sammenhengende tjenester innenfor 7 livshendelser"
     id="id-2fb4119dd09045bb88c0b05ab5eadb93">
   <properties
       key="difi:metaLevel"
@@ -15,7 +15,8 @@
       key="difi:abstractionLevel"
       value="undefined"/>
   <properties
-      key="digdir:link1"/>
+      key="digdir:link1"
+      value="https://www.digdir.no/digitalisering-og-samordning/sammenhengende-tjenester-med-brukeren-i-sentrum/1255#initiativ_prioritere_aa_utvikle_sammenhengende_tjenester_innenfor_7_livshendelser"/>
   <properties
       key="difi:language"
       value="no"/>
@@ -33,4 +34,7 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
+  <properties
+      key="drill down"
+      value="id-051feacc5aa94bba8ea7935486bc6bb4"/>
 </archimate:CourseOfAction>
