@@ -1,0 +1,38 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sammenhengende tjenester innenfor 7 livshendelser"
+    id="id-cb341c2a2e01475f888bfd45fead5464"
+    documentation="For å oppnå målene i strategien og understøtte digital transformasjon, skal brukerne settes i sentrum gjennom utvikling av mer sammenhengende tjenester basert på viktige livshendelser.&#xD;&#xA;&#xD;&#xA;Viktige situasjoner og livshendelser for brukerne skal velges som utgangspunkt for utvikling av sammenhengende tjenester, og regjeringen vil prioritere å utvikle sammenhengende tjenester innenfor 7 livshendelser i første omgang. Dette skal imidlertid ikke hindre utviklingen av andre sammenhengende tjenester.">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:goal"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Sammenhengende tjenester innenfor 7 livshendelser"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"
+      value="For å oppnå målene i strategien og understøtte digital transformasjon, skal brukerne settes i sentrum gjennom utvikling av mer sammenhengende tjenester basert på viktige livshendelser.&#xD;&#xA;&#xD;&#xA;Viktige situasjoner og livshendelser for brukerne skal velges som utgangspunkt for utvikling av sammenhengende tjenester, og regjeringen vil prioritere å utvikle sammenhengende tjenester innenfor 7 livshendelser i første omgang. Dette skal imidlertid ikke hindre utviklingen av andre sammenhengende tjenester."/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Goal>

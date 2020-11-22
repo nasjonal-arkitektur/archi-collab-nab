@@ -1,4 +1,36 @@
 <archimate:WorkPackage
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Prosjekt-, program- og porteføljenettverket (Digitaliseringsdirektoratet)"
-    id="a173a4d9-e3c0-4a7d-beee-edb13276a9dd"/>
+    id="a173a4d9-e3c0-4a7d-beee-edb13276a9dd">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:work-package"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Prosjekt-, program- og porteføljenettverket (Digitaliseringsdirektoratet)"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:WorkPackage>

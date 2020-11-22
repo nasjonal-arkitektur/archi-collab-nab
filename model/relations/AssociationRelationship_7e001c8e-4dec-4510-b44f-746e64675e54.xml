@@ -26,7 +26,7 @@
       value="${name}"/>
   <source
       xsi:type="archimate:BusinessActor"
-      href="BusinessActor_6eb414e9-a559-4c47-b947-c9e3d88b0a99.xml#6eb414e9-a559-4c47-b947-c9e3d88b0a99"/>
+      href="BusinessActor_id-1991f04d845a4d6b9e1f0ebaa9dac20b.xml#id-1991f04d845a4d6b9e1f0ebaa9dac20b"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_2007b14f-f7c1-4f1c-baca-1398cf1d183d.xml#2007b14f-f7c1-4f1c-baca-1398cf1d183d"/>

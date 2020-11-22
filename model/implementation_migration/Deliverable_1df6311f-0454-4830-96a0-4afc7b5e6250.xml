@@ -1,4 +1,36 @@
 <archimate:Deliverable
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Komplettere innhold i veiledning med informasjon, erfaringer og råd fra reelle samarbeidsprosjekter. Veiledningen skal inspirere og støtte de som utvikler sammenhengende tjenester i eller for offentlig sektor"
-    id="1df6311f-0454-4830-96a0-4afc7b5e6250"/>
+    id="1df6311f-0454-4830-96a0-4afc7b5e6250">
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
+  <properties
+      key="dct:type"
+      value="archi:deliverable"/>
+  <properties
+      key="difi:namespace"
+      value="-"/>
+  <properties
+      key="difi:abstractionLevel"
+      value="undefined"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="difi:language"
+      value="no"/>
+  <properties
+      key="difi:name_no"
+      value="Komplettere innhold i veiledning med informasjon, erfaringer og råd fra reelle samarbeidsprosjekter. Veiledningen skal inspirere og støtte de som utvikler sammenhengende tjenester i eller for offentlig sektor"/>
+  <properties
+      key="difi:name_en"/>
+  <properties
+      key="difi:description_no"/>
+  <properties
+      key="difi:description_en"/>
+  <properties
+      key="label"
+      value="${name}"/>
+  <properties
+      key="difi:notes"/>
+</archimate:Deliverable>

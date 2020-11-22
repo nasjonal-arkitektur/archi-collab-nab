@@ -349,18 +349,54 @@
         href="ValueStream_id-2cf3d98449a84bcbb80bdafa2131fe66.xml#id-2cf3d98449a84bcbb80bdafa2131fe66"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelReference"
-      id="id-8e98e241d5b04a0d89a95a5fb500b07e">
+      xsi:type="archimate:DiagramModelNote"
+      id="id-1a35b0fba0884525a5dc1e121f315edd"
+      fontColor="#ff0000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="&quot;Lever sammen&quot; - er dette noe mer enn tradisjonell fossefallsmetodikk??">
     <features
         name="gradient"
         value="1"/>
     <bounds
-        x="672"
-        y="384"
-        width="120"
+        x="696"
+        y="363"
+        width="185"
+        height="80"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelReference"
+      id="id-b86440e672cf4fa4875b4dd76bd002c9"
+      lineColor="#5c5c5c"
+      fillColor="#dcebeb">
+    <features
+        name="gradient"
+        value="1"/>
+    <bounds
+        x="96"
+        y="492"
+        width="169"
         height="55"/>
     <referencedModel
         xsi:type="archimate:ArchimateDiagramModel"
-        href="ArchimateDiagramModel_3c9586f5-3098-4147-a9cc-eaf8594f626f.xml#3c9586f5-3098-4147-a9cc-eaf8594f626f"/>
+        href="ArchimateDiagramModel_id-b7a1766f0876449bbc674ad46ed6504f.xml#id-b7a1766f0876449bbc674ad46ed6504f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-e94b4b5be8124f81b6da114106d8a56b"
+      fontColor="#ff0000"
+      lineColor="#5c5c5c"
+      textAlignment="1"
+      fillColor="#ffffff"
+      content="&quot;Konseptforslag&quot; hører ikke hjemme her!?">
+    <features
+        name="gradient"
+        value="1"/>
+    <bounds
+        x="696"
+        y="230"
+        width="109"
+        height="71"/>
   </children>
 </archimate:ArchimateDiagramModel>
