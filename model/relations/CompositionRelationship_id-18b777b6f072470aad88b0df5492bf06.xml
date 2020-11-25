@@ -36,6 +36,6 @@
       xsi:type="archimate:Grouping"
       href="Grouping_id-e070122940fa4e158d53d547bee421af.xml#id-e070122940fa4e158d53d547bee421af"/>
   <target
-      xsi:type="archimate:WorkPackage"
-      href="WorkPackage_id-ecd91938d2884f689f070cc84647ba21.xml#id-ecd91938d2884f689f070cc84647ba21"/>
+      xsi:type="archimate:CourseOfAction"
+      href="CourseOfAction_id-b5e22fed826c49b4a82d279992ccae96.xml#id-b5e22fed826c49b4a82d279992ccae96"/>
 </archimate:CompositionRelationship>

@@ -1,6 +1,6 @@
 <archimate:CourseOfAction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Handlingsplan for regjeringens digitaliseringsstrategi"
+    name="Handlingsplan - digitaliseringsstrategien"
     id="id-4bc6371cee794fd49ab985d8f0a5c702">
   <properties
       key="difi:metaLevel"
@@ -33,4 +33,7 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
+  <properties
+      key="drill down"
+      value="53f97434-a696-40a0-8c4f-962cfbcdad42"/>
 </archimate:CourseOfAction>

@@ -15,7 +15,8 @@
       key="difi:abstractionLevel"
       value="undefined"/>
   <properties
-      key="digdir:link1"/>
+      key="digdir:link1"
+      value="https://www.digdir.no/digitalisering-og-samordning/digital-sikkerhet/1263"/>
   <properties
       key="difi:language"
       value="no"/>
@@ -33,4 +34,7 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
+  <properties
+      key="drill down"
+      value="id-cd39aeaa29714652b0dce1e0e0095364"/>
 </archimate:CourseOfAction>

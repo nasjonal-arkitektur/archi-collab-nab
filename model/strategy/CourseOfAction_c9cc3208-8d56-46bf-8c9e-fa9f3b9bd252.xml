@@ -3,6 +3,9 @@
     name="Deling av data og verdiskaping"
     id="c9cc3208-8d56-46bf-8c9e-fa9f3b9bd252">
   <properties
+      key="digdir:link1"
+      value="https://www.digdir.no/digitalisering-og-samordning/okt-deling-av-data-og-verdiskaping/1228"/>
+  <properties
       key="difi:metaLevel"
       value="undefined"/>
   <properties
@@ -31,8 +34,6 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
-  <properties
-      key="digdir:link1"/>
   <properties
       key="drill down"
       value="id-96c9d3dfe49f4747859abdc791f2bf84"/>

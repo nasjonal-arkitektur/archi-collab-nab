@@ -3,11 +3,14 @@
     name="Digitaliseringsvennlig regelverk"
     id="776f17e1-7715-46a6-b9a9-1b7cd0800722">
   <properties
-      key="difi:metaLevel"
-      value="undefined"/>
-  <properties
       key="dct:type"
       value="archi:course-of-action"/>
+  <properties
+      key="digdir:link1"
+      value="https://www.digdir.no/digitalisering-og-samordning/klart-og-digitaliseringsvennlig-regelverk/1227"/>
+  <properties
+      key="difi:metaLevel"
+      value="undefined"/>
   <properties
       key="difi:namespace"
       value="-"/>
@@ -32,5 +35,6 @@
   <properties
       key="difi:notes"/>
   <properties
-      key="digdir:link1"/>
+      key="drill down"
+      value="id-2330ce9eec964f09816a06a6484bf1ed"/>
 </archimate:CourseOfAction>

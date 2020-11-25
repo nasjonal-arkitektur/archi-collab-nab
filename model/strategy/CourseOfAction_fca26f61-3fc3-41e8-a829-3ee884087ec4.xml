@@ -32,5 +32,9 @@
   <properties
       key="difi:notes"/>
   <properties
-      key="digdir:link1"/>
+      key="digdir:link1"
+      value="https://www.digdir.no/digitalisering-og-samordning/felles-okosystem-nasjonal-digital-samhandling-og-tjenesteutvikling/1256"/>
+  <properties
+      key="drill down"
+      value="be530065-2c87-4e4e-a1f2-7fe76c46ec35"/>
 </archimate:CourseOfAction>
