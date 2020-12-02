@@ -1,6 +1,6 @@
 <archimate:CourseOfAction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Nasjonale fellesløsninger"
+    name="Felles økosystem for nasjonal digital samhandling og tjenesteutvikling"
     id="fca26f61-3fc3-41e8-a829-3ee884087ec4">
   <properties
       key="difi:metaLevel"
@@ -31,4 +31,10 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
+  <properties
+      key="digdir:link1"
+      value="https://www.digdir.no/digitalisering-og-samordning/felles-okosystem-nasjonal-digital-samhandling-og-tjenesteutvikling/1256"/>
+  <properties
+      key="drill down"
+      value="be530065-2c87-4e4e-a1f2-7fe76c46ec35"/>
 </archimate:CourseOfAction>

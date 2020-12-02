@@ -1,8 +1,7 @@
 <archimate:BusinessRole
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Datamodell-eier"
-    id="25d55a85-b555-4ee7-b099-ab6215151132"
-    documentation="Det enkelte fagområdet eier sine begreper og har rollen som begrepseier. Det bør kun være én begrepseier per begrep. Med begrepseier menes her en organisatorisk enhet knyttet til organisasjonskartet i virksomheten.">
+    id="25d55a85-b555-4ee7-b099-ab6215151132">
   <properties
       key="label"
       value="${name} [lang:]"/>
@@ -23,7 +22,7 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Begrepseier"/>
+      value="Datamodell-eier"/>
   <properties
       key="difi:name_en"/>
   <properties
@@ -34,4 +33,8 @@
       key="difi:notes"/>
   <properties
       key="dct:BibliographicResource"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="digdir:logo"/>
 </archimate:BusinessRole>

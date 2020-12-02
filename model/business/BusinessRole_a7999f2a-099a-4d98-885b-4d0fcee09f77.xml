@@ -7,7 +7,7 @@
       value="-"/>
   <properties
       key="difi:name_no"
-      value="Produkteier"/>
+      value="Produkteier (linje)"/>
   <properties
       key="difi:description_no"/>
   <properties
@@ -22,7 +22,7 @@
       value="no"/>
   <properties
       key="label"
-      value="${name} [lang:]"/>
+      value="${name}"/>
   <properties
       key="difi:metaLevel"
       value="undefined"/>
@@ -33,4 +33,8 @@
       key="difi:notes"/>
   <properties
       key="dct:BibliographicResource"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="digdir:logo"/>
 </archimate:BusinessRole>

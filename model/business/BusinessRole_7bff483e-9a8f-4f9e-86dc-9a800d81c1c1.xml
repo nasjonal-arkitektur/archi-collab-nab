@@ -35,4 +35,8 @@
       key="difi:notes"/>
   <properties
       key="dct:BibliographicResource"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="digdir:logo"/>
 </archimate:BusinessRole>
