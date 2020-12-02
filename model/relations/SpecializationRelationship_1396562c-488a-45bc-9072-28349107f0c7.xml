@@ -32,6 +32,10 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
+  <properties
+      key="digdir:link1"/>
+  <properties
+      key="digdir:logo"/>
   <source
       xsi:type="archimate:BusinessRole"
       href="BusinessRole_16d695b3-2d09-43e7-a8f4-5b4a20291209.xml#16d695b3-2d09-43e7-a8f4-5b4a20291209"/>
