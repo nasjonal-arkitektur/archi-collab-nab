@@ -71,6 +71,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="7a356f0e-310b-4167-9bdd-610296827c75"
           targetConnections="43669b3b-3993-49fc-bbd9-9563071a94d3"
+          fontColor="#ff0000"
           textPosition="1">
         <features
             name="labelExpression"
@@ -118,6 +119,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="c50eb68e-4d01-41c3-a280-63df5d2ba7d6"
           targetConnections="0e4f923b-41c4-47ce-90a4-c61d73c88693"
+          fontColor="#ff0000"
           textPosition="1">
         <features
             name="gradient"
@@ -162,6 +164,7 @@
           xsi:type="archimate:DiagramModelArchimateObject"
           id="708d3c41-1dcd-4f24-8060-c243e54eeb30"
           targetConnections="2b1c7eac-d587-4f14-83ba-19ec347b93f4"
+          fontColor="#ff0000"
           textPosition="1">
         <features
             name="gradient"

@@ -1,7 +1,8 @@
 <archimate:BusinessInteraction
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="6. Notifikasjon til mange "
-    id="9df40034-f843-4d2f-93ed-23ed2099b856">
+    name="6. Notifikasjon til flere ukjente"
+    id="9df40034-f843-4d2f-93ed-23ed2099b856"
+    documentation="6. Notifikasjon til mange ">
   <properties
       key="difi:namespace"
       value="-"/>
@@ -20,9 +21,6 @@
   <properties
       key="difi:language"
       value="no"/>
-  <properties
-      key="label"
-      value="${name}"/>
   <properties
       key="difi:abstractionLevel"
       value="undefined"/>

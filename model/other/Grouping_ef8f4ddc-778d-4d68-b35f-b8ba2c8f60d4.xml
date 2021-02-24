@@ -1,13 +1,13 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Basic data exchange patterns"
+    name="Basismønstre for datautveksling"
     id="ef8f4ddc-778d-4d68-b35f-b8ba2c8f60d4">
   <properties
       key="difi:namespace"
       value="-"/>
   <properties
       key="difi:name_no"
-      value="Basismønstre for datautveksling"/>
+      value="Basic integration patterns - newer technologies"/>
   <properties
       key="difi:name_en"
       value="Basic data exchange patterns"/>

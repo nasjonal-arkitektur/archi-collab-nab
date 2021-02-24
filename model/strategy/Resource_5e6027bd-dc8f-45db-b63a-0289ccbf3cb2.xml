@@ -20,9 +20,10 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Messaging integration style"/>
+      value="Meldingsutveksling"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Messaging integration style"/>
   <properties
       key="difi:description_no"
       value="Have each application connect to a common messaging system, and exchange data and invoke behavior using messages."/>
@@ -33,4 +34,10 @@
       value="${name}"/>
   <properties
       key="difi:notes"/>
+  <properties
+      key="modelx:view_reference"
+      value="id-695feef085614223a5cca0b6c3dc8926"/>
+  <properties
+      key="drill down"
+      value="id-695feef085614223a5cca0b6c3dc8926"/>
 </archimate:Resource>

@@ -1,6 +1,6 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Basic integration styles - conventional"
+    name="Grunnleggende integrasjonsformer"
     id="cc2a7159-ce89-4a68-a269-31f9df909173">
   <properties
       key="difi:metaLevel"
@@ -19,9 +19,10 @@
       value="no"/>
   <properties
       key="difi:name_no"
-      value="Basic integration styles - conventional"/>
+      value="Grunnleggende integrasjonsformer"/>
   <properties
-      key="difi:name_en"/>
+      key="difi:name_en"
+      value="Basic integration styles"/>
   <properties
       key="difi:description_no"/>
   <properties
