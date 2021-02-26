@@ -596,28 +596,6 @@
     </children>
   </children>
   <children
-      xsi:type="canvas:CanvasModelImage"
-      id="id-4841eaeddcb046328f89e7ab33cebc20"
-      name="Image"
-      imagePath="images/_wNP3IHU3Eeuy8b2PHkkv0Q.jpg">
-    <bounds
-        x="722"
-        y="102"
-        width="97"
-        height="86"/>
-  </children>
-  <children
-      xsi:type="canvas:CanvasModelImage"
-      id="id-c8fafd7080cc45f79b39cb1b73a62fff"
-      name="Image"
-      imagePath="images/_ekCAkHaeEeuy8b2PHkkv0Q.png">
-    <bounds
-        x="797"
-        y="105"
-        width="30"
-        height="20"/>
-  </children>
-  <children
       xsi:type="canvas:CanvasModelSticky"
       id="id-82e215d65f154015aa751e25bad4eb41"
       fillColor="#ffff95"
@@ -625,197 +603,10 @@
       borderColor="#C0C0C0"
       textPosition="1">
     <bounds
-        x="542"
-        y="102"
+        x="1272"
+        y="210"
         width="158"
         height="86"/>
-  </children>
-  <children
-      xsi:type="canvas:CanvasModelImage"
-      id="id-7708de8225fe4511bc40f4808f6045a1"
-      name="Image"
-      imagePath="images/_ekCAkHaeEeuy8b2PHkkv0Q.png">
-    <bounds
-        x="797"
-        y="165"
-        width="30"
-        height="20"/>
-  </children>
-  <children
-      xsi:type="canvas:CanvasModelImage"
-      id="id-04478a07db094b60ad51632a51d71b25"
-      name="Image"
-      imagePath="images/_ekCAkHaeEeuy8b2PHkkv0Q.png">
-    <bounds
-        x="757"
-        y="133"
-        width="30"
-        height="20"/>
-  </children>
-  <children
-      xsi:type="canvas:CanvasModelImage"
-      id="id-2697f891a4884172a4a0a58d30c17e97"
-      name="Image"
-      imagePath="images/_ekCAkHaeEeuy8b2PHkkv0Q.png">
-    <bounds
-        x="797"
-        y="135"
-        width="30"
-        height="20"/>
-  </children>
-  <children
-      xsi:type="canvas:CanvasModelImage"
-      id="id-6aa5de500cd348b5b5121f8d68215331"
-      name="Image"
-      imagePath="images/_wNP3IHU3Eeuy8b2PHkkv0Q.jpg">
-    <bounds
-        x="1757"
-        y="111"
-        width="227"
-        height="202"/>
-  </children>
-  <children
-      xsi:type="canvas:CanvasModelImage"
-      id="id-e4e89c4a107e4c8093b07bc9dcbe70c8"
-      name="Image"
-      targetConnections="id-e32f6321d15042009cb412917c13990f"
-      imagePath="images/_ekCAkHaeEeuy8b2PHkkv0Q.png">
-    <sourceConnections
-        xsi:type="canvas:CanvasModelConnection"
-        id="id-f5cf0f553a1b4c449c5fc5fd4a5605a2"
-        source="id-e4e89c4a107e4c8093b07bc9dcbe70c8"
-        target="id-0e39aa05643e48dea055343ee971063f"
-        type="4"/>
-    <bounds
-        x="1889"
-        y="173"
-        width="30"
-        height="20"/>
-  </children>
-  <children
-      xsi:type="canvas:CanvasModelImage"
-      id="id-35af9408b5a34e2f8dec680181f088c3"
-      name="Image"
-      targetConnections="id-e46eb17a3c65432ea595ea1d7d7b3220 id-86e6d2cce8174fcea5b4216767f65da0"
-      imagePath="images/_ekCAkHaeEeuy8b2PHkkv0Q.png">
-    <sourceConnections
-        xsi:type="canvas:CanvasModelConnection"
-        id="id-2b2539810fb4423a9fb7c2ecb6f39bcb"
-        source="id-35af9408b5a34e2f8dec680181f088c3"
-        target="id-c8809df3af7740369f37248e9aac97c6"
-        type="4"/>
-    <bounds
-        x="1889"
-        y="233"
-        width="30"
-        height="20"/>
-  </children>
-  <children
-      xsi:type="canvas:CanvasModelImage"
-      id="id-7cabcbcd12834c8a82d3475a2dad2900"
-      name="Image"
-      imagePath="images/_ekCAkHaeEeuy8b2PHkkv0Q.png">
-    <bounds
-        x="865"
-        y="78"
-        width="30"
-        height="20"/>
-  </children>
-  <children
-      xsi:type="canvas:CanvasModelImage"
-      id="id-5a2ce2c67dd34ad3b58b8f2852d42969"
-      name="Image"
-      targetConnections="id-66ee8f8c37284de1a67cfb4c5d9f31ee"
-      imagePath="images/_ekCAkHaeEeuy8b2PHkkv0Q.png">
-    <sourceConnections
-        xsi:type="canvas:CanvasModelConnection"
-        id="id-236d85370dac4cf396c59641682b5a12"
-        source="id-5a2ce2c67dd34ad3b58b8f2852d42969"
-        target="id-612810e3f6ee4dbe91ee65bb74df4c8c"
-        type="4"/>
-    <bounds
-        x="1889"
-        y="203"
-        width="30"
-        height="20"/>
-  </children>
-  <children
-      xsi:type="canvas:CanvasModelImage"
-      id="id-5a651fbb2bca4f2dbc91c35460a0a3f1"
-      name="Image"
-      targetConnections="id-94b5330fa9f24214861a522c9b4a06ad id-d24873cce13c44e7af39ea2ca0f517c6"
-      imagePath="images/_ekCAkHaeEeuy8b2PHkkv0Q.png">
-    <sourceConnections
-        xsi:type="canvas:CanvasModelConnection"
-        id="id-e32f6321d15042009cb412917c13990f"
-        source="id-5a651fbb2bca4f2dbc91c35460a0a3f1"
-        target="id-e4e89c4a107e4c8093b07bc9dcbe70c8"
-        type="4">
-      <bendpoints
-          startX="4"
-          endX="-74"
-          endY="10"/>
-      <bendpoints
-          startX="70"
-          startY="-12"
-          endX="-8"
-          endY="-2"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="canvas:CanvasModelConnection"
-        id="id-e46eb17a3c65432ea595ea1d7d7b3220"
-        source="id-5a651fbb2bca4f2dbc91c35460a0a3f1"
-        target="id-35af9408b5a34e2f8dec680181f088c3"
-        type="4"/>
-    <bounds
-        x="1812"
-        y="183"
-        width="30"
-        height="20"/>
-  </children>
-  <children
-      xsi:type="canvas:CanvasModelImage"
-      id="id-8628f4502aba444bbded8ed9d1390147"
-      name="Image"
-      targetConnections="id-9caf4015b23c468abcfd8180cf83758c id-16923aed5abc4448952f8959174a3dce"
-      imagePath="images/_ekCAkHaeEeuy8b2PHkkv0Q.png">
-    <sourceConnections
-        xsi:type="canvas:CanvasModelConnection"
-        id="id-86e6d2cce8174fcea5b4216767f65da0"
-        source="id-8628f4502aba444bbded8ed9d1390147"
-        target="id-35af9408b5a34e2f8dec680181f088c3"
-        type="4">
-      <bendpoints
-          startX="-2"
-          endX="-80"
-          endY="-20"/>
-      <bendpoints
-          startX="70"
-          startY="18"
-          endX="-8"
-          endY="-2"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="canvas:CanvasModelConnection"
-        id="id-66ee8f8c37284de1a67cfb4c5d9f31ee"
-        source="id-8628f4502aba444bbded8ed9d1390147"
-        target="id-5a2ce2c67dd34ad3b58b8f2852d42969"
-        type="4">
-      <bendpoints
-          startX="10"
-          endX="-68"
-          endY="10"/>
-      <bendpoints
-          startX="70"
-          startY="-12"
-          endX="-8"
-          endY="-2"/>
-    </sourceConnections>
-    <bounds
-        x="1812"
-        y="213"
-        width="30"
-        height="20"/>
   </children>
   <children
       xsi:type="canvas:CanvasModelImage"
@@ -830,8 +621,8 @@
         target="id-dd1864725e484df296dbb0fad2763452"
         type="2"/>
     <bounds
-        x="1008"
-        y="105"
+        x="563"
+        y="18"
         width="26"
         height="29"/>
   </children>
@@ -842,21 +633,10 @@
       targetConnections="id-065a2f4553204fabacc5aa003e4ba92f"
       imagePath="images/_e_bjIHaeEeuy8b2PHkkv0Q.png">
     <bounds
-        x="1009"
-        y="147"
+        x="564"
+        y="60"
         width="24"
         height="18"/>
-  </children>
-  <children
-      xsi:type="canvas:CanvasModelImage"
-      id="id-7b5fe6455e38478e9966d6bdf47aafd3"
-      name="Image"
-      imagePath="images/_Z2oXUHbgEeuy8b2PHkkv0Q.png">
-    <bounds
-        x="1848"
-        y="147"
-        width="26"
-        height="29"/>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -865,20 +645,20 @@
       borderColor="#000000"
       content="Mange til mange ukjente med hendelseslister">
     <bounds
-        x="753"
-        y="276"
-        width="470"
+        x="552"
+        y="174"
+        width="688"
         height="356"/>
     <children
         xsi:type="canvas:CanvasModelImage"
-        id="id-516d650d769a4db5a2bb6742e165d90a"
+        id="id-6aa5de500cd348b5b5121f8d68215331"
         name="Image"
         imagePath="images/_wNP3IHU3Eeuy8b2PHkkv0Q.jpg">
       <bounds
-          x="190"
-          y="120"
-          width="97"
-          height="86"/>
+          x="210"
+          y="60"
+          width="227"
+          height="202"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelBlock"
@@ -890,7 +670,7 @@
           name="lineAlpha"
           value="100"/>
       <bounds
-          x="106"
+          x="206"
           y="315"
           width="236"
           height="30"/>
@@ -955,319 +735,177 @@
       </children>
     </children>
     <children
-        xsi:type="canvas:CanvasModelBlock"
-        id="id-ce3238e65b7a4d31b40396431059050b"
-        font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-        content="Konsument 2"
-        textPosition="2">
-      <bounds
-          x="365"
-          y="120"
-          width="97"
-          height="91"/>
-      <children
-          xsi:type="canvas:CanvasModelImage"
-          id="id-ac106dcf25654a97a42c9770024c4aab"
-          name="Image"
-          targetConnections="id-2d2c3834588143c6a2c640b3dbf78035"
-          imagePath="images/_knrs8HVdEeuy8b2PHkkv0Q.png">
-        <bounds
-            x="30"
-            y="15"
-            width="37"
-            height="49"/>
-      </children>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelBlock"
-        id="id-50e06dfc38c3412a865afd733c352189"
-        font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-        content="Konsument 1"
-        textPosition="2">
-      <bounds
-          x="370"
-          y="27"
-          width="97"
-          height="91"/>
-      <children
-          xsi:type="canvas:CanvasModelImage"
-          id="id-2a929342006f4d1d89b56f6cca7c9a9b"
-          name="Image"
-          targetConnections="id-e565c88fbe5648b084cfafc7d56b9933"
-          imagePath="images/_knrs8HVdEeuy8b2PHkkv0Q.png">
-        <bounds
-            x="25"
-            y="15"
-            width="37"
-            height="49"/>
-      </children>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelBlock"
-        id="id-3da5301695d040f58d45245fd150caa9"
-        font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-        content="Konsument 3"
-        textPosition="2">
-      <bounds
-          x="365"
-          y="204"
-          width="97"
-          height="91"/>
-      <children
-          xsi:type="canvas:CanvasModelImage"
-          id="id-b0499d95d5bd497bad193967262c7666"
-          name="Image"
-          targetConnections="id-18b102e5bf40483dbab4d09d912c2e12 id-8b35ea960a564451aa4de3340a2cd350"
-          imagePath="images/_knrs8HVdEeuy8b2PHkkv0Q.png">
-        <bounds
-            x="30"
-            y="20"
-            width="37"
-            height="49"/>
-      </children>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelBlock"
-        id="id-82d1430d658642d0b5b5c579d13baaa8"
-        font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-        content="Tilbyder 1"
-        textPosition="2">
-      <bounds
-          x="10"
-          y="63"
-          width="82"
-          height="91"/>
-      <children
-          xsi:type="canvas:CanvasModelImage"
-          id="id-14e0e175bf204a56aa1d8f5b221ce155"
-          name="Image"
-          imagePath="images/_fHOVEHVdEeuy8b2PHkkv0Q.png">
-        <sourceConnections
-            xsi:type="canvas:CanvasModelConnection"
-            id="id-95f1b887c6304b8cb8af7f9fa274e313"
-            source="id-14e0e175bf204a56aa1d8f5b221ce155"
-            target="id-250655cc47614b4b951207c15c31244f"
-            type="4"/>
-        <sourceConnections
-            xsi:type="canvas:CanvasModelConnection"
-            id="id-8488eb9ed48d4dfda47d514098b9ae11"
-            source="id-14e0e175bf204a56aa1d8f5b221ce155"
-            target="id-32ee7d215c114253988d0f7e1bbb0989"
-            type="4"/>
-        <bounds
-            x="25"
-            y="20"
-            width="37"
-            height="49"/>
-      </children>
-    </children>
-    <children
         xsi:type="canvas:CanvasModelImage"
-        id="id-0e996f58f35547918a5979d583ef757c"
+        id="id-5a2ce2c67dd34ad3b58b8f2852d42969"
         name="Image"
-        targetConnections="id-2e5c9170861e4efebbe2c18077ad9092 id-73002f9808e74c659cb57d48aadcbcbc id-0dec18be7a234bc588cd8a1c0dfe7997 id-f6ab77f688a443c78c37df5914fd1905"
+        targetConnections="id-66ee8f8c37284de1a67cfb4c5d9f31ee"
         imagePath="images/_ekCAkHaeEeuy8b2PHkkv0Q.png">
       <sourceConnections
           xsi:type="canvas:CanvasModelConnection"
-          id="id-7431438fa0c84b80907aff6f7d871140"
-          source="id-0e996f58f35547918a5979d583ef757c"
-          target="id-9cda76a472804be8ace2265555fad100"
-          type="4"/>
-      <sourceConnections
-          xsi:type="canvas:CanvasModelConnection"
-          id="id-d6dfdffa730b4612846e7491275c3980"
-          source="id-0e996f58f35547918a5979d583ef757c"
-          target="id-9922683948944611a88112daad7ad708"
-          type="4"/>
-      <sourceConnections
-          xsi:type="canvas:CanvasModelConnection"
-          id="id-fc5f702577c24bf0b1383bac4d2efd7c"
-          source="id-0e996f58f35547918a5979d583ef757c"
-          target="id-53a31fb625b14bb7ad6e952304f39846"
-          type="4"/>
-      <sourceConnections
-          xsi:type="canvas:CanvasModelConnection"
-          id="id-d374ba2fd95a43aa816eea28a850bef1"
-          source="id-0e996f58f35547918a5979d583ef757c"
-          target="id-948d4838224843d3a3e44428b1f67a97"
+          id="id-236d85370dac4cf396c59641682b5a12"
+          source="id-5a2ce2c67dd34ad3b58b8f2852d42969"
+          target="id-612810e3f6ee4dbe91ee65bb74df4c8c"
           type="4"/>
       <bounds
-          x="224"
-          y="153"
+          x="342"
+          y="152"
           width="30"
           height="20"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelImage"
-        id="id-250655cc47614b4b951207c15c31244f"
+        id="id-b5ed3fb629f640a2925af38a8a1f8bee"
         name="Image"
-        targetConnections="id-95f1b887c6304b8cb8af7f9fa274e313"
-        imagePath="images/_E8dgAHYbEeuy8b2PHkkv0Q.png">
-      <sourceConnections
-          xsi:type="canvas:CanvasModelConnection"
-          id="id-73002f9808e74c659cb57d48aadcbcbc"
-          source="id-250655cc47614b4b951207c15c31244f"
-          target="id-0e996f58f35547918a5979d583ef757c"
-          type="68"/>
-      <bounds
-          x="120"
-          y="156"
-          width="32"
-          height="20"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelImage"
-        id="id-ca67de71f55144d88235e53d874e9531"
-        name="Image"
-        targetConnections="id-9f1b9a0503b742e08c5c8afe62b9b1d2"
-        imagePath="images/_FPnFgHYbEeuy8b2PHkkv0Q.png">
-      <sourceConnections
-          xsi:type="canvas:CanvasModelConnection"
-          id="id-0dec18be7a234bc588cd8a1c0dfe7997"
-          source="id-ca67de71f55144d88235e53d874e9531"
-          target="id-0e996f58f35547918a5979d583ef757c"
-          type="68"/>
-      <bounds
-          x="137"
-          y="208"
-          width="32"
-          height="20"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelImage"
-        id="id-32ee7d215c114253988d0f7e1bbb0989"
-        name="Image"
-        targetConnections="id-8488eb9ed48d4dfda47d514098b9ae11"
+        targetConnections="id-faa2c22463494259a14ce6952d5edd71"
         imagePath="images/_EGF4sHYbEeuy8b2PHkkv0Q.png">
       <sourceConnections
           xsi:type="canvas:CanvasModelConnection"
-          id="id-2e5c9170861e4efebbe2c18077ad9092"
-          source="id-32ee7d215c114253988d0f7e1bbb0989"
-          target="id-0e996f58f35547918a5979d583ef757c"
+          id="id-94b5330fa9f24214861a522c9b4a06ad"
+          source="id-b5ed3fb629f640a2925af38a8a1f8bee"
+          target="id-5a651fbb2bca4f2dbc91c35460a0a3f1"
           type="68"/>
       <bounds
-          x="106"
-          y="99"
-          width="32"
-          height="20"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelImage"
-        id="id-f2edc4e4e4c645e8b648553bef729337"
-        name="Image"
-        targetConnections="id-5607bcba7d544410987f761a923d7a7e"
-        imagePath="images/_DR4NgHYbEeuy8b2PHkkv0Q.png">
-      <sourceConnections
-          xsi:type="canvas:CanvasModelConnection"
-          id="id-f6ab77f688a443c78c37df5914fd1905"
-          source="id-f2edc4e4e4c645e8b648553bef729337"
-          target="id-0e996f58f35547918a5979d583ef757c"
-          type="68"/>
-      <bounds
-          x="151"
-          y="255"
-          width="32"
-          height="20"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelImage"
-        id="id-9cda76a472804be8ace2265555fad100"
-        name="Image"
-        targetConnections="id-7431438fa0c84b80907aff6f7d871140"
-        imagePath="images/_DR4NgHYbEeuy8b2PHkkv0Q.png">
-      <sourceConnections
-          xsi:type="canvas:CanvasModelConnection"
-          id="id-8b35ea960a564451aa4de3340a2cd350"
-          source="id-9cda76a472804be8ace2265555fad100"
-          target="id-b0499d95d5bd497bad193967262c7666"
-          type="68"/>
-      <bounds
-          x="325"
-          y="255"
-          width="32"
-          height="20"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelImage"
-        id="id-948d4838224843d3a3e44428b1f67a97"
-        name="Image"
-        targetConnections="id-d374ba2fd95a43aa816eea28a850bef1"
-        imagePath="images/_FPnFgHYbEeuy8b2PHkkv0Q.png">
-      <sourceConnections
-          xsi:type="canvas:CanvasModelConnection"
-          id="id-2d2c3834588143c6a2c640b3dbf78035"
-          source="id-948d4838224843d3a3e44428b1f67a97"
-          target="id-ac106dcf25654a97a42c9770024c4aab"
-          type="68"/>
-      <bounds
-          x="310"
-          y="153"
-          width="32"
-          height="20"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelImage"
-        id="id-53a31fb625b14bb7ad6e952304f39846"
-        name="Image"
-        targetConnections="id-fc5f702577c24bf0b1383bac4d2efd7c"
-        imagePath="images/_E8dgAHYbEeuy8b2PHkkv0Q.png">
-      <sourceConnections
-          xsi:type="canvas:CanvasModelConnection"
-          id="id-e565c88fbe5648b084cfafc7d56b9933"
-          source="id-53a31fb625b14bb7ad6e952304f39846"
-          target="id-2a929342006f4d1d89b56f6cca7c9a9b"
-          type="68"/>
-      <bounds
-          x="325"
-          y="63"
-          width="32"
-          height="20"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelImage"
-        id="id-9922683948944611a88112daad7ad708"
-        name="Image"
-        targetConnections="id-d6dfdffa730b4612846e7491275c3980"
-        imagePath="images/_EGF4sHYbEeuy8b2PHkkv0Q.png">
-      <sourceConnections
-          xsi:type="canvas:CanvasModelConnection"
-          id="id-18b102e5bf40483dbab4d09d912c2e12"
-          source="id-9922683948944611a88112daad7ad708"
-          target="id-b0499d95d5bd497bad193967262c7666"
-          type="68"/>
-      <bounds
-          x="320"
-          y="224"
+          x="114"
+          y="95"
           width="32"
           height="20"/>
     </children>
     <children
         xsi:type="canvas:CanvasModelBlock"
-        id="id-bc7f45de20514a3da46f4864f074a8f1"
+        id="id-168e4a46ca064f7a90f093bb03ef76de"
+        textAlignment="1"
+        borderColor="#000000">
+      <features
+          name="lineAlpha"
+          value="50"/>
+      <sourceConnections
+          xsi:type="canvas:CanvasModelConnection"
+          id="id-852325400e3a4510b1c49fb37da25c0c"
+          source="id-168e4a46ca064f7a90f093bb03ef76de"
+          target="id-f3874a699e4047af9186253c126edb39"
+          type="68"/>
+      <bounds
+          x="445"
+          y="236"
+          width="138"
+          height="30"/>
+      <children
+          xsi:type="canvas:CanvasModelImage"
+          id="id-c1981aff8e4d41ddbc2ae4c49701b5e5"
+          name="Image"
+          imagePath="images/_E8dgAHYbEeuy8b2PHkkv0Q.png">
+        <bounds
+            x="37"
+            y="6"
+            width="32"
+            height="20"/>
+      </children>
+      <children
+          xsi:type="canvas:CanvasModelImage"
+          id="id-008673e7a0bd4a42b29d9ad3957dbbe6"
+          name="Image"
+          imagePath="images/_FPnFgHYbEeuy8b2PHkkv0Q.png">
+        <bounds
+            x="68"
+            y="6"
+            width="32"
+            height="20"/>
+      </children>
+      <children
+          xsi:type="canvas:CanvasModelImage"
+          id="id-c8809df3af7740369f37248e9aac97c6"
+          name="Image"
+          targetConnections="id-2b2539810fb4423a9fb7c2ecb6f39bcb"
+          imagePath="images/_EGF4sHYbEeuy8b2PHkkv0Q.png">
+        <bounds
+            x="6"
+            y="6"
+            width="32"
+            height="20"/>
+      </children>
+      <children
+          xsi:type="canvas:CanvasModelImage"
+          id="id-b4630debda094f1cbc97d834c7fdc729"
+          name="Image"
+          imagePath="images/_DR4NgHYbEeuy8b2PHkkv0Q.png">
+        <bounds
+            x="99"
+            y="6"
+            width="32"
+            height="20"/>
+      </children>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelImage"
+        id="id-8628f4502aba444bbded8ed9d1390147"
+        name="Image"
+        targetConnections="id-9caf4015b23c468abcfd8180cf83758c id-16923aed5abc4448952f8959174a3dce"
+        imagePath="images/_ekCAkHaeEeuy8b2PHkkv0Q.png">
+      <sourceConnections
+          xsi:type="canvas:CanvasModelConnection"
+          id="id-86e6d2cce8174fcea5b4216767f65da0"
+          source="id-8628f4502aba444bbded8ed9d1390147"
+          target="id-35af9408b5a34e2f8dec680181f088c3"
+          type="4">
+        <bendpoints
+            startX="-2"
+            endX="-80"
+            endY="-20"/>
+        <bendpoints
+            startX="70"
+            startY="18"
+            endX="-8"
+            endY="-2"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="canvas:CanvasModelConnection"
+          id="id-66ee8f8c37284de1a67cfb4c5d9f31ee"
+          source="id-8628f4502aba444bbded8ed9d1390147"
+          target="id-5a2ce2c67dd34ad3b58b8f2852d42969"
+          type="4">
+        <bendpoints
+            startX="10"
+            endX="-68"
+            endY="10"/>
+        <bendpoints
+            startX="70"
+            startY="-12"
+            endX="-8"
+            endY="-2"/>
+      </sourceConnections>
+      <bounds
+          x="265"
+          y="162"
+          width="30"
+          height="20"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-d876cca4fe084fa3981f381a6f97129c"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
         content="Tilbyder 2"
         textPosition="2">
       <bounds
-          x="2"
-          y="172"
+          x="5"
+          y="157"
           width="97"
           height="91"/>
       <children
           xsi:type="canvas:CanvasModelImage"
-          id="id-2884eccc10724328a479b1a8b485428d"
+          id="id-2dcdda01ecb64fcfb0f18b4fcc71641f"
           name="Image"
           imagePath="images/_fHOVEHVdEeuy8b2PHkkv0Q.png">
         <sourceConnections
             xsi:type="canvas:CanvasModelConnection"
-            id="id-5607bcba7d544410987f761a923d7a7e"
-            source="id-2884eccc10724328a479b1a8b485428d"
-            target="id-f2edc4e4e4c645e8b648553bef729337"
+            id="id-c23dee4f43f447609cdb11db2610a35c"
+            source="id-2dcdda01ecb64fcfb0f18b4fcc71641f"
+            target="id-5f4d607990324ac885b16d6846576249"
             type="4"/>
         <sourceConnections
             xsi:type="canvas:CanvasModelConnection"
-            id="id-9f1b9a0503b742e08c5c8afe62b9b1d2"
-            source="id-2884eccc10724328a479b1a8b485428d"
-            target="id-ca67de71f55144d88235e53d874e9531"
+            id="id-a899e71122cb4ca39c5f7d933fc95455"
+            source="id-2dcdda01ecb64fcfb0f18b4fcc71641f"
+            target="id-bc62fdfb35564548b4732e3cb4353243"
             type="4"/>
         <bounds
             x="30"
@@ -1275,6 +913,323 @@
             width="37"
             height="49"/>
       </children>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-a52f76dd04054c4f8eed967040329dfa"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        content="Tilbyder 1"
+        textPosition="2">
+      <bounds
+          x="13"
+          y="48"
+          width="82"
+          height="91"/>
+      <children
+          xsi:type="canvas:CanvasModelImage"
+          id="id-bded518adb9e4bc9a7ef9ab6827e8551"
+          name="Image"
+          imagePath="images/_fHOVEHVdEeuy8b2PHkkv0Q.png">
+        <sourceConnections
+            xsi:type="canvas:CanvasModelConnection"
+            id="id-faa2c22463494259a14ce6952d5edd71"
+            source="id-bded518adb9e4bc9a7ef9ab6827e8551"
+            target="id-b5ed3fb629f640a2925af38a8a1f8bee"
+            type="4"/>
+        <sourceConnections
+            xsi:type="canvas:CanvasModelConnection"
+            id="id-fdade796bbfb43699450cc4872751b04"
+            source="id-bded518adb9e4bc9a7ef9ab6827e8551"
+            target="id-313b9078688c4ff8abefb93656c2c8f8"
+            type="4"/>
+        <bounds
+            x="24"
+            y="18"
+            width="37"
+            height="49"/>
+      </children>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelImage"
+        id="id-e4e89c4a107e4c8093b07bc9dcbe70c8"
+        name="Image"
+        targetConnections="id-e32f6321d15042009cb412917c13990f id-25b64ba88514444784582fe989f17115"
+        imagePath="images/_ekCAkHaeEeuy8b2PHkkv0Q.png">
+      <sourceConnections
+          xsi:type="canvas:CanvasModelConnection"
+          id="id-f5cf0f553a1b4c449c5fc5fd4a5605a2"
+          source="id-e4e89c4a107e4c8093b07bc9dcbe70c8"
+          target="id-0e39aa05643e48dea055343ee971063f"
+          type="4"/>
+      <bounds
+          x="342"
+          y="122"
+          width="30"
+          height="20"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-c43416a2a2324c33994ab3388be97820"
+        textAlignment="1"
+        borderColor="#000000">
+      <features
+          name="lineAlpha"
+          value="50"/>
+      <sourceConnections
+          xsi:type="canvas:CanvasModelConnection"
+          id="id-cd070c34b47c4686b3e81c1e5aaf8f7c"
+          source="id-c43416a2a2324c33994ab3388be97820"
+          target="id-cfcf81c526f24b6abd35fa7154f45461"
+          type="68"/>
+      <bounds
+          x="476"
+          y="147"
+          width="76"
+          height="30"/>
+      <children
+          xsi:type="canvas:CanvasModelImage"
+          id="id-612810e3f6ee4dbe91ee65bb74df4c8c"
+          name="Image"
+          targetConnections="id-236d85370dac4cf396c59641682b5a12"
+          imagePath="images/_E8dgAHYbEeuy8b2PHkkv0Q.png">
+        <bounds
+            x="7"
+            y="6"
+            width="32"
+            height="20"/>
+      </children>
+      <children
+          xsi:type="canvas:CanvasModelImage"
+          id="id-5af1aded9e834f1fad2a136cdaee309b"
+          name="Image"
+          imagePath="images/_DR4NgHYbEeuy8b2PHkkv0Q.png">
+        <bounds
+            x="38"
+            y="6"
+            width="32"
+            height="20"/>
+      </children>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelImage"
+        id="id-313b9078688c4ff8abefb93656c2c8f8"
+        name="Image"
+        targetConnections="id-fdade796bbfb43699450cc4872751b04"
+        imagePath="images/_E8dgAHYbEeuy8b2PHkkv0Q.png">
+      <sourceConnections
+          xsi:type="canvas:CanvasModelConnection"
+          id="id-9caf4015b23c468abcfd8180cf83758c"
+          source="id-313b9078688c4ff8abefb93656c2c8f8"
+          target="id-8628f4502aba444bbded8ed9d1390147"
+          type="68"/>
+      <bounds
+          x="123"
+          y="152"
+          width="32"
+          height="20"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-c71e84cd408747dc8b4f08806e0fdd8d"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        content="Konsument 1"
+        textPosition="2">
+      <bounds
+          x="582"
+          y="18"
+          width="97"
+          height="91"/>
+      <children
+          xsi:type="canvas:CanvasModelImage"
+          id="id-a280fde0797d48dcb3939ac4a2aa40ab"
+          name="Image"
+          targetConnections="id-1cd19337539440c4817acbc1d987885d"
+          imagePath="images/_knrs8HVdEeuy8b2PHkkv0Q.png">
+        <bounds
+            x="24"
+            y="24"
+            width="37"
+            height="49"/>
+      </children>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelImage"
+        id="id-5f4d607990324ac885b16d6846576249"
+        name="Image"
+        targetConnections="id-c23dee4f43f447609cdb11db2610a35c"
+        imagePath="images/_DR4NgHYbEeuy8b2PHkkv0Q.png">
+      <sourceConnections
+          xsi:type="canvas:CanvasModelConnection"
+          id="id-16923aed5abc4448952f8959174a3dce"
+          source="id-5f4d607990324ac885b16d6846576249"
+          target="id-8628f4502aba444bbded8ed9d1390147"
+          type="68"/>
+      <bounds
+          x="154"
+          y="240"
+          width="32"
+          height="20"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-a9ec4c73a2ba469ab1ada9692340067a"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        content="Konsument 3"
+        textPosition="2">
+      <bounds
+          x="577"
+          y="195"
+          width="97"
+          height="91"/>
+      <children
+          xsi:type="canvas:CanvasModelImage"
+          id="id-f3874a699e4047af9186253c126edb39"
+          name="Image"
+          targetConnections="id-852325400e3a4510b1c49fb37da25c0c"
+          imagePath="images/_knrs8HVdEeuy8b2PHkkv0Q.png">
+        <bounds
+            x="30"
+            y="24"
+            width="37"
+            height="49"/>
+      </children>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelImage"
+        id="id-35af9408b5a34e2f8dec680181f088c3"
+        name="Image"
+        targetConnections="id-e46eb17a3c65432ea595ea1d7d7b3220 id-86e6d2cce8174fcea5b4216767f65da0"
+        imagePath="images/_ekCAkHaeEeuy8b2PHkkv0Q.png">
+      <sourceConnections
+          xsi:type="canvas:CanvasModelConnection"
+          id="id-2b2539810fb4423a9fb7c2ecb6f39bcb"
+          source="id-35af9408b5a34e2f8dec680181f088c3"
+          target="id-c8809df3af7740369f37248e9aac97c6"
+          type="4"/>
+      <bounds
+          x="342"
+          y="182"
+          width="30"
+          height="20"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelImage"
+        id="id-5a651fbb2bca4f2dbc91c35460a0a3f1"
+        name="Image"
+        targetConnections="id-94b5330fa9f24214861a522c9b4a06ad id-d24873cce13c44e7af39ea2ca0f517c6 id-60ace3a3617f41ff86e4ec53b129155d"
+        imagePath="images/_ekCAkHaeEeuy8b2PHkkv0Q.png">
+      <sourceConnections
+          xsi:type="canvas:CanvasModelConnection"
+          id="id-e32f6321d15042009cb412917c13990f"
+          source="id-5a651fbb2bca4f2dbc91c35460a0a3f1"
+          target="id-e4e89c4a107e4c8093b07bc9dcbe70c8"
+          type="4">
+        <bendpoints
+            startX="4"
+            endX="-74"
+            endY="10"/>
+        <bendpoints
+            startX="70"
+            startY="-12"
+            endX="-8"
+            endY="-2"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="canvas:CanvasModelConnection"
+          id="id-e46eb17a3c65432ea595ea1d7d7b3220"
+          source="id-5a651fbb2bca4f2dbc91c35460a0a3f1"
+          target="id-35af9408b5a34e2f8dec680181f088c3"
+          type="4"/>
+      <bounds
+          x="265"
+          y="132"
+          width="30"
+          height="20"/>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-4e931eddf39d47c5baac72170feabf87"
+        textAlignment="1"
+        borderColor="#000000">
+      <features
+          name="lineAlpha"
+          value="50"/>
+      <sourceConnections
+          xsi:type="canvas:CanvasModelConnection"
+          id="id-1cd19337539440c4817acbc1d987885d"
+          source="id-4e931eddf39d47c5baac72170feabf87"
+          target="id-a280fde0797d48dcb3939ac4a2aa40ab"
+          type="68"/>
+      <bounds
+          x="477"
+          y="60"
+          width="72"
+          height="30"/>
+      <children
+          xsi:type="canvas:CanvasModelImage"
+          id="id-f270b5f2050d47db96e9410eb0119330"
+          name="Image"
+          imagePath="images/_FPnFgHYbEeuy8b2PHkkv0Q.png">
+        <bounds
+            x="37"
+            y="6"
+            width="32"
+            height="20"/>
+      </children>
+      <children
+          xsi:type="canvas:CanvasModelImage"
+          id="id-0e39aa05643e48dea055343ee971063f"
+          name="Image"
+          targetConnections="id-f5cf0f553a1b4c449c5fc5fd4a5605a2"
+          imagePath="images/_EGF4sHYbEeuy8b2PHkkv0Q.png">
+        <bounds
+            x="6"
+            y="6"
+            width="32"
+            height="20"/>
+      </children>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelBlock"
+        id="id-f4d8ba270a9f455f9e66ac16d47ec7f9"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        content="Konsument 2"
+        textPosition="2">
+      <bounds
+          x="577"
+          y="111"
+          width="97"
+          height="91"/>
+      <children
+          xsi:type="canvas:CanvasModelImage"
+          id="id-cfcf81c526f24b6abd35fa7154f45461"
+          name="Image"
+          targetConnections="id-cd070c34b47c4686b3e81c1e5aaf8f7c"
+          imagePath="images/_knrs8HVdEeuy8b2PHkkv0Q.png">
+        <bounds
+            x="30"
+            y="24"
+            width="37"
+            height="49"/>
+      </children>
+    </children>
+    <children
+        xsi:type="canvas:CanvasModelImage"
+        id="id-bc62fdfb35564548b4732e3cb4353243"
+        name="Image"
+        targetConnections="id-a899e71122cb4ca39c5f7d933fc95455"
+        imagePath="images/_FPnFgHYbEeuy8b2PHkkv0Q.png">
+      <sourceConnections
+          xsi:type="canvas:CanvasModelConnection"
+          id="id-d24873cce13c44e7af39ea2ca0f517c6"
+          source="id-bc62fdfb35564548b4732e3cb4353243"
+          target="id-5a651fbb2bca4f2dbc91c35460a0a3f1"
+          type="68"/>
+      <bounds
+          x="145"
+          y="195"
+          width="32"
+          height="20"/>
     </children>
   </children>
   <children
@@ -1285,152 +1240,10 @@
       borderColor="#C0C0C0"
       textPosition="1">
     <bounds
-        x="1264"
-        y="270"
+        x="1274"
+        y="306"
         width="153"
         height="63"/>
-  </children>
-  <children
-      xsi:type="canvas:CanvasModelBlock"
-      id="id-a52f76dd04054c4f8eed967040329dfa"
-      font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-      content="Tilbyder 1"
-      textPosition="2">
-    <bounds
-        x="1560"
-        y="99"
-        width="82"
-        height="91"/>
-    <children
-        xsi:type="canvas:CanvasModelImage"
-        id="id-bded518adb9e4bc9a7ef9ab6827e8551"
-        name="Image"
-        imagePath="images/_fHOVEHVdEeuy8b2PHkkv0Q.png">
-      <sourceConnections
-          xsi:type="canvas:CanvasModelConnection"
-          id="id-faa2c22463494259a14ce6952d5edd71"
-          source="id-bded518adb9e4bc9a7ef9ab6827e8551"
-          target="id-b5ed3fb629f640a2925af38a8a1f8bee"
-          type="4"/>
-      <sourceConnections
-          xsi:type="canvas:CanvasModelConnection"
-          id="id-fdade796bbfb43699450cc4872751b04"
-          source="id-bded518adb9e4bc9a7ef9ab6827e8551"
-          target="id-313b9078688c4ff8abefb93656c2c8f8"
-          type="4"/>
-      <bounds
-          x="24"
-          y="18"
-          width="37"
-          height="49"/>
-    </children>
-  </children>
-  <children
-      xsi:type="canvas:CanvasModelImage"
-      id="id-313b9078688c4ff8abefb93656c2c8f8"
-      name="Image"
-      targetConnections="id-fdade796bbfb43699450cc4872751b04"
-      imagePath="images/_E8dgAHYbEeuy8b2PHkkv0Q.png">
-    <sourceConnections
-        xsi:type="canvas:CanvasModelConnection"
-        id="id-9caf4015b23c468abcfd8180cf83758c"
-        source="id-313b9078688c4ff8abefb93656c2c8f8"
-        target="id-8628f4502aba444bbded8ed9d1390147"
-        type="68"/>
-    <bounds
-        x="1670"
-        y="203"
-        width="32"
-        height="20"/>
-  </children>
-  <children
-      xsi:type="canvas:CanvasModelImage"
-      id="id-bc62fdfb35564548b4732e3cb4353243"
-      name="Image"
-      targetConnections="id-a899e71122cb4ca39c5f7d933fc95455"
-      imagePath="images/_FPnFgHYbEeuy8b2PHkkv0Q.png">
-    <sourceConnections
-        xsi:type="canvas:CanvasModelConnection"
-        id="id-d24873cce13c44e7af39ea2ca0f517c6"
-        source="id-bc62fdfb35564548b4732e3cb4353243"
-        target="id-5a651fbb2bca4f2dbc91c35460a0a3f1"
-        type="68"/>
-    <bounds
-        x="1692"
-        y="246"
-        width="32"
-        height="20"/>
-  </children>
-  <children
-      xsi:type="canvas:CanvasModelImage"
-      id="id-b5ed3fb629f640a2925af38a8a1f8bee"
-      name="Image"
-      targetConnections="id-faa2c22463494259a14ce6952d5edd71"
-      imagePath="images/_EGF4sHYbEeuy8b2PHkkv0Q.png">
-    <sourceConnections
-        xsi:type="canvas:CanvasModelConnection"
-        id="id-94b5330fa9f24214861a522c9b4a06ad"
-        source="id-b5ed3fb629f640a2925af38a8a1f8bee"
-        target="id-5a651fbb2bca4f2dbc91c35460a0a3f1"
-        type="68"/>
-    <bounds
-        x="1661"
-        y="146"
-        width="32"
-        height="20"/>
-  </children>
-  <children
-      xsi:type="canvas:CanvasModelImage"
-      id="id-5f4d607990324ac885b16d6846576249"
-      name="Image"
-      targetConnections="id-c23dee4f43f447609cdb11db2610a35c"
-      imagePath="images/_DR4NgHYbEeuy8b2PHkkv0Q.png">
-    <sourceConnections
-        xsi:type="canvas:CanvasModelConnection"
-        id="id-16923aed5abc4448952f8959174a3dce"
-        source="id-5f4d607990324ac885b16d6846576249"
-        target="id-8628f4502aba444bbded8ed9d1390147"
-        type="68"/>
-    <bounds
-        x="1701"
-        y="291"
-        width="32"
-        height="20"/>
-  </children>
-  <children
-      xsi:type="canvas:CanvasModelBlock"
-      id="id-d876cca4fe084fa3981f381a6f97129c"
-      font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-      content="Tilbyder 2"
-      textPosition="2">
-    <bounds
-        x="1552"
-        y="208"
-        width="97"
-        height="91"/>
-    <children
-        xsi:type="canvas:CanvasModelImage"
-        id="id-2dcdda01ecb64fcfb0f18b4fcc71641f"
-        name="Image"
-        imagePath="images/_fHOVEHVdEeuy8b2PHkkv0Q.png">
-      <sourceConnections
-          xsi:type="canvas:CanvasModelConnection"
-          id="id-c23dee4f43f447609cdb11db2610a35c"
-          source="id-2dcdda01ecb64fcfb0f18b4fcc71641f"
-          target="id-5f4d607990324ac885b16d6846576249"
-          type="4"/>
-      <sourceConnections
-          xsi:type="canvas:CanvasModelConnection"
-          id="id-a899e71122cb4ca39c5f7d933fc95455"
-          source="id-2dcdda01ecb64fcfb0f18b4fcc71641f"
-          target="id-bc62fdfb35564548b4732e3cb4353243"
-          type="4"/>
-      <bounds
-          x="30"
-          y="18"
-          width="37"
-          height="49"/>
-    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelSticky"
@@ -1440,232 +1253,91 @@
       borderColor="#C0C0C0"
       textPosition="1">
     <bounds
-        x="1275"
-        y="367"
+        x="210"
+        y="558"
         width="75"
         height="63"/>
   </children>
   <children
-      xsi:type="canvas:CanvasModelBlock"
-      id="id-f4d8ba270a9f455f9e66ac16d47ec7f9"
-      font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-      content="Konsument 2"
-      textPosition="2">
+      xsi:type="canvas:CanvasModelImage"
+      id="id-7b5fe6455e38478e9966d6bdf47aafd3"
+      name="Image"
+      imagePath="images/_Z2oXUHbgEeuy8b2PHkkv0Q.png">
     <bounds
-        x="2124"
-        y="162"
-        width="97"
-        height="91"/>
-    <children
-        xsi:type="canvas:CanvasModelImage"
-        id="id-cfcf81c526f24b6abd35fa7154f45461"
-        name="Image"
-        targetConnections="id-cd070c34b47c4686b3e81c1e5aaf8f7c"
-        imagePath="images/_knrs8HVdEeuy8b2PHkkv0Q.png">
-      <bounds
-          x="30"
-          y="24"
-          width="37"
-          height="49"/>
-    </children>
+        x="636"
+        y="32"
+        width="26"
+        height="29"/>
   </children>
   <children
-      xsi:type="canvas:CanvasModelBlock"
-      id="id-c71e84cd408747dc8b4f08806e0fdd8d"
-      font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-      content="Konsument 1"
-      textPosition="2">
-    <bounds
-        x="2129"
-        y="69"
-        width="97"
-        height="91"/>
-    <children
-        xsi:type="canvas:CanvasModelImage"
-        id="id-a280fde0797d48dcb3939ac4a2aa40ab"
-        name="Image"
-        targetConnections="id-1cd19337539440c4817acbc1d987885d"
-        imagePath="images/_knrs8HVdEeuy8b2PHkkv0Q.png">
-      <bounds
-          x="24"
-          y="24"
-          width="37"
-          height="49"/>
-    </children>
-  </children>
-  <children
-      xsi:type="canvas:CanvasModelBlock"
-      id="id-a9ec4c73a2ba469ab1ada9692340067a"
-      font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-      content="Konsument 3"
-      textPosition="2">
-    <bounds
-        x="2124"
-        y="246"
-        width="97"
-        height="91"/>
-    <children
-        xsi:type="canvas:CanvasModelImage"
-        id="id-f3874a699e4047af9186253c126edb39"
-        name="Image"
-        targetConnections="id-852325400e3a4510b1c49fb37da25c0c"
-        imagePath="images/_knrs8HVdEeuy8b2PHkkv0Q.png">
-      <bounds
-          x="30"
-          y="24"
-          width="37"
-          height="49"/>
-    </children>
-  </children>
-  <children
-      xsi:type="canvas:CanvasModelBlock"
-      id="id-168e4a46ca064f7a90f093bb03ef76de"
-      textAlignment="1"
-      borderColor="#000000">
-    <features
-        name="lineAlpha"
-        value="50"/>
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-269f3d2f04ca4dc8925cbfd26906594a"
+      fillColor="#ffff95"
+      content="Topic"
+      borderColor="#C0C0C0"
+      textPosition="1">
     <sourceConnections
         xsi:type="canvas:CanvasModelConnection"
-        id="id-852325400e3a4510b1c49fb37da25c0c"
-        source="id-168e4a46ca064f7a90f093bb03ef76de"
-        target="id-f3874a699e4047af9186253c126edb39"
-        type="68"/>
+        id="id-60ace3a3617f41ff86e4ec53b129155d"
+        source="id-269f3d2f04ca4dc8925cbfd26906594a"
+        target="id-5a651fbb2bca4f2dbc91c35460a0a3f1"/>
     <bounds
-        x="1992"
-        y="287"
-        width="138"
-        height="30"/>
-    <children
-        xsi:type="canvas:CanvasModelImage"
-        id="id-c1981aff8e4d41ddbc2ae4c49701b5e5"
-        name="Image"
-        imagePath="images/_E8dgAHYbEeuy8b2PHkkv0Q.png">
-      <bounds
-          x="37"
-          y="6"
-          width="32"
-          height="20"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelImage"
-        id="id-008673e7a0bd4a42b29d9ad3957dbbe6"
-        name="Image"
-        imagePath="images/_FPnFgHYbEeuy8b2PHkkv0Q.png">
-      <bounds
-          x="68"
-          y="6"
-          width="32"
-          height="20"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelImage"
-        id="id-c8809df3af7740369f37248e9aac97c6"
-        name="Image"
-        targetConnections="id-2b2539810fb4423a9fb7c2ecb6f39bcb"
-        imagePath="images/_EGF4sHYbEeuy8b2PHkkv0Q.png">
-      <bounds
-          x="6"
-          y="6"
-          width="32"
-          height="20"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelImage"
-        id="id-b4630debda094f1cbc97d834c7fdc729"
-        name="Image"
-        imagePath="images/_DR4NgHYbEeuy8b2PHkkv0Q.png">
-      <bounds
-          x="99"
-          y="6"
-          width="32"
-          height="20"/>
-    </children>
+        x="786"
+        y="66"
+        width="75"
+        height="63"/>
   </children>
   <children
-      xsi:type="canvas:CanvasModelBlock"
-      id="id-c43416a2a2324c33994ab3388be97820"
-      textAlignment="1"
-      borderColor="#000000">
-    <features
-        name="lineAlpha"
-        value="50"/>
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-0ab09b820cd5401dbaf121461d7d9636"
+      fillColor="#ffff95"
+      content="Channel"
+      borderColor="#C0C0C0"
+      textPosition="1">
     <sourceConnections
         xsi:type="canvas:CanvasModelConnection"
-        id="id-cd070c34b47c4686b3e81c1e5aaf8f7c"
-        source="id-c43416a2a2324c33994ab3388be97820"
-        target="id-cfcf81c526f24b6abd35fa7154f45461"
-        type="68"/>
+        id="id-25b64ba88514444784582fe989f17115"
+        source="id-0ab09b820cd5401dbaf121461d7d9636"
+        target="id-e4e89c4a107e4c8093b07bc9dcbe70c8"/>
     <bounds
-        x="2023"
-        y="198"
-        width="76"
-        height="30"/>
-    <children
-        xsi:type="canvas:CanvasModelImage"
-        id="id-612810e3f6ee4dbe91ee65bb74df4c8c"
-        name="Image"
-        targetConnections="id-236d85370dac4cf396c59641682b5a12"
-        imagePath="images/_E8dgAHYbEeuy8b2PHkkv0Q.png">
-      <bounds
-          x="7"
-          y="6"
-          width="32"
-          height="20"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelImage"
-        id="id-5af1aded9e834f1fad2a136cdaee309b"
-        name="Image"
-        imagePath="images/_DR4NgHYbEeuy8b2PHkkv0Q.png">
-      <bounds
-          x="38"
-          y="6"
-          width="32"
-          height="20"/>
-    </children>
+        x="951"
+        y="71"
+        width="75"
+        height="63"/>
   </children>
   <children
-      xsi:type="canvas:CanvasModelBlock"
-      id="id-4e931eddf39d47c5baac72170feabf87"
-      textAlignment="1"
-      borderColor="#000000">
-    <features
-        name="lineAlpha"
-        value="50"/>
-    <sourceConnections
-        xsi:type="canvas:CanvasModelConnection"
-        id="id-1cd19337539440c4817acbc1d987885d"
-        source="id-4e931eddf39d47c5baac72170feabf87"
-        target="id-a280fde0797d48dcb3939ac4a2aa40ab"
-        type="68"/>
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-873e683828554ac088d14b14c2e790f7"
+      fillColor="#ffff95"
+      content="Subject"
+      borderColor="#C0C0C0"
+      textPosition="1">
     <bounds
-        x="2024"
-        y="111"
-        width="72"
-        height="30"/>
-    <children
-        xsi:type="canvas:CanvasModelImage"
-        id="id-f270b5f2050d47db96e9410eb0119330"
-        name="Image"
-        imagePath="images/_FPnFgHYbEeuy8b2PHkkv0Q.png">
-      <bounds
-          x="37"
-          y="6"
-          width="32"
-          height="20"/>
-    </children>
-    <children
-        xsi:type="canvas:CanvasModelImage"
-        id="id-0e39aa05643e48dea055343ee971063f"
-        name="Image"
-        targetConnections="id-f5cf0f553a1b4c449c5fc5fd4a5605a2"
-        imagePath="images/_EGF4sHYbEeuy8b2PHkkv0Q.png">
-      <bounds
-          x="6"
-          y="6"
-          width="32"
-          height="20"/>
-    </children>
+        x="640"
+        y="94"
+        width="75"
+        height="63"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelImage"
+      id="id-e48b358e8f05436a8d4c3d336274f5bd"
+      name="Image"
+      imagePath="images/_sX3GoHYLEeuy8b2PHkkv0Q.png">
+    <bounds
+        x="1197"
+        y="85"
+        width="25"
+        height="28"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelImage"
+      id="id-a755c3507f384b2fa892d9839bfff4ec"
+      name="Image"
+      imagePath="images/_r91LwHgpEeuy8b2PHkkv0Q.png">
+    <bounds
+        x="552"
+        y="84"
+        width="25"
+        height="28"/>
   </children>
 </canvas:CanvasModel>
