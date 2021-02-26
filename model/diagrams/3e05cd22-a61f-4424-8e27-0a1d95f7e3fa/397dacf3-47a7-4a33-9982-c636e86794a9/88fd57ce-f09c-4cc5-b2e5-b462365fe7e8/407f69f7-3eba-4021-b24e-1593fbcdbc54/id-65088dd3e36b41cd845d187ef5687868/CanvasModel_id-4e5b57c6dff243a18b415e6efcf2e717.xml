@@ -153,7 +153,8 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-2a689225f5d64e45a161988adaebd706">
+        id="id-2a689225f5d64e45a161988adaebd706"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI">
       <features
           name="gradient"
           value="1"/>
@@ -164,20 +165,6 @@
       <referencedModel
           xsi:type="canvas:CanvasModel"
           href="CanvasModel_id-c8421d62726d410fb0570e53dd18d5f2.xml#id-c8421d62726d410fb0570e53dd18d5f2"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-f4648a79252f441dacf6b9af21e6b600"
-        font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI">
-      <features
-          name="gradient"
-          value="1"/>
-      <bounds
-          width="297"
-          height="25"/>
-      <referencedModel
-          xsi:type="canvas:CanvasModel"
-          href="CanvasModel_id-16f6c702e4a044c5bb35f5980bf8a36f.xml#id-16f6c702e4a044c5bb35f5980bf8a36f"/>
     </children>
   </children>
   <children
@@ -279,7 +266,8 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-1120881c7b324be1a2bda26fa9e2a64a">
+        id="id-1120881c7b324be1a2bda26fa9e2a64a"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI">
       <features
           name="gradient"
           value="1"/>
@@ -392,7 +380,8 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-2e7cd033fc014a1985d3a92af2023775">
+        id="id-2e7cd033fc014a1985d3a92af2023775"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI">
       <features
           name="gradient"
           value="1"/>
@@ -648,7 +637,8 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-36719c1a53b04707970e0e6c3ddcff5f">
+        id="id-36719c1a53b04707970e0e6c3ddcff5f"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI">
       <features
           name="gradient"
           value="1"/>
@@ -809,7 +799,9 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-47f45953bc04479da0be2dc54686cf69">
+        id="id-47f45953bc04479da0be2dc54686cf69"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#ff0000">
       <features
           name="gradient"
           value="1"/>
@@ -957,6 +949,33 @@
           width="36"
           height="26"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-9646d805854b49b2b2e2b0f54c7d8496">
+      <features
+          name="gradient"
+          value="1"/>
+      <bounds
+          width="297"
+          height="25"/>
+      <referencedModel
+          xsi:type="canvas:CanvasModel"
+          href="CanvasModel_id-16f6c702e4a044c5bb35f5980bf8a36f.xml#id-16f6c702e4a044c5bb35f5980bf8a36f"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-f4648a79252f441dacf6b9af21e6b600"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI">
+      <features
+          name="gradient"
+          value="1"/>
+      <bounds
+          width="297"
+          height="25"/>
+      <referencedModel
+          xsi:type="canvas:CanvasModel"
+          href="CanvasModel_id-16f6c702e4a044c5bb35f5980bf8a36f.xml#id-16f6c702e4a044c5bb35f5980bf8a36f"/>
+    </children>
   </children>
   <children
       xsi:type="canvas:CanvasModelBlock"
@@ -1057,7 +1076,8 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-02eeae3743b14664bec8c8e870057763">
+        id="id-02eeae3743b14664bec8c8e870057763"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI">
       <features
           name="gradient"
           value="1"/>
@@ -1168,7 +1188,9 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-414f1ff78be845f59ce5b51cafd25b07">
+        id="id-414f1ff78be845f59ce5b51cafd25b07"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#ff0000">
       <features
           name="gradient"
           value="1"/>
@@ -1340,7 +1362,8 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-ae0bdb6775064dc0a054aa85a254eb96">
+        id="id-c770dcf84725440eaf3628a2a1a1b260"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI">
       <features
           name="gradient"
           value="1"/>
@@ -1350,7 +1373,7 @@
           height="25"/>
       <referencedModel
           xsi:type="canvas:CanvasModel"
-          href="CanvasModel_id-b158a73418744ef981e729a7f085a315.xml#id-b158a73418744ef981e729a7f085a315"/>
+          href="CanvasModel_id-66878301228d47c989a04917520de300.xml#id-66878301228d47c989a04917520de300"/>
     </children>
   </children>
   <children
@@ -1505,7 +1528,8 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-1c25f7c76f4444b9a7eb51f928a33634">
+        id="id-1c25f7c76f4444b9a7eb51f928a33634"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI">
       <features
           name="gradient"
           value="1"/>
@@ -1656,7 +1680,9 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-775b9f5ce8244738bcda11b7b24f33d1">
+        id="id-775b9f5ce8244738bcda11b7b24f33d1"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#ff0000">
       <features
           name="gradient"
           value="1"/>
@@ -1925,7 +1951,9 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-9f9b234169734889a56da7f68eb116d8">
+        id="id-9f9b234169734889a56da7f68eb116d8"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+        fontColor="#ff0000">
       <features
           name="gradient"
           value="1"/>
@@ -2193,7 +2221,8 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-b94996e8fbb44cfdbfece43ac4a94468">
+        id="id-b94996e8fbb44cfdbfece43ac4a94468"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI">
       <features
           name="gradient"
           value="1"/>
@@ -2366,7 +2395,8 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-5bf460a5dccc42a59c4ba5a175319c08">
+        id="id-5bf460a5dccc42a59c4ba5a175319c08"
+        font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI">
       <features
           name="gradient"
           value="1"/>

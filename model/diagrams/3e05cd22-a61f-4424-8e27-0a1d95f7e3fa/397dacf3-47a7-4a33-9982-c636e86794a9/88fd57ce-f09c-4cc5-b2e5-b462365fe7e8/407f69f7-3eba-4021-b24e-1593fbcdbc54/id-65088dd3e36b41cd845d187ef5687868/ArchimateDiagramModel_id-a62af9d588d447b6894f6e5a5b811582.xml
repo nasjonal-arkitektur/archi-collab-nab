@@ -12,8 +12,8 @@
         name="gradient"
         value="1"/>
     <bounds
-        x="100"
-        y="60"
+        x="72"
+        y="120"
         width="137"
         height="71"/>
     <referencedModel
@@ -28,8 +28,8 @@
         name="gradient"
         value="1"/>
     <bounds
-        x="105"
-        y="155"
+        x="72"
+        y="203"
         width="137"
         height="71"/>
     <referencedModel
@@ -44,8 +44,8 @@
         name="gradient"
         value="1"/>
     <bounds
-        x="256"
-        y="155"
+        x="223"
+        y="203"
         width="137"
         height="71"/>
     <referencedModel
@@ -60,8 +60,8 @@
         name="gradient"
         value="1"/>
     <bounds
-        x="410"
-        y="155"
+        x="377"
+        y="203"
         width="137"
         height="71"/>
     <referencedModel
@@ -76,8 +76,8 @@
         name="gradient"
         value="1"/>
     <bounds
-        x="560"
-        y="155"
+        x="527"
+        y="203"
         width="137"
         height="71"/>
     <referencedModel
@@ -92,8 +92,8 @@
         name="gradient"
         value="1"/>
     <bounds
-        x="710"
-        y="155"
+        x="677"
+        y="203"
         width="137"
         height="71"/>
     <referencedModel
@@ -108,8 +108,8 @@
         name="gradient"
         value="1"/>
     <bounds
-        x="860"
-        y="155"
+        x="827"
+        y="203"
         width="137"
         height="71"/>
     <referencedModel
@@ -124,8 +124,8 @@
         name="gradient"
         value="1"/>
     <bounds
-        x="105"
-        y="232"
+        x="72"
+        y="280"
         width="137"
         height="71"/>
     <referencedModel
@@ -140,8 +140,8 @@
         name="gradient"
         value="1"/>
     <bounds
-        x="256"
-        y="232"
+        x="223"
+        y="280"
         width="137"
         height="71"/>
     <referencedModel
@@ -156,8 +156,8 @@
         name="gradient"
         value="1"/>
     <bounds
-        x="410"
-        y="232"
+        x="377"
+        y="280"
         width="137"
         height="71"/>
     <referencedModel
@@ -172,8 +172,8 @@
         name="gradient"
         value="1"/>
     <bounds
-        x="560"
-        y="232"
+        x="527"
+        y="280"
         width="137"
         height="71"/>
     <referencedModel
@@ -188,8 +188,8 @@
         name="gradient"
         value="1"/>
     <bounds
-        x="710"
-        y="232"
+        x="677"
+        y="280"
         width="137"
         height="71"/>
     <referencedModel
@@ -204,8 +204,8 @@
         name="gradient"
         value="1"/>
     <bounds
-        x="860"
-        y="232"
+        x="827"
+        y="280"
         width="137"
         height="71"/>
     <referencedModel
@@ -220,8 +220,8 @@
         name="gradient"
         value="1"/>
     <bounds
-        x="105"
-        y="310"
+        x="72"
+        y="358"
         width="137"
         height="71"/>
     <referencedModel
@@ -236,8 +236,8 @@
         name="gradient"
         value="1"/>
     <bounds
-        x="256"
-        y="310"
+        x="223"
+        y="358"
         width="137"
         height="71"/>
     <referencedModel
