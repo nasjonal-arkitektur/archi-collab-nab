@@ -1,0 +1,22 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="asdasd"
+    id="id-4a546eecedc54d47bc5f983ca3f98014">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-d2f9c1f1ee224c10a19bcdd06b633062"
+      textPosition="1">
+    <features
+        name="gradient"
+        value="1"/>
+    <bounds
+        x="132"
+        y="154"
+        width="137"
+        height="71"/>
+    <archimateElement
+        xsi:type="archimate:Contract"
+        href="Contract_id-a8f0b10a2f294bbfb521b066df131aa9.xml#id-a8f0b10a2f294bbfb521b066df131aa9"/>
+  </children>
+</archimate:ArchimateDiagramModel>

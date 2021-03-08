@@ -64,6 +64,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="9580d03a-885e-437e-8eb1-c3d2d5d6d964"
+      targetConnections="id-5d5bf6fd99084a61b9ca61d185004bfb"
       lineColor="#5c5c5c"
       fillColor="#f5deaa"
       textPosition="1"
@@ -135,7 +136,7 @@
           href="CompositionRelationship_e7cf1cc8-0afe-4c9c-90fc-4b24417a516e.xml#e7cf1cc8-0afe-4c9c-90fc-4b24417a516e"/>
     </sourceConnections>
     <bounds
-        x="179"
+        x="174"
         y="-36"
         width="745"
         height="145"/>
@@ -170,6 +171,15 @@
       <features
           name="gradient"
           value="1"/>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="id-5d5bf6fd99084a61b9ca61d185004bfb"
+          source="0f9078bb-cb2f-475f-bfc2-11352a78b801"
+          target="9580d03a-885e-437e-8eb1-c3d2d5d6d964">
+        <archimateRelationship
+            xsi:type="archimate:ServingRelationship"
+            href="ServingRelationship_id-0933f5f43d304dbfb725f98d465a9937.xml#id-0933f5f43d304dbfb725f98d465a9937"/>
+      </sourceConnections>
       <bounds
           x="552"
           y="36"
@@ -222,7 +232,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="545d65e5-bd63-4443-b181-be26d8714edd"
-        targetConnections="c433a532-c076-4a24-ad8a-1d0c9122c9f9"
+        targetConnections="c433a532-c076-4a24-ad8a-1d0c9122c9f9 id-1e2deb3768504e9ba56cc212d2b2c789"
         lineColor="#5c5c5c"
         fillColor="#f5deaa"
         textPosition="1"
@@ -253,6 +263,15 @@
     <features
         name="gradient"
         value="1"/>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-1e2deb3768504e9ba56cc212d2b2c789"
+        source="e3ffd1ed-9859-4524-a18b-c2f89d5f64a8"
+        target="545d65e5-bd63-4443-b181-be26d8714edd">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-83ac43a77ac5494ea3c42d65e083bb8c.xml#id-83ac43a77ac5494ea3c42d65e083bb8c"/>
+    </sourceConnections>
     <bounds
         x="182"
         y="288"

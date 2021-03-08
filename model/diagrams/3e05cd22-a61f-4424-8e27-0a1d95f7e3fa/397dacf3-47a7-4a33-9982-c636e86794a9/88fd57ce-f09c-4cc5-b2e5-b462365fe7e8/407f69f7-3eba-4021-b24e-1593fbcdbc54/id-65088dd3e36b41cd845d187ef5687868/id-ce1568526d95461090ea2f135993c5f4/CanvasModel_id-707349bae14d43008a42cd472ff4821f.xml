@@ -129,7 +129,7 @@
         xsi:type="canvas:CanvasModelBlock"
         id="id-cb5f82d33cd24e32b18a40fa24b705ac"
         font="1|Segoe UI|9.0|1|WINDOWS|1|-15|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
-        content="En kjent &#xD;&#xA;mottaker"
+        content="Mottaker (kjent part)"
         textPosition="2">
       <bounds
           x="390"
@@ -373,5 +373,18 @@
             height="20"/>
       </children>
     </children>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-791d2ecf5d3a4c3f9e8622fa8cd2086d"
+      fillColor="#ffff95"
+      content="Eksempel: Innraportering til Skatt via altinn"
+      borderColor="#C0C0C0"
+      textPosition="1">
+    <bounds
+        x="348"
+        y="12"
+        width="127"
+        height="79"/>
   </children>
 </canvas:CanvasModel>

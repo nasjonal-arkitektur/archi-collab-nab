@@ -1110,4 +1110,15 @@
         width="128"
         height="128"/>
   </children>
+  <children
+      xsi:type="canvas:CanvasModelImage"
+      id="id-a6e1495d6ca24a6f867b3eef9db6d44f"
+      name="Image"
+      imagePath="images/_V83PYHogEeuvFqF6cG0nwQ.png">
+    <bounds
+        x="1062"
+        y="149"
+        width="451"
+        height="364"/>
+  </children>
 </canvas:CanvasModel>
